@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag on My New Hugo Project</title>
-    <link>http://localhost:1313/tag/</link>
-    <description>Recent content in Tag on My New Hugo Project</description>
+    <title>Tag on Tu Cultivo en Casa</title>
+    <link>https://example.org/tag/</link>
+    <description>Recent content in Tag on Tu Cultivo en Casa</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hortalizas</title>
+      <link>https://example.org/tag/hortalizas/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tag/hortalizas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huerto Urbano</title>
+      <link>https://example.org/tag/huerto-urbano/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tag/huerto-urbano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mayo</title>
+      <link>https://example.org/tag/mayo/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tag/mayo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Siembra</title>
+      <link>https://example.org/tag/siembra/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tag/siembra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zanahorias</title>
+      <link>https://example.org/tag/zanahorias/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tag/zanahorias/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

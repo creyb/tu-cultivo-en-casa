@@ -2,17 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/mi-primer-post/</loc>
-    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categoria/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+    <loc>https://example.org/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+    <loc>https://example.org/huerto-urbano/cultivar-zanahorias-en-mayo/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categoria/</loc>
+    <loc>https://example.org/guias-cultivo/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/</loc>
+    <loc>https://example.org/tag/hortalizas/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/huerto-urbano/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categoria/huerto-urbano/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tag/huerto-urbano/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tag/mayo/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tag/siembra/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tag/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tag/zanahorias/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>

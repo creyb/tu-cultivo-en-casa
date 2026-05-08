@@ -1,7 +1,11 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = "ananke"
+locale = 'es-es'
+title = 'Tu Cultivo en Casa'
+
+
+[params]
+mainSections = ["guias-cultivo", "huerto-urbano", "cuidado-mantenimiento", "reviews-productos"]
+
 [taxonomies]
 category = "categoria"
 tag = "tag"

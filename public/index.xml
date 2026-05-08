@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <title>Tu Cultivo en Casa</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Tu Cultivo en Casa</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mi primer post</title>
-      <link>http://localhost:1313/posts/mi-primer-post/</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
-      <description>&lt;p&gt;Esto es el inicio del blog. Probando.&lt;/p&gt;</description>
+      <title>Cómo cultivar tomates cherry en maceta en tu terraza: Guía completa paso a paso para principiantes</title>
+      <link>https://example.org/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</guid>
+      <description>&lt;h2 id=&#34;y-si-pudieras-cosechar-tus-propios-tomates-cherry-en-casa-&#34;&gt;¿Y si pudieras cosechar tus propios tomates cherry en casa? 🍅&lt;/h2&gt;&#xA;&lt;p&gt;Imagina esto: es una tarde calurosa de verano, abres la puerta de tu terraza y te encuentras con un racimo de tomates cherry rojos, brillantes y cargados de sabor. Los recoges en el momento exacto y los echas en una ensalada fresca. No necesitas una hectárea de campo, ni haber nacido en una familia de agricultores, ni tener un presupuesto enorme. Solo necesitas un poco de sol, una maceta y la curiosidad de ver crecer algo con tus propias manos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cultivar zanahorias en mayo: guía completa para huerto urbano</title>
+      <link>https://example.org/huerto-urbano/cultivar-zanahorias-en-mayo/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/huerto-urbano/cultivar-zanahorias-en-mayo/</guid>
+      <description>&lt;h1 id=&#34;cultivar-zanahorias-en-mayo-guía-completa-para-huerto-urbano&#34;&gt;Cultivar zanahorias en mayo: guía completa para huerto urbano&lt;/h1&gt;&#xA;&lt;p&gt;Mayo es un mes muy interesante para &lt;strong&gt;cultivar zanahorias&lt;/strong&gt; en el huerto urbano. En muchas zonas de España, la temperatura ya acompaña, los días son más largos y el crecimiento se acelera. Eso sí, la zanahoria tiene sus manías: necesita un sustrato fino, profundo y sin piedras, riegos constantes y una siembra bien hecha desde el principio.&lt;/p&gt;&#xA;&lt;p&gt;Si quieres lograr zanahorias rectas, dulces y tiernas, este artículo te ayudará a planificar la siembra de mayo con buen criterio. Verás qué variedad elegir, cómo preparar la maceta o mesa de cultivo, cuándo sembrar, cómo aclarar plantones y qué errores evitar.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

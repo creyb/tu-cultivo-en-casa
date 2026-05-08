@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categoria on My New Hugo Project</title>
-    <link>http://localhost:1313/categoria/</link>
-    <description>Recent content in Categoria on My New Hugo Project</description>
+    <title>Categoria on Tu Cultivo en Casa</title>
+    <link>https://example.org/categoria/</link>
+    <description>Recent content in Categoria on Tu Cultivo en Casa</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/categoria/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/categoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huerto Urbano</title>
+      <link>https://example.org/categoria/huerto-urbano/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/categoria/huerto-urbano/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
