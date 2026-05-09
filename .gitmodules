@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
 [submodule "themes/papermod"]
 	path = themes/papermod
-	url = https://github.com/adityatelange/hugo-PaperMod
+	url = https://github.com/creyb/hugo-PaperMod.git
