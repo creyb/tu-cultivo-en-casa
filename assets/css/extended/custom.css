@@ -51,15 +51,17 @@ body, p, span, a {
     font-family: 'Metropolis', sans-serif !important;
 }
 
-/* Chips/Tags customization */
+/* Chips/Tags customization — architectural label style per DESIGN.md */
 .tag, .category-link, .chip {
-    background-color: rgba(139, 79, 53, 0.12) !important;
+    background-color: rgba(139, 79, 53, 0.15) !important;
     color: var(--color-secondary) !important;
     border: none !important;
-    border-radius: 1rem !important;
-    font-size: 0.75rem !important;
-    font-weight: 500 !important;
-    padding: 0.2rem 0.6rem !important;
+    border-radius: 0.25rem !important; /* soft corners, not pill */
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    padding: 0.25rem 0.5rem !important;
     display: inline-block !important;
 }
 
