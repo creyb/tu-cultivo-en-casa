@@ -13,7 +13,7 @@
   <!-- Categorías Rápidas -->
   <section class="categories-section">
     {{ range .Site.Params.mainSections }}
-      <a href="/{{ . }}" class="category-pill">
+      <a href="{{ . | relURL }}" class="category-pill">
         <span class="pill-icon">
           {{ if eq . "guias-cultivo" }}🌱
           {{ else if eq . "huerto-urbano" }}🏙️

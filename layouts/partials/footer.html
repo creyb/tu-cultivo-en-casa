@@ -10,7 +10,7 @@
             <div class="footer-col">
                 <ul>
                     {{- range site.Params.mainSections }}
-                    <li><a href="/{{ . }}">{{ . | humanize }}</a></li>
+                    <li><a href="{{ . | relURL }}">{{ . | humanize }}</a></li>
                     {{- end }}
                 </ul>
             </div>
