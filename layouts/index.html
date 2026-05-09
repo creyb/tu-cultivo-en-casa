@@ -43,8 +43,10 @@
       {{ range .Site.RegularPages }}
         <article class="post-card">
           {{ if .Params.cover }}
+            {{ $img := .Params.cover.image }}
+            {{ if hasPrefix $img "/" }}{{ $img = substr $img 1 }}{{ end }}
             <div class="card-image-wrapper">
-              <img src="{{ .Params.cover.image | relURL }}" alt="{{ .Params.cover.alt }}" class="card-image">
+              <img src="{{ $img | relURL }}" alt="{{ .Params.cover.alt | default .Title }}" class="card-image">
             </div>
           {{ end }}
           <div class="card-body">

@@ -9,10 +9,10 @@ disableThemeToggle = false
 
 [params.assets]
 disableCSS = false
-favicon = "/favicon.png"
-favicon16x16 = "/favicon.png"
-favicon32x32 = "/favicon.png"
-apple_touch_icon = "/favicon.png"
+favicon = "favicon.png"
+favicon16x16 = "favicon.png"
+favicon32x32 = "favicon.png"
+apple_touch_icon = "favicon.png"
 
 [taxonomies]
 category = "categoria"
