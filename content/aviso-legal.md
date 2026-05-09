@@ -9,10 +9,10 @@ hiddenInHomeList: true
 
 De conformidad con lo establecido en la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE), se facilitan los siguientes datos de identificación del titular de este sitio web:
 
-- **Titular:** [Tu Nombre Completo o Razón Social]
-- **NIF/CIF:** [Tu NIF o CIF]
-- **Dirección:** [Tu dirección postal]
-- **Correo electrónico:** [tu-email@ejemplo.com]
+- **Titular:** Carlos Enrique Reyes Bueno
+- **NIF/CIF:** 76428581H
+- **Dirección:** Calle Carlos Cano, 4, Vélez-Málaga 29700
+- **Correo electrónico:** creyesbueno+tucultivo@gmail.com
 - **Sitio web:** https://tucultivoencasa.com
 
 ## 2. Objeto
