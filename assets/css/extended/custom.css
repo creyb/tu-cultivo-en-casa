@@ -464,35 +464,28 @@ body, p, span, a {
 /* Categories Section */
 .categories-section {
     display: flex !important;
-    flex-wrap: nowrap !important;
+    flex-wrap: wrap !important;
     justify-content: center !important;
     gap: 0.75rem !important;
     padding: 1rem 1.5rem !important;
     margin-bottom: 2.5rem !important;
-    overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch !important;
-    scrollbar-width: none !important;
-}
-
-.categories-section::-webkit-scrollbar {
-    display: none !important;
 }
 
 .category-pill {
     display: inline-flex !important;
     align-items: center !important;
     gap: 0.5rem !important;
-    padding: 0.6rem 1.8rem !important;
+    padding: 0.75rem 1.5rem !important;
     background: var(--color-surface) !important;
     border: 1px solid var(--color-outline) !important;
-    border-radius: 1.5rem !important;
+    border-radius: 9999px !important;
     text-decoration: none !important;
     color: var(--color-primary) !important;
     font-size: 0.9rem !important;
     transition: all 0.2s ease !important;
     white-space: nowrap !important;
     line-height: 1 !important;
-    overflow: visible !important;
+    flex-shrink: 0 !important;
 }
 
 .category-pill:hover {
@@ -502,7 +495,7 @@ body, p, span, a {
 }
 
 .pill-icon {
-    font-size: 0.85rem !important;
+    font-size: 1rem !important;
     line-height: 1 !important;
     display: flex !important;
     align-items: center !important;
@@ -651,11 +644,10 @@ body, p, span, a {
         align-items: center !important;
         padding: 1rem !important;
         gap: 0.5rem !important;
-        overflow-x: visible !important;
     }
 
     .category-pill {
-        padding: 0.7rem 1.2rem !important;
+        padding: 0.75rem 1.5rem !important;
         font-size: 0.9rem !important;
         width: auto !important;
         max-width: 90% !important;
