@@ -40,7 +40,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://creyb.github.io/tu-cultivo-en-casa/"
+            --baseURL "https://tucultivoencasa.com/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
