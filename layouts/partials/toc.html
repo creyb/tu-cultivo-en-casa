@@ -1,12 +1,44 @@
 {{- $toc := .TableOfContents -}}
 {{- if $toc -}}
-<details class="toc" open>
-  <summary class="toc-title">
-    <span>Contenido</span>
-    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-  </summary>
-  <nav class="toc-nav">
+<nav class="toc" aria-label="Tabla de contenidos">
+  <div class="toc-header">
+    <span class="toc-label">Contenido</span>
+    <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
+    </button>
+  </div>
+  <div class="toc-body" id="toc-list">
     {{ $toc }}
-  </nav>
-</details>
+  </div>
+</nav>
 {{- end -}}
+
+<script>
+(function() {
+  var toc = document.querySelector('.toc');
+  if (!toc) return;
+  var toggle = toc.querySelector('.toc-toggle');
+  var body = toc.querySelector('.toc-body');
+  var svg = toggle.querySelector('svg');
+  
+  toggle.addEventListener('click', function() {
+    var isOpen = body.style.maxHeight && body.style.maxHeight !== '0px';
+    if (isOpen) {
+      body.style.maxHeight = body.scrollHeight + 'px';
+      requestAnimationFrame(function() {
+        body.style.maxHeight = '0px';
+      });
+      toggle.setAttribute('aria-expanded', 'false');
+      svg.style.transform = 'rotate(0deg)';
+    } else {
+      body.style.maxHeight = body.scrollHeight + 'px';
+      toggle.setAttribute('aria-expanded', 'true');
+      svg.style.transform = 'rotate(180deg)';
+    }
+  });
+  
+  // Initialize open state
+  body.style.maxHeight = body.scrollHeight + 'px';
+  svg.style.transform = 'rotate(180deg)';
+})();
+</script>
