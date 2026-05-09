@@ -1,4 +1,3 @@
-{{- if .Params.ShowToc -}}
 {{- $toc := .TableOfContents -}}
 {{- if $toc -}}
 <details class="toc" open>
@@ -10,5 +9,4 @@
     {{ $toc }}
   </nav>
 </details>
-{{- end -}}
 {{- end -}}
