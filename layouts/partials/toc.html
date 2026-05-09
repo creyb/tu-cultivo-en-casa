@@ -1,32 +1,14 @@
 {{- $toc := .TableOfContents -}}
 {{- if $toc -}}
-<nav class="toc" aria-label="Tabla de contenidos">
-  <div class="toc-header" onclick="toggleToc()">
-    <span class="toc-label">Contenido</span>
-    <button class="toc-toggle" aria-expanded="true" aria-label="Mostrar u ocultar índice">
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
-    </button>
+<div class="post-toc" id="post-toc">
+  <div class="post-toc-header" onclick="document.getElementById('post-toc').classList.toggle('is-collapsed')">
+    <span class="post-toc-label">Índice</span>
+    <span class="post-toc-icon">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </span>
   </div>
-  <div class="toc-body open" id="toc-list">
+  <div class="post-toc-body">
     {{ $toc }}
   </div>
-</nav>
-
-<script>
-function toggleToc() {
-  var body = document.getElementById('toc-list');
-  var btn = document.querySelector('.toc-toggle');
-  var svg = btn.querySelector('svg');
-  
-  if (body.classList.contains('open')) {
-    body.classList.remove('open');
-    btn.setAttribute('aria-expanded', 'false');
-    svg.style.transform = 'rotate(0deg)';
-  } else {
-    body.classList.add('open');
-    btn.setAttribute('aria-expanded', 'true');
-    svg.style.transform = 'rotate(180deg)';
-  }
-}
-</script>
+</div>
 {{- end -}}

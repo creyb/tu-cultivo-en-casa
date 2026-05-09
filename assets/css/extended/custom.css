@@ -143,173 +143,211 @@ body, p, span, a {
     font-size: 0.9rem !important;
 }
 
-/* Table of Contents */
-.toc {
+/* Table of Contents — Editorial Botanical Index */
+.post-toc {
     background: var(--color-surface) !important;
     border: 1px solid var(--color-outline) !important;
     border-radius: 0.5rem !important;
-    margin: 2rem 0 !important;
+    margin: 2.5rem auto !important;
     max-width: 680px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
     overflow: hidden !important;
+    position: relative !important;
+    box-shadow: 0 2px 12px rgba(51, 69, 55, 0.04) !important;
 }
 
-.toc-header {
+/* Terracotta accent at top */
+.post-toc::before {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 3px !important;
+    background: linear-gradient(90deg, var(--color-secondary), rgba(139, 79, 53, 0.3), transparent) !important;
+    opacity: 0.6 !important;
+    pointer-events: none !important;
+}
+
+.post-toc-header {
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    padding: 0.875rem 1.25rem !important;
-    background: rgba(51, 69, 55, 0.03) !important;
-    border-bottom: 1px solid var(--color-outline) !important;
+    padding: 1rem 1.5rem !important;
+    background: rgba(51, 69, 55, 0.02) !important;
+    border-bottom: 1px dashed var(--color-outline) !important;
     cursor: pointer !important;
+    user-select: none !important;
+    transition: background 0.2s ease !important;
 }
 
-.toc-label {
+.post-toc-header:hover {
+    background: rgba(51, 69, 55, 0.05) !important;
+}
+
+.post-toc-label {
     font-family: 'Metropolis', sans-serif !important;
     font-size: 11px !important;
     font-weight: 700 !important;
-    letter-spacing: 0.12em !important;
+    letter-spacing: 0.15em !important;
     text-transform: uppercase !important;
     color: var(--color-primary) !important;
 }
 
-.toc-toggle {
-    background: none !important;
-    border: none !important;
-    cursor: pointer !important;
-    padding: 0.25rem !important;
+.post-toc-icon {
     color: var(--color-tertiary) !important;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1) !important;
     display: flex !important;
     align-items: center !important;
-    justify-content: center !important;
-    transition: color 0.2s ease !important;
 }
 
-.toc-toggle:hover {
-    color: var(--color-primary) !important;
+/* Collapsed state — rotate arrow */
+.post-toc.is-collapsed .post-toc-icon {
+    transform: rotate(180deg) !important;
 }
 
-.toc-toggle svg {
-    transition: transform 0.3s ease !important;
-}
-
-.toc-body {
-    max-height: 0 !important;
+.post-toc-body {
+    max-height: 800px !important;
     overflow: hidden !important;
-    transition: max-height 0.35s ease !important;
+    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease !important;
+    opacity: 1 !important;
 }
 
-.toc-body.open {
-    max-height: 600px !important;
+/* Collapsed body */
+.post-toc.is-collapsed .post-toc-body {
+    max-height: 0 !important;
+    opacity: 0 !important;
 }
 
-.toc-body nav {
-    padding: 1rem 1.25rem !important;
+.post-toc-body nav {
+    padding: 0.5rem 0 !important;
 }
 
-/* Hugo generates <nav id="TableOfContents"><ul>...</ul></nav> */
-.toc-body nav ul,
-.toc-body #TableOfContents ul {
+/* Kill ALL bullets on ALL levels */
+.post-toc-body nav ul,
+.post-toc-body nav ul ul,
+.post-toc-body nav ul ul ul,
+.post-toc-body #TableOfContents ul,
+.post-toc-body #TableOfContents ul ul,
+.post-toc-body #TableOfContents ul ul ul {
     list-style: none !important;
+    list-style-type: none !important;
+    list-style-image: none !important;
     margin: 0 !important;
     padding: 0 !important;
     counter-reset: toc-item !important;
 }
 
-.toc-body nav li,
-.toc-body #TableOfContents li {
+.post-toc-body nav li,
+.post-toc-body #TableOfContents li {
     margin: 0 !important;
     padding: 0 !important;
+    list-style: none !important;
 }
 
-/* Top-level H2 items */
-.toc-body nav > ul > li,
-.toc-body #TableOfContents > ul > li {
-    border-bottom: 1px solid rgba(195, 200, 193, 0.3) !important;
+/* Top-level H2 links */
+.post-toc-body nav > ul > li,
+.post-toc-body #TableOfContents > ul > li {
+    border-bottom: 1px solid rgba(195, 200, 193, 0.25) !important;
 }
 
-.toc-body nav > ul > li:last-child,
-.toc-body #TableOfContents > ul > li:last-child {
+.post-toc-body nav > ul > li:last-child,
+.post-toc-body #TableOfContents > ul > li:last-child {
     border-bottom: none !important;
 }
 
-.toc-body nav > ul > li > a,
-.toc-body #TableOfContents > ul > li > a {
+.post-toc-body nav > ul > li > a,
+.post-toc-body #TableOfContents > ul > li > a {
     display: flex !important;
     align-items: baseline !important;
-    gap: 0.75rem !important;
-    padding: 0.6rem 0 !important;
+    gap: 0.875rem !important;
+    padding: 0.75rem 1.5rem !important;
     color: var(--color-tertiary) !important;
     text-decoration: none !important;
-    font-size: 0.85rem !important;
+    font-size: 0.9rem !important;
     font-weight: 500 !important;
-    transition: all 0.2s ease !important;
-}
-
-.toc-body nav > ul > li > a::before,
-.toc-body #TableOfContents > ul > li > a::before {
-    counter-increment: toc-item !important;
-    content: counter(toc-item, decimal-leading-zero) !important;
-    font-family: 'Metropolis', sans-serif !important;
-    font-size: 0.7rem !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.05em !important;
-    color: var(--color-secondary) !important;
-    min-width: 1.5rem !important;
-    flex-shrink: 0 !important;
-    opacity: 0.7 !important;
-}
-
-.toc-body nav > ul > li > a:hover,
-.toc-body #TableOfContents > ul > li > a:hover {
-    color: var(--color-primary) !important;
-    padding-left: 0.25rem !important;
-}
-
-.toc-body nav > ul > li > a:hover::before,
-.toc-body #TableOfContents > ul > li > a:hover::before {
-    opacity: 1 !important;
-}
-
-/* Nested H3/H4 items */
-.toc-body nav ul ul,
-.toc-body #TableOfContents ul ul {
-    padding: 0 0 0.5rem 2rem !important;
-}
-
-.toc-body nav ul ul li,
-.toc-body #TableOfContents ul ul li {
-    border-bottom: none !important;
-}
-
-.toc-body nav ul ul a,
-.toc-body #TableOfContents ul ul a {
-    display: block !important;
-    padding: 0.3rem 0 !important;
-    color: var(--text-muted) !important;
-    text-decoration: none !important;
-    font-size: 0.8rem !important;
-    font-weight: 400 !important;
-    transition: all 0.2s ease !important;
-    padding-left: 0.75rem !important;
+    line-height: 1.4 !important;
+    transition: all 0.25s ease !important;
     position: relative !important;
 }
 
-.toc-body nav ul ul a::before,
-.toc-body #TableOfContents ul ul a::before {
-    content: "→" !important;
-    position: absolute !important;
-    left: 0 !important;
+/* Number prefix */
+.post-toc-body nav > ul > li > a::before,
+.post-toc-body #TableOfContents > ul > li > a::before {
+    counter-increment: toc-item !important;
+    content: counter(toc-item, decimal-leading-zero) !important;
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
     color: var(--color-secondary) !important;
+    min-width: 2rem !important;
+    flex-shrink: 0 !important;
     opacity: 0.5 !important;
-    font-size: 0.7rem !important;
+    transition: opacity 0.25s ease, transform 0.25s ease !important;
+    line-height: 1 !important;
 }
 
-.toc-body nav ul ul a:hover,
-.toc-body #TableOfContents ul ul a:hover {
+.post-toc-body nav > ul > li > a:hover,
+.post-toc-body #TableOfContents > ul > li > a:hover {
     color: var(--color-primary) !important;
+    background: rgba(51, 69, 55, 0.02) !important;
+    padding-left: 1.75rem !important;
+}
+
+.post-toc-body nav > ul > li > a:hover::before,
+.post-toc-body #TableOfContents > ul > li > a:hover::before {
+    opacity: 1 !important;
+    transform: scale(1.1) !important;
+}
+
+/* Nested H3/H4 */
+.post-toc-body nav ul ul,
+.post-toc-body #TableOfContents ul ul {
+    padding: 0 1.5rem 0.75rem 3.75rem !important;
+}
+
+.post-toc-body nav ul ul li,
+.post-toc-body #TableOfContents ul ul li {
+    border-bottom: none !important;
+}
+
+.post-toc-body nav ul ul a,
+.post-toc-body #TableOfContents ul ul a {
+    display: block !important;
+    padding: 0.35rem 0 !important;
+    color: var(--text-muted) !important;
+    text-decoration: none !important;
+    font-size: 0.82rem !important;
+    font-weight: 400 !important;
+    transition: all 0.2s ease !important;
+    position: relative !important;
     padding-left: 1rem !important;
+}
+
+.post-toc-body nav ul ul a::before,
+.post-toc-body #TableOfContents ul ul a::before {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    width: 4px !important;
+    height: 4px !important;
+    border-radius: 50% !important;
+    background: var(--color-secondary) !important;
+    opacity: 0.4 !important;
+    transition: opacity 0.2s ease, transform 0.2s ease !important;
+}
+
+.post-toc-body nav ul ul a:hover,
+.post-toc-body #TableOfContents ul ul a:hover {
+    color: var(--color-primary) !important;
+    padding-left: 1.25rem !important;
+}
+
+.post-toc-body nav ul ul a:hover::before,
+.post-toc-body #TableOfContents ul ul a:hover::before {
+    opacity: 0.8 !important;
+    transform: translateY(-50%) scale(1.5) !important;
 }
 
 /* Nested TOC levels */
