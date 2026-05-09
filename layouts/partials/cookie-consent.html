@@ -1,0 +1,129 @@
+{{/* Cookie Consent Banner - CookieConsent v3 by Orest Bida */}}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
+<script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (typeof CookieConsent === 'undefined') return;
+
+    CookieConsent.run({
+      categories: {
+        necessary: {
+          enabled: true,
+          readOnly: true
+        },
+        analytics: {
+          enabled: false,
+          readOnly: false,
+          autoClear: {
+            cookies: [
+              { name: /^_ga/ },
+              { name: '_gid' },
+              { name: '_gat' }
+            ]
+          }
+        },
+        marketing: {
+          enabled: false,
+          readOnly: false,
+          autoClear: {
+            cookies: [
+              { name: /^amazon/ },
+              { name: /^amzn/ },
+              { name: /^assoc/ },
+              { name: /^sess_/ },
+              { name: /^ad-/ },
+              { name: /^id-/ }
+            ]
+          }
+        }
+      },
+      language: {
+        default: 'es',
+        translations: {
+          es: {
+            consentModal: {
+              title: 'Utilizamos cookies',
+              description: 'Este sitio utiliza cookies propias y de terceros para mejorar tu experiencia de navegación y ofrecerte contenido personalizado. Puedes aceptar todas las cookies, rechazarlas o configurar tus preferencias. Para más información, consulta nuestra <a href="/politica-cookies/" target="_blank">Política de Cookies</a>.',
+              acceptAllBtn: 'Aceptar todas',
+              acceptNecessaryBtn: 'Rechazar todo',
+              showPreferencesBtn: 'Gestionar preferencias'
+            },
+            preferencesModal: {
+              title: 'Preferencias de cookies',
+              acceptAllBtn: 'Aceptar todas',
+              acceptNecessaryBtn: 'Rechazar todo',
+              savePreferencesBtn: 'Guardar preferencias',
+              closeIconLabel: 'Cerrar',
+              sections: [
+                {
+                  title: 'Uso de las cookies',
+                  description: 'Utilizamos cookies para mejorar tu experiencia en nuestro sitio web. Puedes gestionar tus preferencias en cualquier momento.'
+                },
+                {
+                  title: 'Cookies necesarias',
+                  description: 'Estas cookies son esenciales para el correcto funcionamiento del sitio web y no pueden desactivarse. Incluyen preferencias de tema y navegación.',
+                  linkedCategory: 'necessary'
+                },
+                {
+                  title: 'Cookies de análisis',
+                  description: 'Nos ayudan a entender cómo interactúas con el sitio web para mejorar nuestros contenidos. Actualmente no utilizamos análisis de terceros, pero esta categoría está preparada para futuras implementaciones.',
+                  linkedCategory: 'analytics'
+                },
+                {
+                  title: 'Cookies de marketing (afiliados)',
+                  description: 'Utilizadas por nuestros socios de afiliados (como Amazon) para rastrear las compras realizadas a través de nuestros enlaces de producto. Solo se activan si das tu consentimiento explícito.',
+                  linkedCategory: 'marketing'
+                },
+                {
+                  title: 'Más información',
+                  description: 'Para cualquier duda sobre nuestra política de cookies, puedes consultar nuestra <a href="/politica-cookies/" target="_blank">Política de Cookies</a> completa.'
+                }
+              ]
+            }
+          }
+        }
+      },
+      guiOptions: {
+        consentModal: {
+          layout: 'cloud inline',
+          position: 'bottom center',
+          flipButtons: false
+        },
+        preferencesModal: {
+          layout: 'box',
+          flipButtons: false
+        }
+      },
+      onFirstConsent: ({ cookie }) => {
+        console.log('CookieConsent: first consent given', cookie);
+      },
+      onConsent: ({ cookie }) => {
+        if (cookie.categories.includes('marketing')) {
+          // Enable Amazon affiliate tracking when marketing cookies are accepted
+          document.body.dataset.marketingConsent = 'true';
+        } else {
+          document.body.dataset.marketingConsent = 'false';
+        }
+      }
+    });
+  });
+</script>
+<style>
+  /* Custom styles to match site theme */
+  #cc-main .cm__btn,
+  #cc-main .pm__btn {
+    border-radius: 8px;
+    font-weight: 600;
+  }
+  #cc-main .cm__btn--accept-all,
+  #cc-main .pm__btn--accept-all {
+    background-color: var(--primary, #2e7d32);
+    color: #fff;
+  }
+  #cc-main .cm__btn--accept-necessary,
+  #cc-main .pm__btn--accept-necessary {
+    background-color: transparent;
+    border: 1px solid var(--border, #ccc);
+    color: var(--primary, #2e7d32);
+  }
+</style>
