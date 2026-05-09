@@ -242,6 +242,25 @@ body, p, span, a {
     margin: 0 !important;
     padding: 0 !important;
     list-style: none !important;
+    list-style-type: none !important;
+}
+
+/* Aggressive bullet kill for nested items */
+.post-toc-body nav ul ul,
+.post-toc-body nav ul ul ul,
+.post-toc-body #TableOfContents ul ul,
+.post-toc-body #TableOfContents ul ul ul {
+    list-style: none !important;
+    list-style-type: none !important;
+    list-style-image: none !important;
+}
+
+.post-toc-body nav ul ul li,
+.post-toc-body nav ul ul ul li,
+.post-toc-body #TableOfContents ul ul li,
+.post-toc-body #TableOfContents ul ul ul li {
+    list-style: none !important;
+    list-style-type: none !important;
 }
 
 /* Top-level H2 links */
