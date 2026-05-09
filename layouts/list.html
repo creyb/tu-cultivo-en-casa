@@ -1,13 +1,11 @@
 {{- define "main" }}
 
 <div class="list-page">
-  {{- $title := .Title }}
-  {{- if .IsSection }}
-    {{- $title = .Section | humanize }}
+  {{- if (.Param "ShowBreadCrumbs") }}
+  {{- partial "breadcrumbs.html" . }}
   {{- end }}
-  
   <header class="list-header">
-    <h1>{{ $title }}</h1>
+    <h1>{{ .Title }}</h1>
     {{- if .Description }}
     <p class="list-description">{{ .Description | markdownify }}</p>
     {{- end }}
