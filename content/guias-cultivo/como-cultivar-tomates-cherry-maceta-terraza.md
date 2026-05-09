@@ -5,10 +5,10 @@ draft: false
 summary: "Aprende a cosechar tus propios tomates cherry en casa con nuestra guía paso a paso. Desde la elección de la maceta hasta el riego perfecto para una cosecha abundante."
 categories: ["guias-cultivo"]
 cover:
-    image: "/images/tomates-cherry-hero.webp"
+    image: "images/tomates-cherry-hero.webp"
     title: "Cómo cultivar tomates cherry en maceta en tu terraza: Guía completa paso a paso para principiantes"
     alt: "Cosecha de tomates cherry en terraza"
-featured_image: "/images/tomates-cherry-hero.webp"
+featured_image: "images/tomates-cherry-hero.webp"
 tags: ["tomates cherry", "huerto urbano", "cultivo en maceta", "terraza", "huerto para principiantes", "cuidados del tomate"]
 ---
 
@@ -16,7 +16,7 @@ tags: ["tomates cherry", "huerto urbano", "cultivo en maceta", "terraza", "huert
 
 Imagina esto: es una tarde calurosa de verano, abres la puerta de tu terraza y te encuentras con un racimo de tomates cherry rojos, brillantes y cargados de sabor. Los recoges en el momento exacto y los echas en una ensalada fresca. No necesitas una hectárea de campo, ni haber nacido en una familia de agricultores, ni tener un presupuesto enorme. Solo necesitas un poco de sol, una maceta y la curiosidad de ver crecer algo con tus propias manos.
 
-![Cosecha de tomates cherry en terraza](/images/tomates-cherry-hero.webp)
+![Cosecha de tomates cherry en terraza](images/tomates-cherry-hero.webp)
 
 Cultivar tomates cherry es, posiblemente, la puerta de entrada perfecta al mundo del huerto urbano. A diferencia de otras variedades de tomate, los cherrys son increíblemente generosos: producen muchísimos frutos en poco espacio y son notablemente más resistentes a las plagas y enfermedades que los tomates grandes. Además, la diferencia de sabor es abismal; un tomate cherry cultivado en casa tiene una concentración de azúcares y aromas que el supermercado simplemente no puede ofrecer.
 
@@ -34,7 +34,7 @@ El error más común de los principiantes es usar macetas demasiado pequeñas. E
 - **El material:** Las macetas de barro son excelentes porque "respiran" y evitan que las raíces se asfixien, aunque el agua se evapora más rápido. Las de plástico retienen más la humedad y son más ligeras para mover por la terraza.
 - **El drenaje es innegociable:** Asegúrate de que la maceta tenga agujeros amplios en la base. Un tomate con los "pies mojados" (agua estancada) es un tomate que morirá rápidamente por la pudrición de la raíz. Coloca un plato debajo para no manchar la terraza, pero vacíalo si se acumula demasiada agua.
 
-![Kit de materiales para cultivar tomates cherry](/images/kit-cultivo-tomate.webp)
+![Kit de materiales para cultivar tomates cherry](images/kit-cultivo-tomate.webp)
 
 #### El Sustrato: El combustible de tu planta
 Olvídate de la tierra común del campo o la que encuentras en el parque. Esa tierra suele estar compactada, puede contener patógenos y no tiene el drenaje necesario para una maceta.
@@ -46,7 +46,7 @@ El tomate cherry es una planta trepadora por naturaleza. A medida que la planta 
 - **La solución:** Una caña de bambú, una vara de madera o un tutor de plástico de al menos 1.5 metros. 
 - **El atado:** Usa cordel de yute o bridas suaves. El objetivo es guiar la planta, no estrangularla.
 
-![Planta de tomate cherry tutorizada en terraza](/images/tutor-tomate-cherry.webp)
+![Planta de tomate cherry tutorizada en terraza](images/tutor-tomate-cherry.webp)
 
 ---
 
@@ -116,7 +116,7 @@ Llega el momento más esperado. Recoger los tomates cherry es una experiencia ca
 - **¿Cuándo recoger?** Cuando el fruto tenga un color rojo intenso y uniforme (o el color de la variedad que hayas elegido). Un truco es apretarlos suavemente: si ceden un poco a la presión, están en su punto óptimo de azúcar.
 - **La técnica:** No tires del tomate con fuerza, ya que podrías romper la rama. Gíralo suavemente hasta que se suelte solo.
 
-![Recogiendo un tomate cherry maduro](/images/cosecha-tomates-cherry.webp)
+![Recogiendo un tomate cherry maduro](images/cosecha-tomates-cherry.webp)
 
 - **Conservación:** Un error fatal es meter los tomates cherry en la nevera. El frío rompe las cadenas de sabor y los vuelve insípidos y harinosos. Guárdalos en un frutero a temperatura ambiente y disfrútalos frescos.
 
