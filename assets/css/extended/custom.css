@@ -153,8 +153,10 @@ body, p, span, a {
    ============================================ */
 
 .site-header {
-    position: sticky !important;
+    position: fixed !important;
     top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
     z-index: 1000 !important;
     background: rgba(250, 249, 247, 0.92) !important;
     backdrop-filter: blur(10px) saturate(180%) !important;
@@ -162,6 +164,11 @@ body, p, span, a {
     border-bottom: 1px solid var(--color-outline) !important;
     padding: 0.75rem 1.5rem !important;
     transition: background 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+/* Offset body so content isn't hidden behind the fixed header */
+body {
+    padding-top: 56px !important;
 }
 
 .header-inner {
