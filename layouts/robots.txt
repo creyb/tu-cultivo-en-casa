@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tucultivoencasa.com/sitemap.xml

@@ -1,4 +1,6 @@
 baseURL = 'https://tucultivoencasa.com/'
+defaultContentLanguage = 'es'
+enableRobotsTXT = true
 locale = 'es-es'
 title = 'Tu Cultivo en Casa'
 theme = "papermod"
@@ -6,6 +8,9 @@ theme = "papermod"
 [params]
 mainSections = ["guias-cultivo", "huerto-urbano", "cuidado-mantenimiento", "reviews-productos"]
 disableThemeToggle = false
+
+description = "Guías prácticas de huerto urbano, cultivo en maceta y cuidado de plantas para balcones y terrazas. Aprende a cultivar tus propios alimentos en casa."
+author = "Tu Cultivo en Casa"
 
 [params.assets]
 disableCSS = false
@@ -37,3 +42,6 @@ weight = 3
 name = "Reviews"
 url = "/reviews-productos/"
 weight = 4
+
+[params.social]
+  twitter = ""

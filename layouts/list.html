@@ -32,9 +32,9 @@
       {{- end }}
       
       <div class="card-body">
-        {{- if .Params.tags }}
+        {{- if .Params.tag }}
         <div class="card-tags">
-          {{- range first 2 .Params.tags }}
+          {{- range first 2 .Params.tag }}
           <span class="chip">{{ . }}</span>
           {{- end }}
         </div>
