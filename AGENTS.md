@@ -1,46 +1,41 @@
 # AGENTS.md
 
-## Project Shape
-- Small Hugo site (Spanish, Spain); config at `hugo.toml`; active theme is `themes/papermod` (regular directory, not a submodule).
-- No root `package.json`, npm, test, lint, or codegen configs.
-- Content sections: `content/guias-cultivo/`, `content/huerto-urbano/`, `content/cuidado-mantenimiento/`, `content/reviews-productos/`.
-- Design system documented in `DESIGN.md` (colors, typography, layout conventions).
-- Custom CSS lives at `assets/css/extended/custom.css` — heavily overrides PaperMod with the design system (colors, typography, card layouts, mobile nav, homepage hero).
-
 ## Commands
-- `hugo` — build site into `public/`.
-- `hugo server -D` — serve with drafts at `http://localhost:1313/`.
-- Hugo `v0.161.0+extended` installed.
+- `hugo server -D` — local dev with drafts at `http://localhost:1313/`.
+- `hugo` — build into `public/`.
+- Requires Hugo `v0.161.0+extended`.
 
-## Hugo Config
-- `baseURL = 'https://creyb.github.io/tu-cultivo-en-casa/'`, `locale = 'es-es'`, `title = 'Tu Cultivo en Casa'`, `theme = "papermod"`.
-- `params.mainSections` = `["guias-cultivo", "huerto-urbano", "cuidado-mantenimiento", "reviews-productos"]` — new content must use one of these section names to appear on the homepage.
-- Taxonomies: `category = "categoria"` and `tag = "tag"`. Use front matter fields `categoria` and `tag` (not `categories`/`tags`).
-- Main menu defined in `hugo.toml` with 4 entries: Guías, Huerto Urbano, Cuidado, Reviews.
+## Content Voice & Tone
+- **Persona**: "Amigo experto" — cercano, práctico y basado en experiencia real.
+- **Register**: Primera persona del plural ("He probado..."). Evitar impersonal ("se recomienda").
+- **Style**: Directo, con frases cortas y consejos accionables. Usa emojis con moderación (🌱, 💧, 🍅, ✅, ⚠️) para dar dinamismo y escanabilidad.
+- **Reviews**: Evitar exageraciones tipo "¡el mejor del mundo!". Ser honesto: pros, contras, y para quién es ideal.
+- **Consistency**: Mantener el mismo ritmo, longitud de frases y nivel de detalle entre posts.
 
-## Layout & Theme Overrides
-- Root `layouts/` overrides theme: `baseof.html`, `index.html`, `list.html`, `rss.xml`.
-- `layouts/partials/header.html`, `footer.html`, `head.html` — custom header with sticky nav + mobile hamburger.
-- `layouts/_default/single.html` — single post template.
-- `layouts/_default/_markup/render-image.html` — Hugo render hook that adds `?v=2` cache-buster and `loading="lazy"` to all markdown images.
-- `layouts/_partials/templates/` — template fragments (e.g., `opengraph.html`); check before adding new partials.
-- Avoid editing `themes/papermod` directly. For site-specific changes, add files under root `layouts/`, `assets/css/extended/`, or `static/`.
-- `custom.css` uses `!important` extensively to override PaperMod — follow this pattern for consistency.
+## Content Gotchas
+- New posts must use one of `params.mainSections` to appear on the homepage: `guias-cultivo`, `huerto-urbano`, `cuidado-mantenimiento`, `reviews-productos`.
+- Taxonomies are renamed: use front matter keys `categoria` and `tag` (not `categories`/`tags`).
+- Place images in `static/images/name.webp` (WebP only). Markdown images are automatically cache-busted (`?v=2`) and lazily-loaded by `layouts/_default/_markup/render-image.html`.
+- Use `archetypes/default.md` for front matter template.
+- Legal pages exist at root: `about.md`, `aviso-legal.md`, `politica-cookies.md`. Mark legal pages with `noindex: true` and `hiddenInHomeList: true`.
 
-## Content Creation
-- New posts go under the appropriate content section; use `archetypes/default.md` as the front matter template.
-- Posts default to `draft = false` in the archetype.
-- Images at `/images/name.webp` → place in `static/images/name.webp`. Use WebP format.
-- Body images in markdown: `![alt](/images/name.webp)` — rendered full-width by default via `custom.css`.
+## Layout Features
+- **TOC**: enabled by default (`ShowToc = true` in `hugo.toml`). Custom collapsible styling in `layouts/partials/toc.html`.
+- **Breadcrumbs**: enabled (`ShowBreadCrumbs = true`).
+- **Cookie consent**: GDPR banner via `layouts/partials/cookie-consent.html`. Categories: necessary, analytics, marketing (affiliates). Do not remove the partial from `footer.html`.
+- **Footer**: hardcoded links to `/aviso-legal/` and `/politica-cookies/` in `layouts/partials/footer.html`.
+
+## Theme & Styling
+- Do not edit `themes/papermod/` directly. Override via root `layouts/`, `assets/css/extended/`, or `static/`.
+- `assets/css/extended/custom.css` overrides PaperMod with `!important` throughout — follow this pattern.
+- Design tokens are in `DESIGN.md`.
 
 ## CI / Deploy
-- `.github/workflows/hugo.yml` builds and deploys to GitHub Pages on every push to `main`.
-- CI uses Hugo `0.161.0` extended, installs Dart Sass, and builds with `--gc --minify --baseURL "https://creyb.github.io/tu-cultivo-en-casa/"`.
-- Do not hand-edit `public/` or `resources/_gen/`; they are rebuild artifacts.
-
-## Generated Files
-- `public/`, `resources/_gen/`, `.hugo_build.lock` are Hugo outputs. Do not hand-edit.
-- Edit source in `content/`, `hugo.toml`, `layouts/`, `assets/`, `static/`, or `archetypes/` then rebuild.
+- `.github/workflows/hugo.yml` deploys to GitHub Pages on push to `main`.
+- CI builds with: `--gc --minify --baseURL "https://tucultivoencasa.com/"`.
+- Post-deploy job pings Google and Bing sitemaps automatically.
+- Custom domain via `static/CNAME` (`tucultivoencasa.com`). Do not remove or rename this file.
+- Do not hand-edit `public/`, `resources/_gen/`, or `.hugo_build.lock`.
 
 ## Repo-local Skills
-- `.agents/skills/` and `.claude/skills/` contain repo-local OpenCode/Claude skills (e.g., `hugo-content-generator`, `copywriting`, `seo-audit`, `frontend-design`). Load them via the `skill` tool when the task matches their description.
+- `.agents/skills/` and `.claude/skills/` contain repo-local skills (e.g., `hugo-content-generator`, `copywriting`, `seo-audit`). Load via the `skill` tool when applicable.
