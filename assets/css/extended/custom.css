@@ -143,6 +143,87 @@ body, p, span, a {
     font-size: 0.9rem !important;
 }
 
+/* Table of Contents */
+.toc {
+    background: var(--color-surface) !important;
+    border: 1px dashed var(--color-outline) !important;
+    border-radius: 0.5rem !important;
+    padding: 1.25rem 1.5rem !important;
+    margin: 2rem 0 !important;
+    max-width: 680px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.toc-title {
+    font-family: 'Metropolis', sans-serif !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    color: var(--color-primary) !important;
+    cursor: pointer !important;
+    list-style: none !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 0.5rem !important;
+}
+
+.toc-title::-webkit-details-marker {
+    display: none !important;
+}
+
+.toc-title svg {
+    transition: transform 0.3s ease !important;
+    flex-shrink: 0 !important;
+    color: var(--color-tertiary) !important;
+}
+
+.toc[open] .toc-title svg {
+    transform: rotate(180deg) !important;
+}
+
+.toc-nav {
+    margin-top: 1rem !important;
+    padding-top: 1rem !important;
+    border-top: 1px dashed var(--color-outline) !important;
+}
+
+.toc-nav ul {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.toc-nav li {
+    margin: 0.4rem 0 !important;
+    line-height: 1.4 !important;
+}
+
+.toc-nav a {
+    color: var(--color-tertiary) !important;
+    text-decoration: none !important;
+    font-size: 0.9rem !important;
+    transition: color 0.2s ease !important;
+    display: block !important;
+}
+
+.toc-nav a:hover {
+    color: var(--color-primary) !important;
+}
+
+/* Nested TOC levels */
+.toc-nav ul ul {
+    padding-left: 1.25rem !important;
+    margin-top: 0.25rem !important;
+}
+
+.toc-nav ul ul a {
+    font-size: 0.85rem !important;
+    color: var(--text-muted) !important;
+}
+
 /* Hide entry cover to avoid duplicate images */
 .entry-cover {
     display: none !important;

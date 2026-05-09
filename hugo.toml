@@ -9,6 +9,7 @@ theme = "papermod"
 mainSections = ["guias-cultivo", "huerto-urbano", "cuidado-mantenimiento", "reviews-productos"]
 disableThemeToggle = false
 ShowBreadCrumbs = true
+ShowToc = true
 
 description = "Guías prácticas de huerto urbano, cultivo en maceta y cuidado de plantas para balcones y terrazas. Aprende a cultivar tus propios alimentos en casa."
 author = "Tu Cultivo en Casa"
