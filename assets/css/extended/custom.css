@@ -149,7 +149,7 @@ body, p, span, a {
     position: sticky !important;
     top: 0 !important;
     z-index: 1000 !important;
-    background: var(--color-surface) !important;
+    background: var(--color-background) !important;
     border-bottom: 1px solid var(--color-outline) !important;
     padding: 0.75rem 1.5rem !important;
 }
@@ -409,10 +409,13 @@ body, p, span, a {
 /* Hero Section: Better text contrast over image */
 .hero-section {
     text-align: center !important;
-    padding: 3rem 1.5rem !important;
+    padding: 4rem 1.5rem !important;
     margin-bottom: 2rem !important;
     position: relative !important;
-    background-color: rgba(0, 0, 0, 0.3) !important;
+    background-image: url('/images/hero-bg.webp') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
     border-radius: 1rem !important;
     overflow: hidden !important;
 }
@@ -424,7 +427,7 @@ body, p, span, a {
     left: 0 !important;
     right: 0 !important;
     bottom: 0 !important;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.6)) !important;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.7)) !important;
     z-index: 1 !important;
     pointer-events: none !important;
 }
@@ -710,6 +713,93 @@ body, p, span, a {
 
     .card-excerpt {
         font-size: 0.85rem !important;
+    }
+}
+
+/* Footer */
+.site-footer {
+    background: var(--color-surface) !important;
+    border-top: 1px solid var(--color-outline) !important;
+    padding: 3rem 1.5rem 1.5rem !important;
+    margin-top: 4rem !important;
+}
+
+.footer-inner {
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 2rem !important;
+}
+
+.footer-brand {
+    text-align: center !important;
+}
+
+.footer-logo {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: 1.25rem !important;
+    color: var(--color-primary) !important;
+    display: block !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.footer-tagline {
+    font-size: 0.9rem !important;
+    color: var(--text-muted) !important;
+    margin: 0 !important;
+}
+
+.footer-links {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.footer-col ul {
+    display: flex !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    gap: 1.5rem !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+}
+
+.footer-col li {
+    margin: 0 !important;
+}
+
+.footer-col a {
+    color: var(--color-tertiary) !important;
+    text-decoration: none !important;
+    font-size: 0.9rem !important;
+    transition: color 0.2s ease !important;
+}
+
+.footer-col a:hover {
+    color: var(--color-primary) !important;
+}
+
+.footer-bottom {
+    text-align: center !important;
+    font-size: 0.85rem !important;
+    color: var(--text-muted) !important;
+    padding-top: 1.5rem !important;
+    border-top: 1px solid var(--color-outline) !important;
+    width: 100% !important;
+}
+
+/* Mobile Footer */
+@media (max-width: 768px) {
+    .site-footer {
+        padding: 2rem 1rem 1rem !important;
+    }
+
+    .footer-col ul {
+        flex-direction: column !important;
+        gap: 0.75rem !important;
+        align-items: center !important;
     }
 }
 
