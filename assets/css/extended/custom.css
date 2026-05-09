@@ -34,6 +34,11 @@
     --border-color: var(--color-outline);
 }
 
+/* Dark Mode: glass header */
+[data-theme="dark"] .site-header {
+    background: rgba(26, 28, 27, 0.92) !important;
+}
+
 /* Apply Parchment Background to Body */
 body {
     background-color: var(--color-background) !important;
@@ -151,9 +156,12 @@ body, p, span, a {
     position: sticky !important;
     top: 0 !important;
     z-index: 1000 !important;
-    background: var(--color-background) !important;
+    background: rgba(250, 249, 247, 0.92) !important;
+    backdrop-filter: blur(10px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(10px) saturate(180%) !important;
     border-bottom: 1px solid var(--color-outline) !important;
     padding: 0.75rem 1.5rem !important;
+    transition: background 0.3s ease, box-shadow 0.3s ease !important;
 }
 
 .header-inner {
