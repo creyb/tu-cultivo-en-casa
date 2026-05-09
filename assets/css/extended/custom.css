@@ -143,39 +143,26 @@ body, p, span, a {
     font-size: 0.9rem !important;
 }
 
-/* Table of Contents — Editorial Index Style */
+/* Table of Contents */
 .toc {
     background: var(--color-surface) !important;
     border: 1px solid var(--color-outline) !important;
     border-radius: 0.5rem !important;
-    margin: 2.5rem 0 !important;
+    margin: 2rem 0 !important;
     max-width: 680px !important;
     margin-left: auto !important;
     margin-right: auto !important;
     overflow: hidden !important;
-    position: relative !important;
-}
-
-/* Terracotta accent line at top */
-.toc::before {
-    content: "" !important;
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    right: 0 !important;
-    height: 2px !important;
-    background: linear-gradient(90deg, transparent, var(--color-secondary), transparent) !important;
-    opacity: 0.4 !important;
-    pointer-events: none !important;
 }
 
 .toc-header {
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    padding: 1rem 1.5rem !important;
+    padding: 0.875rem 1.25rem !important;
     background: rgba(51, 69, 55, 0.03) !important;
     border-bottom: 1px solid var(--color-outline) !important;
+    cursor: pointer !important;
 }
 
 .toc-label {
@@ -204,54 +191,63 @@ body, p, span, a {
 }
 
 .toc-toggle svg {
-    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    transition: transform 0.3s ease !important;
 }
 
 .toc-body {
     max-height: 0 !important;
     overflow: hidden !important;
-    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    transition: max-height 0.35s ease !important;
 }
 
-.toc-body > nav {
-    padding: 1.25rem 1.5rem !important;
+.toc-body.open {
+    max-height: 600px !important;
 }
 
-.toc-body > nav > ul,
-.toc-body #TableOfContents > ul {
+.toc-body nav {
+    padding: 1rem 1.25rem !important;
+}
+
+/* Hugo generates <nav id="TableOfContents"><ul>...</ul></nav> */
+.toc-body nav ul,
+.toc-body #TableOfContents ul {
     list-style: none !important;
     margin: 0 !important;
     padding: 0 !important;
     counter-reset: toc-item !important;
 }
 
-.toc-body > nav > ul > li,
-.toc-body #TableOfContents > ul > li {
+.toc-body nav li,
+.toc-body #TableOfContents li {
     margin: 0 !important;
     padding: 0 !important;
-    position: relative !important;
 }
 
-.toc-body > nav > ul > li + li,
-.toc-body #TableOfContents > ul > li + li {
-    border-top: 1px solid rgba(195, 200, 193, 0.4) !important;
+/* Top-level H2 items */
+.toc-body nav > ul > li,
+.toc-body #TableOfContents > ul > li {
+    border-bottom: 1px solid rgba(195, 200, 193, 0.3) !important;
 }
 
-.toc-body > nav > ul > li > a,
+.toc-body nav > ul > li:last-child,
+.toc-body #TableOfContents > ul > li:last-child {
+    border-bottom: none !important;
+}
+
+.toc-body nav > ul > li > a,
 .toc-body #TableOfContents > ul > li > a {
     display: flex !important;
     align-items: baseline !important;
     gap: 0.75rem !important;
-    padding: 0.65rem 0 !important;
+    padding: 0.6rem 0 !important;
     color: var(--color-tertiary) !important;
     text-decoration: none !important;
     font-size: 0.85rem !important;
     font-weight: 500 !important;
-    transition: all 0.25s ease !important;
-    position: relative !important;
+    transition: all 0.2s ease !important;
 }
 
-.toc-body > nav > ul > li > a::before,
+.toc-body nav > ul > li > a::before,
 .toc-body #TableOfContents > ul > li > a::before {
     counter-increment: toc-item !important;
     content: counter(toc-item, decimal-leading-zero) !important;
@@ -263,49 +259,45 @@ body, p, span, a {
     min-width: 1.5rem !important;
     flex-shrink: 0 !important;
     opacity: 0.7 !important;
-    transition: opacity 0.25s ease !important;
 }
 
-.toc-body > nav > ul > li > a:hover,
+.toc-body nav > ul > li > a:hover,
 .toc-body #TableOfContents > ul > li > a:hover {
     color: var(--color-primary) !important;
-    padding-left: 0.35rem !important;
+    padding-left: 0.25rem !important;
 }
 
-.toc-body > nav > ul > li > a:hover::before,
+.toc-body nav > ul > li > a:hover::before,
 .toc-body #TableOfContents > ul > li > a:hover::before {
     opacity: 1 !important;
 }
 
-/* Nested sub-headings (H3, H4) */
-.toc-body > nav > ul > li > ul,
-.toc-body #TableOfContents > ul > li > ul {
-    list-style: none !important;
-    margin: 0 !important;
-    padding: 0 0 0.5rem 2.25rem !important;
+/* Nested H3/H4 items */
+.toc-body nav ul ul,
+.toc-body #TableOfContents ul ul {
+    padding: 0 0 0.5rem 2rem !important;
 }
 
-.toc-body > nav > ul > li > ul > li,
-.toc-body #TableOfContents > ul > li > ul > li {
-    margin: 0 !important;
-    padding: 0 !important;
+.toc-body nav ul ul li,
+.toc-body #TableOfContents ul ul li {
+    border-bottom: none !important;
 }
 
-.toc-body > nav > ul > li > ul > li > a,
-.toc-body #TableOfContents > ul > li > ul > li > a {
+.toc-body nav ul ul a,
+.toc-body #TableOfContents ul ul a {
     display: block !important;
-    padding: 0.35rem 0 !important;
+    padding: 0.3rem 0 !important;
     color: var(--text-muted) !important;
     text-decoration: none !important;
     font-size: 0.8rem !important;
     font-weight: 400 !important;
     transition: all 0.2s ease !important;
-    position: relative !important;
     padding-left: 0.75rem !important;
+    position: relative !important;
 }
 
-.toc-body > nav > ul > li > ul > li > a::before,
-.toc-body #TableOfContents > ul > li > ul > li > a::before {
+.toc-body nav ul ul a::before,
+.toc-body #TableOfContents ul ul a::before {
     content: "→" !important;
     position: absolute !important;
     left: 0 !important;
@@ -314,8 +306,8 @@ body, p, span, a {
     font-size: 0.7rem !important;
 }
 
-.toc-body > nav > ul > li > ul > li > a:hover,
-.toc-body #TableOfContents > ul > li > ul > li > a:hover {
+.toc-body nav ul ul a:hover,
+.toc-body #TableOfContents ul ul a:hover {
     color: var(--color-primary) !important;
     padding-left: 1rem !important;
 }
