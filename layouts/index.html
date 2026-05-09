@@ -40,7 +40,7 @@
   <!-- Grid de Posts -->
   <section class="posts-section">
     <div class="posts-grid">
-      {{ range .Site.RegularPages }}
+      {{ range where .Site.RegularPages "Params.hiddenInHomeList" "!=" true }}
         <article class="post-card">
           {{ if .Params.cover }}
             {{ $img := .Params.cover.image }}

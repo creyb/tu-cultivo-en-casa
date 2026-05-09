@@ -1,26 +1,41 @@
 {{- if not (.Param "hideFooter") }}
-<footer class="site-footer">
-    <div class="footer-inner">
-        <div class="footer-brand">
-            <span class="footer-logo">{{ site.Title }}</span>
-            <p class="footer-tagline">Transformando balcones en santuarios curados.</p>
-        </div>
-        
-        <div class="footer-links">
-            <div class="footer-col">
-                <ul>
-                    {{- range site.Params.mainSections }}
-                    <li><a href="{{ . | relURL }}">{{ . | humanize }}</a></li>
-                    {{- end }}
-                </ul>
-            </div>
-        </div>
-        
-        <div class="footer-bottom">
-            <span>&copy; {{ now.Year }} {{ site.Title }}</span>
-        </div>
-    </div>
+<footer class="footer">
+    {{- if not site.Params.footer.hideCopyright }}
+        {{- if site.Copyright }}
+        <span>{{ site.Copyright | markdownify }}</span>
+        {{- else }}
+        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+        {{- end }}
+        {{- print " · "}}
+    {{- end }}
+
+    {{- with site.Params.footer.text }}
+        {{ . | markdownify }}
+        {{- print " · "}}
+    {{- end }}
+
+    <span>
+        <a href="/aviso-legal/">Aviso Legal</a> &
+        <a href="/politica-cookies/">Cookies</a>
+    </span>
+    {{- print " · "}}
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
 </footer>
+{{- end }}
+
+{{- if (not site.Params.disableScrollToTop) }}
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
 {{- end }}
 
 {{- partial "extend_footer.html" . }}
@@ -55,31 +70,37 @@
             }
         });
     });
+
 </script>
+
+{{- if (not site.Params.disableScrollToTop) }}
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+{{- end }}
 
 {{- if (not site.Params.disableThemeToggle) }}
 <script>
-    (function() {
+    document.getElementById("theme-toggle").addEventListener("click", () => {
         const html = document.querySelector("html");
-        const storedTheme = localStorage.getItem("pref-theme");
-        const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-        
-        if (storedTheme) {
-            html.dataset.theme = storedTheme;
-        } else if (systemDark) {
-            html.dataset.theme = "dark";
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
         }
-        
-        document.getElementById("theme-toggle").addEventListener("click", () => {
-            if (html.dataset.theme === "dark") {
-                html.dataset.theme = 'light';
-                localStorage.setItem("pref-theme", 'light');
-            } else {
-                html.dataset.theme = 'dark';
-                localStorage.setItem("pref-theme", 'dark');
-            }
-        });
-    })();
+    })
+
 </script>
 {{- end }}
 
@@ -87,6 +108,7 @@
 <script>
     document.querySelectorAll('pre > code').forEach((codeblock) => {
         const container = codeblock.parentNode.parentNode;
+
         const copybutton = document.createElement('button');
         copybutton.classList.add('copy-code');
         copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
@@ -104,6 +126,7 @@
                 copyingDone();
                 return;
             }
+
             const range = document.createRange();
             range.selectNodeContents(codeblock);
             const selection = window.getSelection();
@@ -119,9 +142,12 @@
         if (container.classList.contains("highlight")) {
             container.appendChild(copybutton);
         } else if (container.parentNode.firstChild == container) {
+            // td containing LineNos
         } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            // table containing LineNos and code
             codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
         } else {
+            // code blocks not having highlight as parent class
             codeblock.parentNode.appendChild(copybutton);
         }
     });

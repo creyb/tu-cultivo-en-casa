@@ -2,6 +2,7 @@
 title: "Sobre Nosotros"
 description: "Conoce el proyecto Tu Cultivo en Casa: guías prácticas de huerto urbano, cultivo en maceta y cuidado de plantas para balcones y terrazas."
 author: "Tu Cultivo en Casa"
+hiddenInHomeList: true
 ---
 
 ## ¿Qué es Tu Cultivo en Casa?
@@ -26,5 +27,13 @@ Buscamos la armonía entre la **precisión técnica** y la **imperfección orgá
 ## ¿Por qué confiar en nosotros?
 
 Todo el contenido de este sitio está basado en **experiencia práctica real** con huertos urbanos en espacios reducidos. No prometemos resultados milagrosos, pero sí compartimos lo que funciona y lo que no, con honestidad y detalle.
+
+## Nota de Afiliados
+
+Este proyecto se sostiene gracias al **Programa de Afiliados de Amazon**. Algunos de los enlaces de productos que encontrarás en la sección de reviews son enlaces de afiliado. Esto significa que, si realizas una compra a través de esos enlaces, nosotros podemos recibir una pequeña comisión sin que ello suponga ningún coste adicional para ti.
+
+Nuestros análisis y reviews son siempre **honestos e independientes**. Recomendamos únicamente productos que hemos probado o investigado a fondo y que creemos que aportan valor real a tu huerto urbano.
+
+---
 
 ¿Tienes alguna pregunta o sugerencia? ¡Nos encantaría saber de ti!
