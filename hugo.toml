@@ -1,4 +1,6 @@
 baseURL = 'https://creyb.github.io/tu-cultivo-en-casa/'
+relativeURLs = true
+canonifyURLs = true
 locale = 'es-es'
 title = 'Tu Cultivo en Casa'
 theme = "papermod"
