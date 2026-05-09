@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Guías de Cultivo on Tu Cultivo en Casa</title>
-    <link>http://localhost:1313/guias-cultivo/</link>
+    <link>http://localhost:1313/tu-cultivo-en-casa/guias-cultivo/</link>
     <description>Recent content in Guías de Cultivo on Tu Cultivo en Casa</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/guias-cultivo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tu-cultivo-en-casa/guias-cultivo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cómo cultivar tomates cherry en maceta en tu terraza: Guía completa paso a paso para principiantes</title>
-      <link>http://localhost:1313/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</link>
+      <link>http://localhost:1313/tu-cultivo-en-casa/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</guid>
+      <guid>http://localhost:1313/tu-cultivo-en-casa/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/</guid>
       <description>Aprende a cosechar tus propios tomates cherry en casa con nuestra guía paso a paso. Desde la elección de la maceta hasta el riego perfecto para una cosecha abundante.</description>
     </item>
   </channel>
