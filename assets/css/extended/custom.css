@@ -412,7 +412,7 @@ body, p, span, a {
     padding: 4rem 1.5rem !important;
     margin-bottom: 2rem !important;
     position: relative !important;
-    background-image: url('/images/hero-bg.webp') !important;
+    /* background-image removed to allow inline style to work */
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
