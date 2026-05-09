@@ -1,11 +1,39 @@
 baseURL = 'https://example.org/'
 locale = 'es-es'
 title = 'Tu Cultivo en Casa'
-
+theme = "papermod"
 
 [params]
 mainSections = ["guias-cultivo", "huerto-urbano", "cuidado-mantenimiento", "reviews-productos"]
+disableThemeToggle = false
+
+[params.assets]
+disableCSS = false
+favicon = "/favicon.png"
+favicon16x16 = "/favicon.png"
+favicon32x32 = "/favicon.png"
+apple_touch_icon = "/favicon.png"
 
 [taxonomies]
 category = "categoria"
 tag = "tag"
+
+[[menu.main]]
+name = "Guías"
+url = "/guias-cultivo/"
+weight = 1
+
+[[menu.main]]
+name = "Huerto Urbano"
+url = "/huerto-urbano/"
+weight = 2
+
+[[menu.main]]
+name = "Cuidado"
+url = "/cuidado-mantenimiento/"
+weight = 3
+
+[[menu.main]]
+name = "Reviews"
+url = "/reviews-productos/"
+weight = 4

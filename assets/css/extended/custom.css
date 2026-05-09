@@ -1,0 +1,724 @@
+:root {
+    /* Colors from DESIGN.md (Light Mode) */
+    --color-background: #f5f2ed; /* Calid Parchment */
+    --color-primary: #334537;    /* Moss Green */
+    --color-secondary: #8b4f35;  /* Soft Terracotta */
+    --color-tertiary: #3e4240;    /* Urban Grey */
+    --color-surface: #ffffff;
+    --color-outline: #c3c8c1;
+    
+    /* Theme Variables */
+    --theme: 'light';
+    --body-bg: var(--color-background);
+    --text-main: #1a1c1b;
+    --text-muted: #434843;
+    --primary: var(--color-primary);
+    --secondary: var(--color-secondary);
+    --border-color: var(--color-outline);
+}
+
+/* Dark Mode Overrides */
+[data-theme="dark"] {
+    --color-background: #1a1c1b; /* Dark Moss Base */
+    --color-primary: #a8c5b0;    /* Lighter Moss Green for contrast */
+    --color-secondary: #d4a373;  /* Lighter Terracotta */
+    --color-tertiary: #b0b5b0;   /* Lighter Urban Grey */
+    --color-surface: #252826;    /* Darker Surface for cards */
+    --color-outline: #4a524a;    /* Visible borders in dark */
+    
+    --body-bg: var(--color-background);
+    --text-main: #e8e6e1;        /* Warm Light Text */
+    --text-muted: #a0a5a0;       /* Lighter Muted Text */
+    --primary: var(--color-primary);
+    --secondary: var(--color-secondary);
+    --border-color: var(--color-outline);
+}
+
+/* Apply Parchment Background to Body */
+body {
+    background-color: var(--color-background) !important;
+    color: var(--text-main) !important;
+}
+
+/* Typography: Libre Caslon Text for Headings */
+h1, h2, h3, h4 {
+    font-family: 'Libre Caslon Text', serif !important;
+    color: var(--color-primary) !important;
+}
+
+/* Typography: Metropolis for Body */
+body, p, span, a {
+    font-family: 'Metropolis', sans-serif !important;
+}
+
+/* Chips/Tags customization */
+.tag, .category-link, .chip {
+    background-color: rgba(139, 79, 53, 0.12) !important;
+    color: var(--color-secondary) !important;
+    border: none !important;
+    border-radius: 1rem !important;
+    font-size: 0.75rem !important;
+    font-weight: 500 !important;
+    padding: 0.2rem 0.6rem !important;
+    display: inline-block !important;
+}
+
+/* Main Container: Centered with visible boundaries */
+.main {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 2rem 1.5rem !important;
+}
+
+/* Post Single: Card-like container */
+.post-single {
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-radius: 0.5rem !important;
+    padding: 2.5rem !important;
+    margin-bottom: 3rem !important;
+    box-shadow: 0 4px 20px rgba(51, 69, 55, 0.06) !important;
+}
+
+/* Post Title: Merged styles */
+.post-title {
+    font-family: 'Libre Caslon Text', serif !important;
+    color: var(--color-primary) !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    hyphens: auto !important;
+    line-height: 1.25 !important;
+    font-size: clamp(1.5rem, 3.5vw, 2.25rem) !important;
+    margin-bottom: 1rem !important;
+}
+
+/* Post Content: Constrained width with clear boundaries */
+.post-content {
+    max-width: 680px !important;
+    margin: 0 auto !important;
+    line-height: 1.75 !important;
+    font-size: 1.05rem !important;
+}
+
+.post-content p {
+    margin-bottom: 1.5rem !important;
+}
+
+.post-content h2, .post-content h3, .post-content h4 {
+    margin-top: 2.5rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.post-content img {
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 0.375rem !important;
+    margin: 2rem 0 !important;
+    display: block !important;
+}
+
+/* Post Header: Better spacing within container */
+.post-header {
+    margin-bottom: 2.5rem !important;
+    padding-bottom: 1.5rem !important;
+    border-bottom: 1px solid var(--color-outline) !important;
+}
+
+.post-description {
+    font-size: 1.1rem !important;
+    color: var(--text-muted) !important;
+    margin-bottom: 1rem !important;
+    line-height: 1.6 !important;
+}
+
+.post-meta {
+    margin-top: 1rem !important;
+    font-size: 0.9rem !important;
+}
+
+/* Hide entry cover to avoid duplicate images */
+.entry-cover {
+    display: none !important;
+}
+
+/* ============================================
+   HEADER & NAVIGATION
+   ============================================ */
+
+.site-header {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1000 !important;
+    background: var(--color-surface) !important;
+    border-bottom: 1px solid var(--color-outline) !important;
+    padding: 0.75rem 1.5rem !important;
+}
+
+.header-inner {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    gap: 1rem !important;
+    position: relative !important;
+    z-index: 1001 !important;
+}
+
+.site-logo {
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+    text-decoration: none !important;
+    flex-shrink: 0 !important;
+}
+
+.logo-img {
+    width: 32px !important;
+    height: 32px !important;
+    flex-shrink: 0 !important;
+}
+
+.logo-text {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: 1.1rem !important;
+    color: var(--color-primary) !important;
+    white-space: nowrap !important;
+}
+
+.main-nav {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.nav-links {
+    display: flex !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    gap: 0.25rem !important;
+}
+
+.nav-links li {
+    margin: 0 !important;
+}
+
+.nav-links a {
+    display: block !important;
+    padding: 0.5rem 0.75rem !important;
+    font-size: 0.85rem !important;
+    color: var(--color-tertiary) !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+    border-radius: 0.25rem !important;
+    transition: all 0.2s ease !important;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+    color: var(--color-primary) !important;
+    background: rgba(51, 69, 55, 0.08) !important;
+}
+
+.theme-toggle-btn {
+    flex-shrink: 0 !important;
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    padding: 0.5rem !important;
+    color: var(--text-main) !important; /* Use text color for visibility */
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.theme-toggle-btn svg {
+    stroke: currentColor !important;
+}
+
+/* Hamburger Button */
+.menu-toggle {
+    display: none !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 40px !important;
+    height: 40px !important;
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    padding: 0 !important;
+    gap: 5px !important;
+    z-index: 1001 !important;
+}
+
+.hamburger-line {
+    display: block !important;
+    width: 22px !important;
+    height: 2px !important;
+    background: var(--color-primary) !important;
+    border-radius: 2px !important;
+    transition: all 0.3s ease !important;
+    transform-origin: center !important;
+}
+
+.menu-toggle.active .hamburger-line:nth-child(1) {
+    transform: translateY(7px) rotate(45deg) !important;
+}
+
+.menu-toggle.active .hamburger-line:nth-child(2) {
+    opacity: 0 !important;
+    transform: scaleX(0) !important;
+}
+
+.menu-toggle.active .hamburger-line:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg) !important;
+}
+
+/* Mobile Navigation Overlay */
+.nav-overlay {
+    display: none !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background: rgba(26, 28, 27, 0.5) !important;
+    backdrop-filter: blur(4px) !important;
+    z-index: 998 !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    transition: opacity 0.3s ease !important;
+}
+
+.nav-overlay.visible {
+    opacity: 1 !important;
+    pointer-events: auto !important;
+}
+
+/* Mobile Header */
+@media (max-width: 768px) {
+    .site-header {
+        padding: 0.6rem 1rem !important;
+    }
+
+    .menu-toggle {
+        display: flex !important;
+        order: 2 !important;
+    }
+
+    .theme-toggle-btn {
+        order: 3 !important;
+        padding: 0.4rem !important;
+    }
+
+    .theme-toggle-btn svg {
+        width: 18px !important;
+        height: 18px !important;
+    }
+
+    .site-logo {
+        order: 1 !important;
+        flex: 1 !important;
+        min-width: 0 !important;
+    }
+
+    .logo-text {
+        font-size: 1rem !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    .main-nav {
+        position: fixed !important;
+        top: 0 !important;
+        right: 0 !important;
+        width: 280px !important;
+        height: 100vh !important;
+        height: 100dvh !important;
+        background: var(--color-surface) !important;
+        box-shadow: -4px 0 20px rgba(0, 0, 0, 0.1) !important;
+        transform: translateX(100%) !important;
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+        z-index: 999 !important;
+        padding: 5rem 1.5rem 2rem !important;
+        justify-content: flex-start !important;
+        overflow-y: auto !important;
+    }
+
+    .main-nav.open {
+        transform: translateX(0) !important;
+    }
+
+    .nav-overlay {
+        display: block !important;
+    }
+
+    .nav-links {
+        flex-direction: column !important;
+        gap: 0.5rem !important;
+        width: 100% !important;
+    }
+
+    .nav-links a {
+        font-size: 1rem !important;
+        padding: 0.75rem 1rem !important;
+        border-radius: 0.5rem !important;
+        border-bottom: 1px solid var(--color-outline) !important;
+    }
+
+    .nav-links a:last-child {
+        border-bottom: none !important;
+    }
+
+    .nav-links a:hover,
+    .nav-links a.active {
+        background: rgba(51, 69, 55, 0.08) !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .site-header {
+        padding: 0.5rem 0.75rem !important;
+    }
+
+    .logo-img {
+        width: 28px !important;
+        height: 28px !important;
+    }
+
+    .logo-text {
+        font-size: 0.95rem !important;
+    }
+
+    .main-nav {
+        width: 100% !important;
+        padding: 4.5rem 1rem 2rem !important;
+    }
+}
+
+/* ============================================
+   HOME PAGE
+   ============================================ */
+
+.home-container {
+    width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+/* Hero Section: Better text contrast over image */
+.hero-section {
+    text-align: center !important;
+    padding: 3rem 1.5rem !important;
+    margin-bottom: 2rem !important;
+    position: relative !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border-radius: 1rem !important;
+    overflow: hidden !important;
+}
+
+.hero-section::before {
+    content: '' !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.6)) !important;
+    z-index: 1 !important;
+    pointer-events: none !important;
+}
+
+.hero-content {
+    position: relative !important;
+    z-index: 2 !important;
+}
+
+.hero-title {
+    font-size: clamp(1.75rem, 5vw, 3rem) !important;
+    margin-bottom: 1rem !important;
+    line-height: 1.2 !important;
+    color: #ffffff !important;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5) !important;
+}
+
+.hero-subtitle {
+    font-size: clamp(1rem, 2.5vw, 1.25rem) !important;
+    color: #f5f5f5 !important;
+    max-width: 600px !important;
+    margin: 0 auto !important;
+    line-height: 1.6 !important;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.5) !important;
+}
+
+.hero-divider {
+    width: 60px !important;
+    height: 2px !important;
+    background: var(--color-secondary) !important;
+    margin: 1.5rem auto 0 !important;
+}
+
+/* Categories Section */
+.categories-section {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 0.75rem !important;
+    padding: 1rem 1.5rem !important;
+    margin-bottom: 2.5rem !important;
+}
+
+.category-pill {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+    padding: 0.6rem 1.2rem !important;
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-radius: 2rem !important;
+    text-decoration: none !important;
+    color: var(--color-primary) !important;
+    font-size: 0.9rem !important;
+    transition: all 0.2s ease !important;
+    white-space: nowrap !important;
+}
+
+.category-pill:hover {
+    background: var(--color-primary) !important;
+    color: #ffffff !important;
+    border-color: var(--color-primary) !important;
+}
+
+.pill-icon {
+    font-size: 1.1rem !important;
+}
+
+/* Manifesto Section */
+.manifesto-section {
+    padding: 0 1.5rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.manifesto-card {
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-left: 4px solid var(--color-secondary) !important;
+    border-radius: 0.5rem !important;
+    padding: 2rem !important;
+    max-width: 700px !important;
+    margin: 0 auto !important;
+}
+
+.manifesto-title {
+    font-size: 1.25rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.manifesto-text {
+    font-size: 1rem !important;
+    line-height: 1.7 !important;
+    color: var(--text-muted) !important;
+}
+
+/* Posts Grid */
+.posts-section {
+    padding: 0 1.5rem !important;
+}
+
+.posts-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) !important;
+    gap: 1.5rem !important;
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+}
+
+/* Post Card: Cleaned up duplicate */
+.post-card {
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-radius: 0.5rem !important;
+    overflow: hidden !important;
+    transition: all 0.3s ease !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.post-card:hover {
+    box-shadow: 0 8px 25px rgba(51, 69, 55, 0.1) !important;
+    transform: translateY(-3px) !important;
+}
+
+.card-image-wrapper {
+    width: 100% !important;
+    overflow: hidden !important;
+}
+
+.card-image {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+    display: block !important;
+}
+
+.card-body {
+    padding: 1.25rem !important;
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.card-tags {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 0.4rem !important;
+    margin-bottom: 0.75rem !important;
+}
+
+/* Card Title: Merged styles */
+.card-title {
+    font-size: 1.1rem !important;
+    margin-bottom: 0.75rem !important;
+    line-height: 1.4 !important;
+}
+
+.card-title a {
+    color: var(--color-primary) !important;
+    text-decoration: none !important;
+    background: none !important;
+    padding: 0 !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+}
+
+.card-title a:hover {
+    color: var(--color-secondary) !important;
+}
+
+.card-excerpt {
+    font-size: 0.9rem !important;
+    color: var(--text-muted) !important;
+    line-height: 1.6 !important;
+    margin-bottom: 1rem !important;
+    flex: 1 !important;
+}
+
+.card-footer {
+    margin-top: auto !important;
+}
+
+/* Buttons: Specific to avoid affecting card titles */
+.btn, .button, .btn-primary, .card-footer a {
+    background-color: var(--color-primary) !important;
+    color: #ffffff !important;
+    border-radius: 0.25rem !important;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 12px;
+    padding: 0.5rem 1rem !important;
+    display: inline-block !important;
+    text-decoration: none !important;
+}
+
+.btn-primary:hover {
+    background: var(--color-secondary) !important;
+}
+
+/* Mobile Home Adjustments */
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 2rem 1rem !important;
+    }
+
+    .categories-section {
+        padding: 1rem !important;
+        gap: 0.5rem !important;
+    }
+
+    .category-pill {
+        padding: 0.5rem 1rem !important;
+        font-size: 0.85rem !important;
+    }
+
+    .manifesto-section {
+        padding: 0 1rem !important;
+    }
+
+    .manifesto-card {
+        padding: 1.5rem !important;
+    }
+
+    .posts-section {
+        padding: 0 1rem !important;
+    }
+
+    .posts-grid {
+        grid-template-columns: 1fr !important;
+        gap: 1rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-section {
+        padding: 1.5rem 0.75rem !important;
+    }
+
+    .hero-title {
+        font-size: 1.5rem !important;
+    }
+
+    .hero-subtitle {
+        font-size: 0.95rem !important;
+    }
+
+    .categories-section {
+        padding: 0.75rem !important;
+    }
+
+    .category-pill {
+        padding: 0.4rem 0.8rem !important;
+        font-size: 0.8rem !important;
+    }
+
+    .pill-icon {
+        font-size: 1rem !important;
+    }
+
+    .manifesto-card {
+        padding: 1.25rem !important;
+    }
+
+    .manifesto-title {
+        font-size: 1.1rem !important;
+    }
+
+    .manifesto-text {
+        font-size: 0.9rem !important;
+    }
+
+    .posts-section {
+        padding: 0 0.75rem !important;
+    }
+
+    .card-body {
+        padding: 1rem !important;
+    }
+
+    .card-title {
+        font-size: 1rem !important;
+    }
+
+    .card-excerpt {
+        font-size: 0.85rem !important;
+    }
+}
+
+/* Prevent horizontal scroll globally */
+html, body {
+    overflow-x: hidden !important;
+    max-width: 100vw !important;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box !important;
+}

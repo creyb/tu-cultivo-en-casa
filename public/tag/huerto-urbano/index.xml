@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Huerto Urbano on Tu Cultivo en Casa</title>
-    <link>https://example.org/tag/huerto-urbano/</link>
+    <link>http://localhost:1313/tag/huerto-urbano/</link>
     <description>Recent content in Huerto Urbano on Tu Cultivo en Casa</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tag/huerto-urbano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/huerto-urbano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qué plantar en junio en el huerto urbano: guía completa para España</title>
+      <link>http://localhost:1313/huerto-urbano/que-plantar-junio-huerto-urbano/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/huerto-urbano/que-plantar-junio-huerto-urbano/</guid>
+      <description>Calendario de siembra para junio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el inicio del verano.</description>
+    </item>
     <item>
       <title>Cultivar zanahorias en mayo: guía completa para huerto urbano</title>
-      <link>https://example.org/huerto-urbano/cultivar-zanahorias-en-mayo/</link>
+      <link>http://localhost:1313/huerto-urbano/cultivar-zanahorias-en-mayo/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/huerto-urbano/cultivar-zanahorias-en-mayo/</guid>
-      <description>&lt;h1 id=&#34;cultivar-zanahorias-en-mayo-guía-completa-para-huerto-urbano&#34;&gt;Cultivar zanahorias en mayo: guía completa para huerto urbano&lt;/h1&gt;&#xA;&lt;p&gt;Mayo es un mes muy interesante para &lt;strong&gt;cultivar zanahorias&lt;/strong&gt; en el huerto urbano. En muchas zonas de España, la temperatura ya acompaña, los días son más largos y el crecimiento se acelera. Eso sí, la zanahoria tiene sus manías: necesita un sustrato fino, profundo y sin piedras, riegos constantes y una siembra bien hecha desde el principio.&lt;/p&gt;&#xA;&lt;p&gt;Si quieres lograr zanahorias rectas, dulces y tiernas, este artículo te ayudará a planificar la siembra de mayo con buen criterio. Verás qué variedad elegir, cómo preparar la maceta o mesa de cultivo, cuándo sembrar, cómo aclarar plantones y qué errores evitar.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/huerto-urbano/cultivar-zanahorias-en-mayo/</guid>
+      <description>Aprende cuándo y cómo cultivar zanahorias en mayo en España, con consejos de siembra, riego, sustrato y cosecha en huerto urbano.</description>
     </item>
   </channel>
 </rss>

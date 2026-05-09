@@ -1,0 +1,71 @@
+{{- define "main" }}
+
+<div class="list-page">
+  {{- $title := .Title }}
+  {{- if .IsSection }}
+    {{- $title = .Section | humanize }}
+  {{- end }}
+  
+  <header class="list-header">
+    <h1>{{ $title }}</h1>
+    {{- if .Description }}
+    <p class="list-description">{{ .Description | markdownify }}</p>
+    {{- end }}
+  </header>
+
+  {{- $pages := .RegularPages }}
+  {{- $paginator := .Paginate $pages }}
+
+  <div class="posts-grid">
+    {{- range $paginator.Pages }}
+    <article class="post-card">
+      {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+      {{- if and .Params.cover.image (not $isHidden) }}
+      <div class="card-image-wrapper">
+        <img src="{{ .Params.cover.image | relURL }}" 
+             alt="{{ .Params.cover.alt | default .Title }}" 
+             class="card-image"
+             loading="lazy">
+      </div>
+      {{- end }}
+      
+      <div class="card-body">
+        {{- if .Params.tags }}
+        <div class="card-tags">
+          {{- range first 2 .Params.tags }}
+          <span class="chip">{{ . }}</span>
+          {{- end }}
+        </div>
+        {{- end }}
+        
+        <h2 class="card-title">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+        
+        {{- if .Summary }}
+        <p class="card-excerpt">{{ .Summary | plainify | htmlUnescape | truncate 150 }}</p>
+        {{- end }}
+        
+        <div class="card-footer">
+          <a href="{{ .Permalink }}" class="btn-primary">Leer más</a>
+        </div>
+      </div>
+    </article>
+    {{- end }}
+  </div>
+
+  {{- if gt $paginator.TotalPages 1 }}
+  <footer class="page-footer">
+    <nav class="pagination">
+      {{- if $paginator.HasPrev }}
+      <a class="prev" href="{{ $paginator.Prev.URL }}">« Anterior</a>
+      {{- end }}
+      {{- if $paginator.HasNext }}
+      <a class="next" href="{{ $paginator.Next.URL }}">Siguiente »</a>
+      {{- end }}
+    </nav>
+  </footer>
+  {{- end }}
+</div>
+
+{{- end }}

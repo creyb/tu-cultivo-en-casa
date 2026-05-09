@@ -1,46 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tag on Tu Cultivo en Casa</title>
-    <link>https://example.org/tag/</link>
+    <link>http://localhost:1313/tag/</link>
     <description>Recent content in Tag on Tu Cultivo en Casa</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hortalizas</title>
-      <link>https://example.org/tag/hortalizas/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tag/hortalizas/</guid>
+      <title>Calendario Siembra</title>
+      <link>http://localhost:1313/tag/calendario-siembra/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/calendario-siembra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>España</title>
+      <link>http://localhost:1313/tag/espa%C3%B1a/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/espa%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hortalizas Verano</title>
+      <link>http://localhost:1313/tag/hortalizas-verano/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/hortalizas-verano/</guid>
       <description></description>
     </item>
     <item>
       <title>Huerto Urbano</title>
-      <link>https://example.org/tag/huerto-urbano/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tag/huerto-urbano/</guid>
+      <link>http://localhost:1313/tag/huerto-urbano/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/huerto-urbano/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mayo</title>
-      <link>https://example.org/tag/mayo/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tag/mayo/</guid>
+      <title>Junio</title>
+      <link>http://localhost:1313/tag/junio/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/junio/</guid>
       <description></description>
     </item>
     <item>
       <title>Siembra</title>
-      <link>https://example.org/tag/siembra/</link>
+      <link>http://localhost:1313/tag/siembra/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/siembra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hortalizas</title>
+      <link>http://localhost:1313/tag/hortalizas/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tag/siembra/</guid>
+      <guid>http://localhost:1313/tag/hortalizas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mayo</title>
+      <link>http://localhost:1313/tag/mayo/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/mayo/</guid>
       <description></description>
     </item>
     <item>
       <title>Zanahorias</title>
-      <link>https://example.org/tag/zanahorias/</link>
+      <link>http://localhost:1313/tag/zanahorias/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tag/zanahorias/</guid>
+      <guid>http://localhost:1313/tag/zanahorias/</guid>
       <description></description>
     </item>
   </channel>

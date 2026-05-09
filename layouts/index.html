@@ -1,52 +1,68 @@
 {{ define "main" }}
-<div class="container" style="padding: var(--space-xl) 0;">
-  <section style="text-align: center; margin-bottom: var(--space-xl); max-width: 800px; margin-left: auto; margin-right: auto;">
-    <h1 class="hero-title">{{ .Site.Title }}</h1>
-    <p class="hero-subtitle">
-      Transformando balcones caóticos en santuarios curados. Guías profesionales para el cultivador sofisticado.
-    </p>
-    <div class="divider"></div>
+<div class="home-container">
+  
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">{{ .Site.Title }}</h1>
+      <p class="hero-subtitle">Transformando balcones en santuarios curados. Guías para el cultivador sofisticado.</p>
+      <div class="hero-divider"></div>
+    </div>
   </section>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-lg); align-items: stretch;">
-    {{ range .Site.RegularPages }}
-      <div class="card card-organic">
-        {{ if .Params.featured_image }}
-          <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
-        {{ else if .Params.image }}
-          <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-        {{ else }}
-          {{ $firstImage := index (.Page.Resources.Match "images/*.webp") 0 }}
-          {{ if $firstImage }}
-            <img src="{{ $firstImage.RelPermalink }}" alt="{{ .Title }}">
-          {{ else }}
-             {{ $img := index (findRE `!\[.*?\]\((.*?)\)` .Content) 0 }}
-             {{ if $img }}
-                {{ $url := replaceRE `!\[.*?\]\((.*?)\)` "$1" $img }}
-                <img src="{{ $url | relURL }}" alt="{{ .Title }}">
-             {{ else }}
-                <div style="background: var(--color-surface-container); aspect-ratio: 4/3; display: flex; align-items: center; justify-content: center; color: var(--color-outline);">
-                  <span style="font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em;">Sin imagen</span>
-                </div>
-             {{ end }}
+  <!-- Categorías Rápidas -->
+  <section class="categories-section">
+    {{ range .Site.Params.mainSections }}
+      <a href="/{{ . }}" class="category-pill">
+        <span class="pill-icon">
+          {{ if eq . "guias-cultivo" }}🌱
+          {{ else if eq . "huerto-urbano" }}🏙️
+          {{ else if eq . "cuidado-mantenimiento" }}💧
+          {{ else if eq . "reviews-productos" }}⭐
+          {{ else }}🌿
           {{ end }}
-        {{ end }}
-        <div class="card-content">
-          <div style="margin-bottom: var(--space-sm);">
-            {{ range .Params.categories }}
-              <span class="chip">{{ . }}</span>
-            {{ end }}
-          </div>
-          <h3 style="font-size: 24px; margin-bottom: var(--space-sm); line-height: 1.2;">
-            <a href="{{ .RelPermalink }}" style="text-decoration: none; color: var(--color-primary);">{{ .Title }}</a>
-          </h3>
-          <p style="font-size: 16px; color: var(--color-on-surface-variant); margin-bottom: var(--space-md); flex-grow: 1;">
-            {{ .Summary | truncate 120 }}
-          </p>
-          <a href="{{ .RelPermalink }}" class="btn-primary">Leer más</a>
-        </div>
-      </div>
+        </span>
+        <span class="pill-text">{{ . | humanize }}</span>
+      </a>
     {{ end }}
-  </div>
+  </section>
+
+  <!-- El Manifiesto -->
+  <section class="manifesto-section">
+    <div class="manifesto-card">
+      <h2 class="manifesto-title">El Manifiesto del Cultivador</h2>
+      <p class="manifesto-text">
+        Creemos que el huerto urbano no es solo una fuente de alimentos, sino un acto de resistencia contra el caos de la ciudad. Buscamos la armonía entre la precisión técnica y la imperfección orgánica, convirtiendo cada maceta en una pieza de diseño vivo.
+      </p>
+    </div>
+  </section>
+
+  <!-- Grid de Posts -->
+  <section class="posts-section">
+    <div class="posts-grid">
+      {{ range .Site.RegularPages }}
+        <article class="post-card">
+          {{ if .Params.cover }}
+            <div class="card-image-wrapper">
+              <img src="{{ .Params.cover.image | relURL }}" alt="{{ .Params.cover.alt }}" class="card-image">
+            </div>
+          {{ end }}
+          <div class="card-body">
+            <div class="card-tags">
+            {{ range .Params.categoria }}<span class="chip">{{ . | humanize }}</span>{{ end }}
+            {{ range .Params.categories }}<span class="chip">{{ . | humanize }}</span>{{ end }}
+            </div>
+            <h3 class="card-title">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h3>
+            <p class="card-excerpt">{{ .Summary | truncate 140 }}</p>
+            <div class="card-footer">
+              <a href="{{ .RelPermalink }}" class="btn-primary">Leer más</a>
+            </div>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  </section>
 </div>
 {{ end }}
