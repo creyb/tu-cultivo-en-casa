@@ -491,8 +491,8 @@ body, p, span, a {
 }
 
 .category-pill:hover {
-    background: var(--color-primary) !important;
-    color: #ffffff !important;
+    background: rgba(51, 69, 55, 0.08) !important;
+    color: var(--color-primary) !important;
     border-color: var(--color-primary) !important;
 }
 
@@ -632,7 +632,7 @@ body, p, span, a {
 }
 
 .btn-primary:hover {
-    background: var(--color-secondary) !important;
+    background: #2d3f32 !important; /* darker, more saturated moss instead of terracotta jump */
 }
 
 /* Mobile Home Adjustments */
