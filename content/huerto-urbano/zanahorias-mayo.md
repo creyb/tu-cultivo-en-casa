@@ -5,10 +5,10 @@ draft: false
 summary: "Descubre los secretos para cultivar zanahorias perfectas en mayo. Te explicamos el sustrato ideal, la siembra correcta y los cuidados necesarios para un huerto urbano productivo."
 categoria: ["Huerto urbano"]
 cover:
-    image: "images/zanahorias-mayo-hero.webp"
+    image: "/images/zanahorias-mayo-hero.webp"
     title: "Cultivar zanahorias en mayo: guía completa para huerto urbano"
     alt: "Sembrar zanahorias en mayo en un huerto urbano"
-featured_image: "images/zanahorias-mayo-hero.webp"
+featured_image: "/images/zanahorias-mayo-hero.webp"
 tag: ["zanahorias", "mayo", "siembra", "huerto urbano", "hortalizas"]
 description: "Aprende cuándo y cómo cultivar zanahorias en mayo en España, con consejos de siembra, riego, sustrato y cosecha en huerto urbano."
 slug: "cultivar-zanahorias-en-mayo"
@@ -20,7 +20,7 @@ Mayo es un mes muy interesante para **cultivar zanahorias** en el huerto urbano.
 
 Si quieres lograr zanahorias rectas, dulces y tiernas, este artículo te ayudará a planificar la siembra de mayo con buen criterio. Verás qué variedad elegir, cómo preparar la maceta o mesa de cultivo, cuándo sembrar, cómo aclarar plantones y qué errores evitar.
 
-![Sembrar zanahorias en mayo en un huerto urbano](images/zanahorias-mayo-hero.webp)
+![Sembrar zanahorias en mayo en un huerto urbano](/images/zanahorias-mayo-hero.webp)
 
 ## ¿Se pueden sembrar zanahorias en mayo?
 
@@ -69,7 +69,7 @@ Hazlo así:
 
 La raíz de la zanahoria se deforma fácilmente si encuentra obstáculos. Por eso, cuanto más homogéneo sea el sustrato, mejor será el resultado.
 
-![Preparación del sustrato para zanahorias](images/sustrato-zanahorias.webp)
+![Preparación del sustrato para zanahorias](/images/sustrato-zanahorias.webp)
 
 ## Cómo sembrar zanahorias en mayo
 

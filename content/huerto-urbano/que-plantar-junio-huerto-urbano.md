@@ -5,10 +5,10 @@ draft: false
 summary: "Descubre qué hortalizas, verduras y aromáticas puedes plantar en junio en tu huerto urbano. Calendario de siembra adaptado al clima de España con consejos prácticos."
 categoria: ["Huerto urbano"]
 cover:
-    image: "images/que-plantar-junio-hero.webp"
+    image: "/images/que-plantar-junio-hero.webp"
     title: "Qué plantar en junio en el huerto urbano"
     alt: "Huerto urbano productivo en junio con diversas hortalizas"
-featured_image: "images/que-plantar-junio-hero.webp"
+featured_image: "/images/que-plantar-junio-hero.webp"
 tag: ["junio", "siembra", "huerto urbano", "calendario siembra", "hortalizas verano", "España"]
 description: "Calendario de siembra para junio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el inicio del verano."
 slug: "que-plantar-junio-huerto-urbano"
@@ -20,7 +20,7 @@ Junio marca el arranque oficial del verano en España. Los días son largos, las
 
 Si tienes macetas, jardineras o una mesa de cultivo en tu terraza o balcón, esta guía te ayudará a decidir qué sembrar en junio con criterio. Verás qué hortalizas funcionan mejor, cómo adaptarlas al calor y qué errores evitar.
 
-![Huerto urbano productivo en junio con diversas hortalizas](images/que-plantar-junio-hero.webp)
+![Huerto urbano productivo en junio con diversas hortalizas](/images/que-plantar-junio-hero.webp)
 
 ## Por qué junio es un mes clave para el huerto urbano
 
@@ -117,7 +117,7 @@ Las aromáticas son compañeras perfectas del huerto urbano en junio. Además de
 - **Cilantro**: Tiende a espigar con el calor; siembra escalonada cada 2-3 semanas.
 - **Consejo**: Planta albahaca cerca de tomates y pimientos; la asociación beneficia a ambos cultivos.
 
-![Variedad de hortalizas de verano cultivadas en macetas y jardineras en un huerto urbano](images/hortalizas-verano-macetas.webp)
+![Variedad de hortalizas de verano cultivadas en macetas y jardineras en un huerto urbano](/images/hortalizas-verano-macetas.webp)
 
 ## Qué NO plantar en junio
 
@@ -195,7 +195,7 @@ No todas las plantas necesitan la misma exposición.
 - Usa mallas de sombreo del 30-50% para cultivos de clima fresco
 - Aprovecha las paredes o barandillas de la terraza como protección natural
 
-![Huerto urbano en terraza con malla de sombreo protegiendo las plantas del sol](images/huerto-urbano-sombreo.webp)
+![Huerto urbano en terraza con malla de sombreo protegiendo las plantas del sol](/images/huerto-urbano-sombreo.webp)
 
 ## Asociaciones favorables para junio
 
@@ -216,7 +216,7 @@ Evita plantar juntas:
 - Judías con cebollas o ajos (se inhiben mutuamente)
 - Lechugas con perejil (competencia de espacio)
 
-![Tomate y albahaca creciendo juntos en la misma maceta como asociación favorable](images/asociacion-tomate-albahaca.webp)
+![Tomate y albahaca creciendo juntos en la misma maceta como asociación favorable](/images/asociacion-tomate-albahaca.webp)
 
 ## Cuidados específicos de junio
 
@@ -229,7 +229,7 @@ El riego es el cuidado más crítico en junio.
 - **Horario**: Mañana temprano (6-9h) o tarde (19-21h)
 - **Técnica**: Riego en la base, nunca sobre las hojas
 
-![Sistema de riego por goteo instalado en macetas de terraza](images/riego-goteo-macetas-terraza.webp)
+![Sistema de riego por goteo instalado en macetas de terraza](/images/riego-goteo-macetas-terraza.webp)
 
 ### Abonado
 
