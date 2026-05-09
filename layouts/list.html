@@ -21,8 +21,10 @@
     <article class="post-card">
       {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
       {{- if and .Params.cover.image (not $isHidden) }}
+      {{- $img := .Params.cover.image }}
+      {{- if hasPrefix $img "/" }}{{ $img = substr $img 1 }}{{ end }}
       <div class="card-image-wrapper">
-        <img src="{{ .Params.cover.image | relURL }}" 
+        <img src="{{ $img | relURL }}?v=2" 
              alt="{{ .Params.cover.alt | default .Title }}" 
              class="card-image"
              loading="lazy">
