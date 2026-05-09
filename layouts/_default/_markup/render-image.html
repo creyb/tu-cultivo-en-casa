@@ -1,0 +1,3 @@
+{{- $src := .Destination -}}
+{{- if hasPrefix $src "/" -}}{{ $src = substr $src 1 -}}{{- end -}}
+<img src="{{ $src | relURL }}?v=2" alt="{{ .Text }}" loading="lazy">
