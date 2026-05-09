@@ -7,6 +7,7 @@
       <h1 class="hero-title">{{ .Site.Title }}: Huerto Urbano y Guías de Cultivo</h1>
       <p class="hero-subtitle">Transformando balcones en santuarios curados. Guías para el cultivador sofisticado.</p>
       <div class="hero-divider"></div>
+      <a href="/guias-cultivo/" class="btn-primary hero-cta">Empieza tu huerto urbano</a>
     </div>
   </section>
 
@@ -32,13 +33,14 @@
     <div class="manifesto-card">
       <h2 class="manifesto-title">El Manifiesto del Cultivador</h2>
       <p class="manifesto-text">
-        Creemos que el huerto urbano no es solo una fuente de alimentos, sino un acto de resistencia contra el caos de la ciudad. Buscamos la armonía entre la precisión técnica y la imperfección orgánica, convirtiendo cada maceta en una pieza de diseño vivo.
+        Creemos que el <a href="/huerto-urbano/">huerto urbano</a> no es solo una fuente de alimentos, sino un acto de resistencia contra el caos de la ciudad. En <a href="/guias-cultivo/">nuestras guías</a> buscamos la armonía entre la precisión técnica y la imperfección orgánica, convirtiendo cada maceta en una pieza de diseño vivo. Explora <a href="/cuidado-mantenimiento/">cuidados prácticos</a> y <a href="/reviews-productos/">reviews de productos</a> que hemos probado en nuestro propio balcón.
       </p>
     </div>
   </section>
 
   <!-- Grid de Posts -->
   <section class="posts-section">
+    <h2 class="section-title">Últimas publicaciones</h2>
     <div class="posts-grid">
       {{ range where .Site.RegularPages "Params.hiddenInHomeList" "!=" true }}
         <article class="post-card">
@@ -63,6 +65,16 @@
           </div>
         </article>
       {{ end }}
+    </div>
+  </section>
+
+  <!-- E-E-A-T / Trust Section -->
+  <section class="trust-section">
+    <div class="trust-card">
+      <h2 class="trust-title">¿Quién está detrás de Tu Cultivo en Casa?</h2>
+      <p class="trust-text">
+        Somos un equipo apasionado por transformar balcones y terrazas en espacios verdes productivos. Cada guía, consejo y review nace de la experiencia real cultivando en casa. <a href="/about/">Conoce nuestro manifiesto →</a>
+      </p>
     </div>
   </section>
 </div>

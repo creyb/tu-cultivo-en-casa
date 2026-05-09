@@ -1100,6 +1100,104 @@ body {
     }
 }
 
+/* ============================================
+   HOME IMPROVEMENTS
+   ============================================ */
+
+.hero-cta {
+    margin-top: 1.5rem !important;
+    display: inline-block !important;
+}
+
+.section-title {
+    font-size: clamp(1.25rem, 3vw, 1.75rem) !important;
+    text-align: center !important;
+    margin-bottom: 2.5rem !important;
+    color: var(--color-primary) !important;
+}
+
+.manifesto-text a {
+    color: var(--color-secondary) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+    font-weight: 600 !important;
+    transition: color 0.2s ease !important;
+}
+
+.manifesto-text a:hover {
+    color: var(--color-primary) !important;
+}
+
+.trust-section {
+    padding: 0 1.5rem !important;
+    margin-top: 4rem !important;
+}
+
+.trust-card {
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-radius: 0.5rem !important;
+    padding: 2rem !important;
+    max-width: 700px !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+/* Decorative terracotta dot */
+.trust-card::before {
+    content: "" !important;
+    position: absolute !important;
+    top: -12px !important;
+    right: -12px !important;
+    width: 36px !important;
+    height: 36px !important;
+    background: var(--color-secondary) !important;
+    opacity: 0.08 !important;
+    border-radius: 50% !important;
+    pointer-events: none !important;
+}
+
+.trust-title {
+    font-size: 1.25rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.trust-text {
+    font-size: 1rem !important;
+    line-height: 1.7 !important;
+    color: var(--text-muted) !important;
+    margin: 0 !important;
+}
+
+.trust-text a {
+    color: var(--color-secondary) !important;
+    text-decoration: underline !important;
+    font-weight: 600 !important;
+    transition: color 0.2s ease !important;
+}
+
+.trust-text a:hover {
+    color: var(--color-primary) !important;
+}
+
+/* Mobile Home Improvements */
+@media (max-width: 768px) {
+    .trust-section {
+        padding: 0 1rem !important;
+        margin-top: 3rem !important;
+    }
+
+    .trust-card {
+        padding: 1.5rem !important;
+    }
+
+    .section-title {
+        margin-bottom: 1.5rem !important;
+    }
+}
+
 /* Grain Overlay — subtle tactile texture over the parchment background */
 body::before {
     content: "" !important;
