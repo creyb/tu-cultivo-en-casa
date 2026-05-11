@@ -1237,3 +1237,34 @@ html, body {
 *, *::before, *::after {
     box-sizing: border-box !important;
 }
+
+/* Theme toggle icons: 3-state (light / dark / auto) */
+.theme-toggle-btn .auto {
+    display: none !important;
+}
+
+[data-theme-preference="auto"] .theme-toggle-btn .auto {
+    display: block !important;
+}
+[data-theme-preference="auto"] .theme-toggle-btn .sun,
+[data-theme-preference="auto"] .theme-toggle-btn .moon {
+    display: none !important;
+}
+
+[data-theme-preference="light"] .theme-toggle-btn .moon,
+[data-theme-preference="light"] .theme-toggle-btn .auto {
+    display: none !important;
+}
+
+[data-theme-preference="dark"] .theme-toggle-btn .sun,
+[data-theme-preference="dark"] .theme-toggle-btn .auto {
+    display: none !important;
+}
+
+[data-theme-preference="dark"] .theme-toggle-btn .moon {
+    display: block !important;
+}
+
+[data-theme-preference="light"] .theme-toggle-btn .sun {
+    display: block !important;
+}

@@ -85,17 +85,51 @@
 
 {{- if (not site.Params.disableThemeToggle) }}
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
+    (function() {
         const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
+        const media = window.matchMedia('(prefers-color-scheme: dark)');
+        let listener = null;
 
+        function applyAuto() {
+            html.dataset.theme = media.matches ? "dark" : "light";
+        }
+
+        function startAutoListener() {
+            if (listener) return;
+            listener = function(e) {
+                if (html.dataset.themePreference === "auto") {
+                    html.dataset.theme = e.matches ? "dark" : "light";
+                }
+            };
+            media.addEventListener('change', listener);
+        }
+
+        if (html.dataset.themePreference === "auto") {
+            startAutoListener();
+        }
+
+        document.getElementById("theme-toggle").addEventListener("click", () => {
+            const current = html.dataset.themePreference || "auto";
+            let next;
+            if (current === "light") {
+                next = "dark";
+            } else if (current === "dark") {
+                next = "auto";
+            } else {
+                next = "light";
+            }
+
+            html.dataset.themePreference = next;
+            localStorage.setItem("pref-theme", next);
+
+            if (next === "auto") {
+                applyAuto();
+                startAutoListener();
+            } else {
+                html.dataset.theme = next;
+            }
+        });
+    })();
 </script>
 {{- end }}
 

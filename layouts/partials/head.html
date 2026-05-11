@@ -144,32 +144,47 @@
 {{- /* theme is light */}}
 {{- if (eq site.Params.defaultTheme "light") }}
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
-    }
-
+    (function() {
+        const html = document.querySelector("html");
+        if (localStorage.getItem("pref-theme") === "dark") {
+            html.dataset.theme = "dark";
+            html.dataset.themePreference = "dark";
+        } else {
+            html.dataset.themePreference = "light";
+        }
+    })();
 </script>
 {{- /* theme is dark */}}
 {{- else if (eq site.Params.defaultTheme "dark") }}
 <script>
-    if (localStorage.getItem("pref-theme") === "light") {
-        document.querySelector("html").dataset.theme = 'light';
-    }
-
+    (function() {
+        const html = document.querySelector("html");
+        if (localStorage.getItem("pref-theme") === "light") {
+            html.dataset.theme = "light";
+            html.dataset.themePreference = "light";
+        } else {
+            html.dataset.themePreference = "dark";
+        }
+    })();
 </script>
 {{- else }}
 {{- /* theme is auto */}}
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else if (localStorage.getItem("pref-theme") === "light") {
-       document.querySelector("html").dataset.theme = 'light';
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else {
-        document.querySelector("html").dataset.theme = 'light';
-    }
-
+    (function() {
+        const html = document.querySelector("html");
+        const saved = localStorage.getItem("pref-theme");
+        if (saved === "dark") {
+            html.dataset.theme = "dark";
+            html.dataset.themePreference = "dark";
+        } else if (saved === "light") {
+            html.dataset.theme = "light";
+            html.dataset.themePreference = "light";
+        } else {
+            localStorage.setItem("pref-theme", "auto");
+            html.dataset.themePreference = "auto";
+            html.dataset.theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? "dark" : "light";
+        }
+    })();
 </script>
 {{- end }}
 {{- /* theme-toggle is disabled and theme is auto */}}
