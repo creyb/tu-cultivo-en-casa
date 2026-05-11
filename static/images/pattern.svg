@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g fill="black">
+    <!-- tomato top-left -->
+    <circle cx="35" cy="40" r="10"/>
+    <path d="M35 32 L31 28 M35 32 L39 28" stroke="black" stroke-width="2" fill="none"/>
+    
+    <!-- leaf top-right -->
+    <ellipse cx="160" cy="50" rx="7" ry="13" transform="rotate(30 160 50)"/>
+    <line x1="160" y1="37" x2="160" y2="63" stroke="black" stroke-width="1.5"/>
+    
+    <!-- pot mid-left -->
+    <rect x="30" y="110" width="14" height="18" rx="2.5"/>
+    <rect x="27" y="106" width="20" height="4" rx="2"/>
+    
+    <!-- carrot mid-right -->
+    <polygon points="165,105 171,128 159,128"/>
+    <path d="M165 103 L162 97 M165 103 L168 97" stroke="black" stroke-width="1.5" fill="none"/>
+    
+    <!-- tomato bottom-left -->
+    <circle cx="50" cy="165" r="8"/>
+    <path d="M50 158 L47 154 M50 158 L53 154" stroke="black" stroke-width="1.5" fill="none"/>
+    
+    <!-- leaf bottom-right -->
+    <ellipse cx="150" cy="160" rx="6" ry="11" transform="rotate(-20 150 160)"/>
+    <line x1="150" y1="149" x2="150" y2="171" stroke="black" stroke-width="1.2"/>
+    
+    <!-- tiny herb sprig center -->
+    <circle cx="100" cy="100" r="3"/>
+    <circle cx="108" cy="95" r="2.5"/>
+    <circle cx="92" cy="105" r="2.5"/>
+  </g>
+</svg>

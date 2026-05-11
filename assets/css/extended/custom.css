@@ -43,13 +43,27 @@
 body {
     background-color: var(--color-background) !important;
     color: var(--text-main) !important;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260' viewBox='0 0 260 260'%3E%3Cg opacity='0.12'%3E%3C!-- tomato --%3E%3Ccircle cx='28' cy='32' r='9' fill='%23334537'/%3E%3Cpath d='M28 24 L24 20 M28 24 L32 20' stroke='%23334537' stroke-width='1.8' fill='none'/%3E%3C!-- leaf --%3E%3Cellipse cx='135' cy='62' rx='6' ry='11' fill='%23334537' transform='rotate(25 135 62)'/%3E%3Cpath d='M135 52 L135 72' stroke='%23334537' stroke-width='1.2'/%3E%3C!-- carrot --%3E%3Cpath d='M228 30 L234 50 L222 50 Z' fill='%23334537'/%3E%3Cpath d='M228 28 L225 22 M228 28 L231 22' stroke='%23334537' stroke-width='1.2'/%3E%3C!-- pot --%3E%3Crect x='62' y='148' width='12' height='15' rx='2' fill='%23334537'/%3E%3Crect x='59' y='144' width='18' height='4' rx='1.5' fill='%23334537'/%3E%3C!-- tomato 2 --%3E%3Ccircle cx='192' cy='138' r='8' fill='%23334537'/%3E%3Cpath d='M192 131 L189 127 M192 131 L195 127' stroke='%23334537' stroke-width='1.5' fill='none'/%3E%3C!-- leaf 2 --%3E%3Cellipse cx='118' cy='212' rx='5' ry='9' fill='%23334537' transform='rotate(-15 118 212)'/%3E%3Cpath d='M118 203 L118 221' stroke='%23334537' stroke-width='1'/%3E%3C!-- pot 2 --%3E%3Crect x='238' y='232' width='11' height='13' rx='2' fill='%23334537'/%3E%3Crect x='235' y='228' width='17' height='4' rx='1.5' fill='%23334537'/%3E%3C!-- carrot 2 --%3E%3Cpath d='M32 240 L38 258 L26 258 Z' fill='%23334537'/%3E%3Cpath d='M32 238 L29 232 M32 238 L35 232' stroke='%23334537' stroke-width='1.2'/%3E%3C/g%3E%3C/svg%3E");
-    background-size: 260px 260px;
-    background-repeat: repeat;
 }
 
-[data-theme="dark"] body {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260' viewBox='0 0 260 260'%3E%3Cg opacity='0.18'%3E%3C!-- tomato --%3E%3Ccircle cx='28' cy='32' r='9' fill='%23a8c5b0'/%3E%3Cpath d='M28 24 L24 20 M28 24 L32 20' stroke='%23a8c5b0' stroke-width='1.8' fill='none'/%3E%3C!-- leaf --%3E%3Cellipse cx='135' cy='62' rx='6' ry='11' fill='%23a8c5b0' transform='rotate(25 135 62)'/%3E%3Cpath d='M135 52 L135 72' stroke='%23a8c5b0' stroke-width='1.2'/%3E%3C!-- carrot --%3E%3Cpath d='M228 30 L234 50 L222 50 Z' fill='%23a8c5b0'/%3E%3Cpath d='M228 28 L225 22 M228 28 L231 22' stroke='%23a8c5b0' stroke-width='1.2'/%3E%3C!-- pot --%3E%3Crect x='62' y='148' width='12' height='15' rx='2' fill='%23a8c5b0'/%3E%3Crect x='59' y='144' width='18' height='4' rx='1.5' fill='%23a8c5b0'/%3E%3C!-- tomato 2 --%3E%3Ccircle cx='192' cy='138' r='8' fill='%23a8c5b0'/%3E%3Cpath d='M192 131 L189 127 M192 131 L195 127' stroke='%23a8c5b0' stroke-width='1.5' fill='none'/%3E%3C!-- leaf 2 --%3E%3Cellipse cx='118' cy='212' rx='5' ry='9' fill='%23a8c5b0' transform='rotate(-15 118 212)'/%3E%3Cpath d='M118 203 L118 221' stroke='%23a8c5b0' stroke-width='1'/%3E%3C!-- pot 2 --%3E%3Crect x='238' y='232' width='11' height='13' rx='2' fill='%23a8c5b0'/%3E%3Crect x='235' y='228' width='17' height='4' rx='1.5' fill='%23a8c5b0'/%3E%3C!-- carrot 2 --%3E%3Cpath d='M32 240 L38 258 L26 258 Z' fill='%23a8c5b0'/%3E%3Cpath d='M32 238 L29 232 M32 238 L35 232' stroke='%23a8c5b0' stroke-width='1.2'/%3E%3C/g%3E%3C/svg%3E");
+/* Garden pattern overlay — stays behind content */
+body::after {
+    content: "" !important;
+    position: fixed !important;
+    inset: 0 !important;
+    z-index: -1 !important;
+    pointer-events: none !important;
+    -webkit-mask-image: url("/images/pattern.svg") !important;
+    mask-image: url("/images/pattern.svg") !important;
+    -webkit-mask-size: 200px 200px !important;
+    mask-size: 200px 200px !important;
+    -webkit-mask-repeat: repeat !important;
+    mask-repeat: repeat !important;
+    background-color: var(--color-primary) !important;
+    opacity: 0.12 !important;
+}
+
+[data-theme="dark"] body::after {
+    opacity: 0.22 !important;
 }
 
 /* Typography: Libre Caslon Text for Headings */
