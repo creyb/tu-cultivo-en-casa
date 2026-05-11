@@ -149,8 +149,10 @@
         if (localStorage.getItem("pref-theme") === "dark") {
             html.dataset.theme = "dark";
             html.dataset.themePreference = "dark";
+            html.style.colorScheme = "dark";
         } else {
             html.dataset.themePreference = "light";
+            html.style.colorScheme = "light";
         }
     })();
 </script>
@@ -162,8 +164,10 @@
         if (localStorage.getItem("pref-theme") === "light") {
             html.dataset.theme = "light";
             html.dataset.themePreference = "light";
+            html.style.colorScheme = "light";
         } else {
             html.dataset.themePreference = "dark";
+            html.style.colorScheme = "dark";
         }
     })();
 </script>
@@ -176,13 +180,17 @@
         if (saved === "dark") {
             html.dataset.theme = "dark";
             html.dataset.themePreference = "dark";
+            html.style.colorScheme = "dark";
         } else if (saved === "light") {
             html.dataset.theme = "light";
             html.dataset.themePreference = "light";
+            html.style.colorScheme = "light";
         } else {
             localStorage.setItem("pref-theme", "auto");
             html.dataset.themePreference = "auto";
-            html.dataset.theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? "dark" : "light";
+            const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            html.dataset.theme = isDark ? "dark" : "light";
+            html.style.colorScheme = isDark ? "dark" : "light";
         }
     })();
 </script>

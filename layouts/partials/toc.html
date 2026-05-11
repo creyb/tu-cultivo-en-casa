@@ -1,13 +1,13 @@
 {{- $toc := .TableOfContents -}}
 {{- if $toc -}}
 <div class="post-toc is-collapsed" id="post-toc">
-  <div class="post-toc-header" onclick="document.getElementById('post-toc').classList.toggle('is-collapsed')">
+  <button type="button" class="post-toc-header" aria-expanded="false" aria-controls="post-toc-body" onclick="const toc=document.getElementById('post-toc');toc.classList.toggle('is-collapsed');this.setAttribute('aria-expanded',!toc.classList.contains('is-collapsed'));">
     <span class="post-toc-label">Índice</span>
-    <span class="post-toc-icon">
+    <span class="post-toc-icon" aria-hidden="true">
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
     </span>
-  </div>
-  <div class="post-toc-body">
+  </button>
+  <div class="post-toc-body" id="post-toc-body">
     {{ $toc }}
   </div>
 </div>
