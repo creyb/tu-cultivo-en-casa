@@ -52,18 +52,20 @@ body::after {
     inset: 0 !important;
     z-index: -1 !important;
     pointer-events: none !important;
-    -webkit-mask-image: url("/images/pattern.svg") !important;
-    mask-image: url("/images/pattern.svg") !important;
-    -webkit-mask-size: 200px 200px !important;
-    mask-size: 200px 200px !important;
-    -webkit-mask-repeat: repeat !important;
-    mask-repeat: repeat !important;
+    -webkit-mask-image: url("/images/pattern.svg"), url("/images/pattern.svg") !important;
+    mask-image: url("/images/pattern.svg"), url("/images/pattern.svg") !important;
+    -webkit-mask-size: 500px 500px, 320px 320px !important;
+    mask-size: 500px 500px, 320px 320px !important;
+    -webkit-mask-position: 0 0, 180px 80px !important;
+    mask-position: 0 0, 180px 80px !important;
+    -webkit-mask-repeat: repeat, repeat !important;
+    mask-repeat: repeat, repeat !important;
     background-color: var(--color-primary) !important;
-    opacity: 0.12 !important;
+    opacity: 0.14 !important;
 }
 
 [data-theme="dark"] body::after {
-    opacity: 0.22 !important;
+    opacity: 0.24 !important;
 }
 
 /* Typography: Libre Caslon Text for Headings */
