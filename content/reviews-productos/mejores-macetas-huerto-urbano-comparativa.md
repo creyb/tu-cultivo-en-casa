@@ -62,7 +62,7 @@ Son las clásicas, las que imaginas cuando piensas en una maceta tradicional. El
 
 **Ideal para:** Quien tenga terraza con buen acceso a agua y busque estabilidad para plantas de porte medio como tomates o pimientos.
 
-> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4u7pHAD" rel="nofollow">Juego de 3 macetas de cerámica terracota clásica (10 - 16 cm) – Porosa y estable para tomates y pimientos</a>
+> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4u7pHAD" target="_blank" rel="noopener noreferrer nofollow">Juego de 3 macetas de cerámica terracota clásica (10 - 16 cm) – Porosa y estable para tomates y pimientos</a>
 
 ---
 
@@ -85,7 +85,7 @@ Las más comunes, económicas y ligeras. Existen desde modelos básicos hasta im
 
 **Ideal para:** Balcones, rincones con poco peso permitido y quien quiera empezar sin gastar mucho.
 
-> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4dkeBkG" rel="nofollow">Maceta de plástico ligera con drenaje (25-30 cm) – Económica y resistente</a>
+> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4dkeBkG" target="_blank" rel="noopener noreferrer nofollow">Maceta de plástico ligera con drenaje (25-30 cm) – Económica y resistente</a>
 
 ---
 
@@ -108,7 +108,7 @@ Hechas con fibras de la cáscara del coco, son biodegradables y muy respetuosas 
 
 **Ideal para:** Semilleros, plantones de temporada y quien busque opciones sostenibles para cultivos de ciclo corto.
 
-> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4noJUiT" rel="nofollow">Macetas de fibra de coco biodegradables – Ideales para semilleros y plantones</a>
+> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4noJUiT" target="_blank" rel="noopener noreferrer nofollow">Macetas de fibra de coco biodegradables – Ideales para semilleros y plantones</a>
 
 ---
 
@@ -130,7 +130,7 @@ Tienen un depósito inferior que mantiene agua disponible para las raíques medi
 
 **Ideal para:** Terrazas muy soleadas, personas con poco tiempo y cultivos que necesitan humedad constante como lechugas o tomates cherry.
 
-> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4u8Cbry" rel="nofollow">Maceta de autorriego con depósito de agua – Reduce el riego a la mitad</a>
+> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4u8Cbry" target="_blank" rel="noopener noreferrer nofollow">Maceta de autorriego con depósito de agua – Reduce el riego a la mitad</a>
 
 ---
 
@@ -152,7 +152,7 @@ No son macetas propiamente dichas, pero son la opción preferida de muchos huert
 
 **Ideal para:** Terrazas amplias, patios o quien quiera cultivar hortalizas de raíz o varias plantas juntas.
 
-> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4uGRsjf" rel="nofollow">Mesa de cultivo elevada – Perfecta para zanahorias y hortalizas sin agacharse</a>
+> 🔍 **Nuestra recomendación**: <a href="https://amzn.to/4uGRsjf" target="_blank" rel="noopener noreferrer nofollow">Mesa de cultivo elevada – Perfecta para zanahorias y hortalizas sin agacharse</a>
 
 ---
 
