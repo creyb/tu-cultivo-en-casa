@@ -6,10 +6,10 @@ summary: "Comparamos los principales tipos de macetas para huerto urbano. Te con
 description: "Guía comparativa de macetas para huerto urbano: barro, plástico, autorriego, fibra de coco y más. Descubre cuál se adapta mejor a tu terraza o balcón."
 categoria: ["reviews-productos"]
 cover:
-    image: "/images/terraza-huerto-macetas-mix.webp"
+    image: "/images/macetas-huerto-urbano-hero.webp"
     title: "Mejores macetas para huerto urbano: comparativa y recomendaciones"
     alt: "Variedad de macetas para huerto urbano en terraza"
-featured_image: "/images/terraza-huerto-macetas-mix.webp"
+featured_image: "/images/macetas-huerto-urbano-hero.webp"
 tag: ["macetas", "huerto urbano", "reviews productos", "cultivo en maceta", "terrazas", "balcones", "equipamiento huerto"]
 slug: "mejores-macetas-huerto-urbano-comparativa"
 ---
@@ -20,7 +20,7 @@ Si has llegado hasta aquí, probablemente ya sabes que no todas las macetas son 
 
 Hemos cultivado en macetas de barro, plástico, fibra de coco, autorriego e incluso en recipientes reciclados. Algunas nos han sorprendido gratamente; otras nos han enseñado a base de plantas marchitas. En este artículo te contamos todo lo que hemos aprendido para que no tengas que cometer los mismos errores.
 
-![Variedad de macetas para huerto urbano en terraza](/images/terraza-huerto-macetas-mix.webp)
+![Variedad de macetas para huerto urbano en terraza](/images/macetas-huerto-urbano-hero.webp)
 
 ## ¿Por qué la elección de la maceta importa tanto?
 
