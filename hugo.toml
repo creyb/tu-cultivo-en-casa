@@ -52,3 +52,8 @@ weight = 5
 
 [params.social]
   twitter = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
