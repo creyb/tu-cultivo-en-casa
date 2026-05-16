@@ -141,7 +141,7 @@ Si tienes más de 4-5 macetas, un sistema de riego por goteo te cambia la vida. 
 
 Un kit básico para terraza cuesta entre 15 y 30 euros, se instala en 20 minutos y te ahorra tiempo, agua y preocupaciones. Los goteros liberan entre 2 y 4 litros por hora directamente sobre la tierra, sin desperdiciar ni una gota.
 
-<a href="https://www.amazon.es/s?k=kit+riego+goteo+terraza&linkCode=ll2&tag=tucultivoenca-21" target="_blank" rel="noopener noreferrer nofollow">Ver kits de riego por goteo para terraza en Amazon</a>
+<a href="https://amzn.to/4wAHKRj" target="_blank" rel="noopener noreferrer nofollow">Ver kits de riego por goteo para terraza en Amazon</a>
 
 *Enlace de afiliado. Si compras a través de él, nos llevamos una pequeña comisión sin coste extra para ti.*
 
@@ -170,7 +170,7 @@ Si quieres automatizarlo del todo, un programador de riego conectado al grifo te
 
 Los hay desde 20 euros para grifo, y los más completos permiten hasta 4 ciclos de riego al día con duración ajustable.
 
-<a href="https://www.amazon.es/s?k=programador+riego+grifo&linkCode=ll2&tag=tucultivoenca-21" target="_blank" rel="noopener noreferrer nofollow">Ver programadores de riego en Amazon</a>
+<a href="https://amzn.to/4ueThnE" target="_blank" rel="noopener noreferrer nofollow">Ver programadores de riego en Amazon</a>
 
 *Enlace de afiliado. Si compras a través de él, nos llevamos una pequeña comisión sin coste extra para ti.*
 
