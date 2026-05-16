@@ -45,7 +45,7 @@ Regar entre las 6 y las 9 de la mañana es lo ideal. En julio y agosto, si puede
 
 ### ¿Y por la noche?
 
-Regar al atardecer o de noche no es理想的, pero es mejor que dejar la planta seca. El problema principal es que las hojas permanecen húmedas durante horas, y la humedad nocturna favorece la aparición de hongos como el mildiu o la botrytis.
+Regar al atardecer o de noche no es ideal, pero es mejor que dejar la planta seca. El problema principal es que las hojas permanecen húmedas durante horas, y la humedad nocturna favorece la aparición de hongos como el mildiu o la botrytis.
 
 Si solo puedes regar por la noche:
 - No mojes las hojas, riega directamente sobre la tierra
