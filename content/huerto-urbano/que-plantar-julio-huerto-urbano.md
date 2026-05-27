@@ -1,7 +1,7 @@
 ---
 title: "Qué plantar en julio en el huerto urbano: guía completa para España"
 date: 2026-05-27
-draft: true
+draft: false
 summary: "Descubre qué hortalizas, verduras y aromáticas puedes plantar en julio en tu huerto urbano. Calendario de siembra adaptado al clima de España con consejos prácticos para el pico del verano."
 categoria: ["Huerto urbano"]
 cover:
