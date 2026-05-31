@@ -26,7 +26,7 @@ Hemos cultivado en terrazas con 40°C bajo cero y en balcones donde el sol pega 
 
 Si en junio todavía teníamos margen para equivocarnos, en julio el margen se reduce. Las diferencias clave son:
 
-- **Temperaturas máximas**: 35-45°C en la mayoría de zonas de España, con noches que apenas bajan de 20°C
+- **Temperaturas máximas**: 35-45°C en la mayoría de zonas de España, con noches que apenas bajan de 20°C ([datos de la AEMET](https://www.aemet.es))
 - **Evaporación acelerada**: El sustrato de las macetas se seca mucho más rápido; una maceta pequeña puede necesitar riego dos veces al día
 - **Ciclos cortos ventaja**: Los cultivos de ciclo largo ya no compensan (tomates, berenjenas), a menos que compres planta de vivero ya crecida
 - **Protección obligatoria**: La malla de sombreo y el acolchado dejan de ser opcionales
@@ -299,3 +299,10 @@ Calabazas (para Halloween en octubre), judías verdes (siembras escalonadas en a
 **Julio no es un mes para sembrar cualquier cosa, sino para sembrar lo correcto.** El pico del verano exige cultivos resistentes al calor, riego constante y protección solar. Calabacines, pepinos, berenjenas, judías verdes y aromáticas son tus mejores aliados este mes. Si ya tienes tomates y pimientos plantados, cuídalos bien: con riego adecuado y acolchado, te darán cosecha hasta septiembre.
 
 La clave está en elegir bien, proteger del sol lo que necesite y no escatimar en agua. Si sigues estos consejos, tu huerto urbano sobrevivirá a julio y te recompensará con una cosecha generosa en verano y otoño.
+
+---
+
+### Recursos y referencias 📚
+
+- [Agencia Estatal de Meteorología (AEMET)](https://www.aemet.es): consulta la predicción de temperaturas y olas de calor para adaptar el riego y la protección de tu huerto.
+- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo, calendario de siembra y control de plagas.

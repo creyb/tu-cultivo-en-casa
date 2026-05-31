@@ -310,3 +310,10 @@ Regar un huerto urbano en verano es un ejercicio de observación más que de rut
 Hemos cometido todos estos errores alguna vez. Y aprendido de cada uno. Lo importante no es acertar siempre, sino entender lo que la planta te está diciendo y ajustar.
 
 Tu huerto urbano puede sobrevivir y dar cosechas generosas incluso en los veranos más duros de España. Solo necesita que le prestes atención, que riegues con cabeza y que, si te vas de vacaciones, dejes a alguien — o algo — cuidando de él.
+
+---
+
+### Recursos y referencias 📚
+
+- [AEMET](https://www.aemet.es): consulta las temperaturas y previsiones de ola de calor para planificar el riego de tu huerto.
+- [InfoJardín — riego del huerto](https://www.infojardin.com/huerto/): técnicas de riego, sistemas y consejos prácticos.

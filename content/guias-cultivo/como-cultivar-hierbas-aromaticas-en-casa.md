@@ -63,7 +63,7 @@ Las macetas de terracota son ideales porque permiten que la tierra respire, pero
 
 ### Ubicación y luz
 
-Las tres hierbas necesitan al menos **4-6 horas de sol directo** al día. Una ventana orientada al sur o este es perfecta. En terraza o balcón, busca un lugar que reciba sol de mañana y semisombra de la tarde (especialmente en verano).
+Las tres hierbas necesitan al menos **4-6 horas de sol directo** al día ([consulta las horas de sol de tu zona en la AEMET](https://www.aemet.es)). Una ventana orientada al sur o este es perfecta. En terraza o balcón, busca un lugar que reciba sol de mañana y semisombra de la tarde (especialmente en verano).
 
 El cilantro es el más sensible al calor intenso: si temperature supera los 35°C, tiende a "patular" (sacar tallo florífero). En verano, colócalo en un lugar con algo de sombra por la tarde.
 
@@ -214,3 +214,10 @@ Cultivar hierbas aromáticas en casa es de las cosas más gratificantes que pued
 Si ya tienes un [huerto urbano en tu terraza](/huerto-urbano/que-plantar-junio-huerto-urbano/) con tomates, pimientos o zanahorias, añadir hierbas aromáticas es el siguiente paso natural. Y si empiezas desde cero, con albahaca, perejil y cilantro tienes para todo el año.
 
 ¡Manos a la tierra! 🌱
+
+---
+
+### Recursos y referencias 📚
+
+- [InfoJardín — aromáticas y condimentos](https://www.infojardin.com/huerto/): fichas de cultivo detalladas por planta y foro de dudas.
+- [AEMET](https://www.aemet.es): consulta las temperaturas y horas de sol de tu zona para elegir la mejor ubicación.

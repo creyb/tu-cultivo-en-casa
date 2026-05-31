@@ -191,3 +191,9 @@ Empieza por la prevención, actúa rápido cuando detectes algo y siempre empiez
 
 ¿Has tenido problemas con alguna plaga en tu terraza? ¿Qué remedios te han funcionado? ¡Compártelo! Estamos aprendiendo todos los días. 🌿
 
+---
+
+### Recursos y referencias 📚
+
+- [InfoJardín — plagas y enfermedades de hortalizas](https://www.infojardin.com/huerto/): diagnóstico detallado por cultivo y tratamiento ecológico de las plagas más comunes.
+

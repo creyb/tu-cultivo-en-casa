@@ -272,3 +272,10 @@ Si quieres ir directo al grano, aquí tienes el plan mínimo para tener éxito:
 5. **Cosecha cuando los frutos estén firmes y coloreados**, cortándolos con tijeras
 
 Cultivar pimientos en maceta es una de las experiencias más gratificantes del huerto urbano. Es un cultivo relativamente sencillo, muy productivo y que te permite disfrutar de sabores que difícilmente encontrarás en el supermercado. ¿Te animas a probar esta temporada? 🌶️
+
+---
+
+### Recursos y referencias 📚
+
+- [InfoJardín — ficha del pimiento](https://www.infojardin.com/huerto/): variedades, cuidados y plagas del cultivo de pimiento.
+- [AEMET](https://www.aemet.es): consulta las temperaturas de tu zona para decidir el mejor momento de trasplante.
