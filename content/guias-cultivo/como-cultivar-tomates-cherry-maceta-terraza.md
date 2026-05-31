@@ -55,7 +55,7 @@ El tomate cherry es una planta trepadora por naturaleza. A medida que la planta 
 
 Si hay un factor que determina si tendrás un éxito rotundo o una decepción verde, es la luz. El tomate es una planta heliófila, lo que significa que es "amante del sol".
 
-- **La regla de las 6-8 horas:** Tus tomates necesitan un **mínimo de 6 a 8 horas de sol directo al día**. Si los pones en una zona de semisombra, la planta crecerá, pero probablemente no verá frutos o estos serán verdes y ácidos.
+- **La regla de las 6-8 horas:** Tus tomates necesitan un **mínimo de 6 a 8 horas de sol directo al día** ([consulta las horas de sol de tu zona en la AEMET](https://www.aemet.es)). Si los pones en una zona de semisombra, la planta crecerá, pero probablemente no verá frutos o estos serán verdes y ácidos.
 - **Buscando el rincón perfecto:** Observa tu terraza durante un día entero. ¿Dónde cae el sol la mayor parte del tiempo? Ese es el lugar. Evita colocar la maceta pegada a paredes que proyecten sombra durante la mayor parte de la mañana.
 - **El peligro del viento:** Si tu terraza es muy ventosa, el tutor es aún más crítico. El viento fuerte puede romper las ramas cargadas de frutos o estresar la planta. Si es el caso, intenta colocar la maceta cerca de un muro que sirva de escudo.
 
@@ -144,3 +144,11 @@ R: No es "malo" per se, pero los fertilizantes químicos suelen dar un crecimien
 R: Básicamente es el tamaño. El cherry es el más pequeño (tipo uva), mientras que el cocktail es un paso intermedio entre el cherry y el tomate estándar. Ambos se cultivan de forma casi idéntica.
 
 **¿Te animas a empezar tu propio huerto de tomates?** No hay nada como el orgullo de decir "estos tomates los he cultivado yo en mi terraza". Si tienes cualquier duda, ¡déjanos un comentario abajo! Estamos aquí para que tu huerto urbano sea un éxito rotundo. 🍅✨
+
+---
+
+### Recursos y referencias 📚
+
+- [Agencia Estatal de Meteorología (AEMET)](https://www.aemet.es): consulta las horas de sol y temperaturas de tu zona para elegir la mejor ubicación.
+- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo, foro de dudas y calendario de siembra.
+- [InfoJardín — plagas y enfermedades del tomate](https://www.infojardin.com/huerto/): diagnóstico y tratamiento ecológico de las plagas más comunes.

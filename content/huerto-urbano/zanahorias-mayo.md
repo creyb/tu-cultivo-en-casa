@@ -240,3 +240,10 @@ Sí, funcionan bien en asociaciones sencillas, siempre que no compitan demasiado
 **Cultivar zanahorias en mayo** es una muy buena opción para el huerto urbano en España. Si eliges una variedad adecuada, preparas bien el sustrato y mantienes una humedad constante, tendrás muchas papeletas para conseguir raíces rectas, dulces y bien formadas.
 
 La zanahoria premia la paciencia y la precisión. No necesita grandes complicaciones, pero sí una siembra cuidada desde el primer día. Si quieres un cultivo agradecido para la primavera avanzada, mayo es un mes excelente para empezar.
+
+---
+
+### Recursos y referencias 📚
+
+- [InfoJardín — ficha de la zanahoria](https://www.infojardin.com/huerto/): variedad, cuidados y troubleshooting desde una de las comunidades de jardinería más grandes en español.
+- [AEMET](https://www.aemet.es): consulta las temperaturas y el clima de tu zona para adaptar la siembra.

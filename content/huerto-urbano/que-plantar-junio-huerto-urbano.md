@@ -26,7 +26,7 @@ Si tienes macetas, jardineras o una mesa de cultivo en tu terraza o balcón, est
 
 Junio tiene varias particularidades que lo hacen especial:
 
-- Los días son los más largos del año, con 14-15 horas de luz en la península
+- Los días son los más largos del año, con 14-15 horas de luz en la península ([datos de la AEMET](https://www.aemet.es))
 - Las temperaturas nocturnas ya no bajan de los 15°C en la mayoría de zonas
 - El crecimiento de las plantas se acelera notablemente
 - Es el último momento para sembrar ciertos cultivos de ciclo largo antes de que el calor de julio sea excesivo
@@ -293,3 +293,10 @@ Sí, pero renuévalo parcialmente. Mezcla un 50% de sustrato viejo con 50% de su
 **Junio es uno de los mejores meses para el huerto urbano** en España. El calor y la luz favorecen cultivos como tomates, pimientos, berenjenas, calabacines y judías verdes. Con una planificación adecuada, riego constante y protección para los cultivos más sensibles al calor, puedes tener un huerto productivo durante todo el verano.
 
 La clave está en elegir bien qué plantar según tu zona, preparar el sustrato antes de sembrar y ser constante con el riego. Si sigues estos consejos, junio será el punto de partida de una cosecha generosa.
+
+---
+
+### Recursos y referencias 📚
+
+- [Agencia Estatal de Meteorología (AEMET)](https://www.aemet.es): consulta el clima y la predicción de tu zona para adaptar la siembra y el riego.
+- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo por hortaliza, calendario de siembra y asociaciones favorables.
