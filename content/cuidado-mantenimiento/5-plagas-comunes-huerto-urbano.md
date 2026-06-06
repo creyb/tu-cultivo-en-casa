@@ -167,7 +167,7 @@ Si después de probar estos remedios la plaga persiste, no te rindas con product
 - **Bacillus thuringiensis**: Un bacteria natural que se vende en tiendas de jardinería. Es específica para orugas y babosas, y no daña a insectos beneficiosos.
 - **Jabón negro en pasta**: Más concentrado que el jabón potásico líquido. Disuélvelo en agua tibia antes de aplicar.
 
-Y recuerda: si cultivas pimientos, tomates o lechugas en maceta, asegúrate de usar un [sustrato de buena calidad](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) y de que tus macetas tengan buen drenaje. Una planta sana es la mejor defensa contra cualquier plaga.
+Y recuerda: si cultivas pimientos, tomates o lechugas en maceta, asegúrate de elegir [macetas con buen drenaje y del tamaño adecuado](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) y de usar un sustrato de buena calidad. Una planta sana es la mejor defensa contra cualquier plaga.
 
 ---
 
