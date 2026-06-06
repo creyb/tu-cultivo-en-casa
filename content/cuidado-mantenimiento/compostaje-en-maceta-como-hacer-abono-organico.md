@@ -16,7 +16,7 @@ slug: "compostaje-en-maceta-como-hacer-abono-organico"
 
 Cada semana, la familia media española tira a la basura casi 1,5 kg de restos orgánicos por persona que podrían convertirse en el mejor abono para sus plantas: cáscaras, posos de café, peladuras, hojas marchitas. Con una compostera de balcón o un vermicompostador de cocina, hasta un piso de 50 m² puede cerrar el ciclo de sus residuos.
 
-En esta guía te contamos qué sistema elegir según tu espacio, qué echar y qué no, y cómo usar el compost maduro en tus macetas. Si quieres un huerto urbano de verdad, **el compostaje es el siguiente paso lógico** después de aprender a regar y a elegir macetas.
+En esta guía te contamos qué sistema elegir según tu espacio, qué echar y qué no, y cómo usar el compost maduro en tus macetas. Si quieres un huerto urbano de verdad, **el compostaje es el siguiente paso lógico** después de aprender a regar y a elegir las [macetas adecuadas para huerto urbano](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/).
 
 ![Compostera pequeña de color verde oscuro en un balcón urbano, rodeada de macetas con plantas aromáticas y tomateras](/images/compost-balcon-huerto-urbano-hero.webp)
 
@@ -190,4 +190,4 @@ Aproximadamente **5-8 kg de compost maduro al mes** por persona, después del pr
 
 Compostar en casa es, posiblemente, el cambio más gratificante que puedes hacer en tu huerto urbano. Al principio da un poco de respeto, pero en cuanto produces tu primer puñado de compost maduro y ves cómo tus plantas lo agradecen, no puedes volver atrás. Es cerrar el círculo, dejar de tirar a la basura algo que vale oro, y conectar con el ritmo real de las plantas.
 
-Si quieres profundizar más, la [guía técnica de la FAO sobre reciclado orgánico](https://www.fao.org/3/i1600e/i1600e.pdf) es una referencia completa sobre el proceso. Y si tuvieras que quedarte con una sola idea, quédate con esta: **la compostera es el siguiente paso lógico después de regar bien y elegir buenas macetas**. Una vez que la montas, ya no concibes el huerto sin ella. 🌱
+Si quieres profundizar más, la [guía técnica de la FAO sobre reciclado orgánico](https://www.fao.org/3/i1600e/i1600e.pdf) es una referencia completa sobre el proceso. Y si tuvieras que quedarte con una sola idea, quédate con esta: **la compostera es el siguiente paso lógico después de regar bien y elegir [buenas macetas para tu huerto urbano](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/)**. Una vez que la montas, ya no concibes el huerto sin ella. 🌱
