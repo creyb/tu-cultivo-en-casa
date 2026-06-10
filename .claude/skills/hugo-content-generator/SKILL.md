@@ -36,3 +36,6 @@ draft: false
 categories: [string]
 tags: [string]
 ---
+```
+
+> **REGLA CRÍTICA — fecha de publicación**: `date` debe ser **siempre el día en que se hace commit del post**, nunca una fecha futura. El CI de GitHub Pages construye con `hugo --gc --minify --baseURL "https://tucultivoencasa.com/"` (sin `--buildFuture`), por lo que cualquier post con `date` posterior a la fecha del build será **silenciosamente ignorado** y no se publicará hasta un push o trigger futuro. Cuando el usuario pide un artículo, lo quiere publicado **en el momento**, no mañana. Si hoy es `2026-06-10`, entonces `date: 2026-06-10`. Sin excepciones.

@@ -20,6 +20,7 @@
   - `cover.image`, `cover.title`, `cover.alt`
   - `featured_image` — same path as `cover.image` (used by layouts)
 - Legal pages at root (`about.md`, `aviso-legal.md`, `politica-cookies.md`) must include `noindex: true` and `hiddenInHomeList: true`.
+- **`date` must always be the day the post is committed**, never a future date. CI builds with `hugo --gc --minify --baseURL "https://tucultivoencasa.com/"` (no `--buildFuture`), so any post with `date` later than today will be silently ignored by the build and will not publish until some future push or trigger happens. When the user asks for an article, they want it published **right now**, not tomorrow.
 
 ## Images
 - Place images in `static/images/name.webp` (WebP only).
@@ -46,6 +47,7 @@
 ## CI / Deploy
 - `.github/workflows/hugo.yml` deploys to GitHub Pages on push to `main`.
 - CI builds with: `--gc --minify --baseURL "https://tucultivoencasa.com/"`.
+- **No `--buildFuture` flag**: posts with `date` later than the build date are silently dropped from the published site. See "Content Architecture" above.
 - Post-deploy job pings Google and Bing sitemaps automatically.
 - Custom domain via `static/CNAME` (`tucultivoencasa.com`). Do not remove or rename this file.
 - Do not hand-edit `public/`, `resources/_gen/`, or `.hugo_build.lock`. CI regenerates these; local `hugo` runs will dirty the working tree.
