@@ -1,6 +1,6 @@
 ---
 title: "Mejores kits de riego por goteo para huerto urbano: comparativa 2026"
-date: 2026-06-11
+date: 2026-06-10
 draft: false
 summary: "Comparamos 5 kits de riego por goteo para huerto urbano: desde opciones económicas de 20€ hasta sistemas con programador para vacaciones. Pros, contras y recomendación honesta."
 description: "Guía comparativa de los mejores kits de riego por goteo para huerto urbano en 2026. Analizamos opciones con programador, solar, sin grifo y para macetas."
@@ -308,3 +308,5 @@ Estas son nuestras recomendaciones por perfil tras probar varios kits:
 Si todavía no tienes claro qué macetas necesitas para montar el kit, echa un vistazo a nuestra [comparativa de macetas para huerto urbano](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/). Y si cultivas [tomates cherry en maceta en terraza](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), que agradecen especialmente el riego constante por goteo, este artículo te viene como anillo al dedo.
 
 Este artículo lo revisamos y actualizamos a fecha de junio de 2026, con precios orientativos del mercado español. Los precios y la disponibilidad de los productos pueden variar; te recomendamos revisar las fichas actualizadas en Amazon antes de comprar. 🌱💧
+
+*Actualizado el 10 de junio de 2026.*
