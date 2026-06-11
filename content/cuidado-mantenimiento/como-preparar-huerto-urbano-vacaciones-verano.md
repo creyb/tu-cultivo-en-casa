@@ -41,6 +41,8 @@ Haz una poda suave eliminando hojas amarillas, ramas secas y restos de cosechas 
 
 Si tienes [problemas de plagas en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/), este es el momento de hacer un tratamiento preventivo con jabón potásico o aceite de neem. Volver a casa con un pulgón a sus anchas es garantía de disgusto.
 
+Si te interesa comparar opciones de sistemas de riego antes de comprar, echa un vistazo a nuestra [comparativa de kits de riego por goteo para huerto urbano](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/).
+
 ### Revisa macetas y drenaje
 
 Pasa una tarde revisando cada maceta:

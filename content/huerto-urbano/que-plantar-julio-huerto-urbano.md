@@ -67,7 +67,7 @@ Si plantaste berenjenas en junio, julio es el mes en que empiezan a florecer y a
 
 ### Tomates
 
-Los tomates son el cultivo estrella del verano, pero en julio hay que tener cuidado con lo que sembramos. Si ainda no tienes tomates plantados, lo más inteligente es comprar planta de vivero ya crecida. Sembrar semilla en julio es tarde para la mayoría de variedades.
+Los tomates son el cultivo estrella del verano, pero en julio hay que tener cuidado con lo que sembramos. Si ainda no tienes tomates plantados, lo más inteligente es comprar planta de vivero ya crecida. Sembrar semilla en julio es tarde para la mayoría de variedades. Tienes la [guía completa de cultivo de tomates cherry en maceta](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) con todos los cuidados de julio y agosto.
 
 - **Variedades de vivero**: Cherry, pera, beef heart, variedades determinadas
 - **Maceta**: Grande, mínimo 40 cm de diámetro y 40 cm de profundidad
@@ -126,7 +126,7 @@ Si quieres tener calabazas para Halloween (31 de octubre), julio es el momento p
 
 ### Aromáticas de verano
 
-Julio es el mes en que las aromáticas más aromáticas están en su punto. La albahaca, la menta, el romero y el tomillo agradecen el calor y te dan hojas frescas para la cocina.
+Julio es el mes en que las aromáticas más aromáticas están en su punto. La albahaca, la menta, el romero y el tomillo agradecen el calor y te dan hojas frescas para la cocina. Tienes la [guía específica de albahaca, perejil y cilantro en maceta](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/) con siembra escalonada y cuidados de verano.
 
 - **Albahaca**: La reina del verano. Junto a tomates y pimientos, en maceta o jardinera. Riego diario.
 - **Menta**: Muy resistente, pero controla su expansión (plantar en maceta aparte).
@@ -159,7 +159,7 @@ En julio, el riego marca la diferencia entre un huerto productivo y uno marchito
 - **Cantidad**: Suficiente para que drene por el fondo de la maceta
 - **Truco**: La prueba del dedo: introduce el dedo 2-3 cm en el sustrato. Si está seco, riega. Si está húmedo, espera.
 
-Si te vas de vacaciones en julio, instala un riego por goteo con temporizador o pide a alguien que riegue. Un huerto urbano sin riego en julio no sobrevive más de 2-3 días.
+Si te vas de vacaciones en julio, instala un [riego por goteo con temporizador](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) o pide a alguien que riegue. Tienes el protocolo completo en [cómo preparar el huerto urbano para las vacaciones de verano](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/). Un huerto urbano sin riego en julio no sobrevive más de 2-3 días.
 
 ![Sistema de riego por goteo en macetas de terraza para verano](/images/riego-goteo-terraza-julio.webp)
 
@@ -304,5 +304,5 @@ La clave está en elegir bien, proteger del sol lo que necesite y no escatimar e
 
 ### Recursos y referencias 📚
 
-- [Agencia Estatal de Meteorología (AEMET)](https://www.aemet.es): consulta la predicción de temperaturas y olas de calor para adaptar el riego y la protección de tu huerto.
-- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo, calendario de siembra y control de plagas.
+- [Atlas climático y avisos de la AEMET](https://www.aemet.es): consulta la predicción de temperaturas, avisos de ola de calor y horas de sol de tu provincia para adaptar el riego y la protección de tu huerto.
+- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo, calendario de siembra y control de plagas para huerto urbano en España.

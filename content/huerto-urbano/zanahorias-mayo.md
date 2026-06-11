@@ -16,7 +16,7 @@ slug: "cultivar-zanahorias-en-mayo"
 
 # Cultivar zanahorias en mayo: guía completa para huerto urbano
 
-Mayo es un mes muy interesante para **cultivar zanahorias** en el huerto urbano. En muchas zonas de España, la temperatura ya acompaña, los días son más largos y el crecimiento se acelera. Eso sí, la zanahoria tiene sus manías: necesita un sustrato fino, profundo y sin piedras, riegos constantes y una siembra bien hecha desde el principio.
+Mayo es un mes muy interesante para **cultivar zanahorias** en el huerto urbano. En muchas zonas de España, la temperatura ya acompaña, los días son más largos y el crecimiento se acelera. Eso sí, la zanahoria tiene sus manías: necesita un sustrato fino, profundo y sin piedras, [riegos constantes y bien planificados](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) y una siembra bien hecha desde el principio.
 
 Si quieres lograr zanahorias rectas, dulces y tiernas, este artículo te ayudará a planificar la siembra de mayo con buen criterio. Verás qué variedad elegir, cómo preparar la maceta o mesa de cultivo, cuándo sembrar, cómo aclarar plantones y qué errores evitar.
 
@@ -53,7 +53,7 @@ La zanahoria agradece un lugar con buena luz, pero no demasiado agresivo en las 
 - Algo de protección si el verano se adelanta
 - Una ubicación ventilada, pero no expuesta a secado extremo
 
-Si cultivas en terraza o balcón, una mesa de cultivo o una jardinera profunda funciona muy bien. Lo importante no es solo el espacio en superficie, sino la profundidad útil para la raíz.
+Si cultivas en terraza o balcón, una [mesa de cultivo o una jardinera profunda](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) funciona muy bien. Lo importante no es solo el espacio en superficie, sino la profundidad útil para la raíz.
 
 ## Cómo preparar el sustrato
 
@@ -102,7 +102,7 @@ Consejos prácticos:
 - Aumenta la frecuencia si hace calor
 - Usa acolchado fino si el sol seca demasiado rápido
 
-Cuando las plantas ya han salido, el riego puede ser menos frecuente, pero siempre regular. Los cambios bruscos de humedad favorecen raíces agrietadas o sabor más fuerte.
+Cuando las plantas ya han salido, el riego puede ser menos frecuente, pero siempre regular. Los cambios bruscos de humedad favorecen raíces agrietadas o sabor más fuerte. Para climas secos o macetas pequeñas, un [kit de riego por goteo con programador](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) te asegura la constancia que la zanahoria necesita.
 
 ## Aclareo: el paso que muchos olvidan
 
@@ -128,7 +128,7 @@ Lo mejor es:
 - Evitar fertilizantes excesivos
 - No usar estiércol fresco
 
-Si el sustrato está bien preparado desde el inicio, normalmente no hará falta más durante el ciclo.
+Si el sustrato está bien preparado desde el inicio, normalmente no hará falta más durante el ciclo. Si quieres producir tu propio compost en el balcón, te explicamos cómo montar una compostera pequeña en nuestra [guía de compostaje en maceta](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/).
 
 ## Problemas frecuentes al cultivar zanahorias en mayo
 
@@ -165,6 +165,8 @@ Las más habituales pueden ser pulgones o algunos insectos del suelo. En huerto 
 - Riega de forma equilibrada
 - Evita excesos de humedad
 - Revisa las hojas con frecuencia
+
+Para un tratamiento detallado sin químicos, consulta nuestra [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
 
 ## Cuándo cosechar las zanahorias sembradas en mayo
 
@@ -203,11 +205,11 @@ Cuando saques las zanahorias, aprovecha ese espacio para otro cultivo de ciclo c
 
 Puedes:
 - Añadir compost nuevo
-- Sembrar lechugas, rabanitos o acelgas jóvenes
+- Sembrar [lechugas, rabanitos o acelgas jóvenes](/huerto-urbano/que-plantar-junio-huerto-urbano/)
 - Reorganizar la rotación de tu mesa de cultivo
 - Dejar descansar el recipiente si el sustrato está agotado
 
-La rotación ayuda a mantener el huerto urbano más sano y productivo.
+La rotación ayuda a mantener el huerto urbano más sano y productivo. Si vas a ausentarte en verano, tenlo en cuenta al [preparar el huerto para las vacaciones](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/).
 
 ## Errores que conviene evitar
 
@@ -245,5 +247,5 @@ La zanahoria premia la paciencia y la precisión. No necesita grandes complicaci
 
 ### Recursos y referencias 📚
 
-- [InfoJardín — ficha de la zanahoria](https://www.infojardin.com/huerto/): variedad, cuidados y troubleshooting desde una de las comunidades de jardinería más grandes en español.
-- [AEMET](https://www.aemet.es): consulta las temperaturas y el clima de tu zona para adaptar la siembra.
+- [InfoJardín — ficha técnica de la zanahoria](https://www.infojardin.com/huerto/): variedades, calendario de siembra, troubleshooting y foro de cultivadores con experiencia.
+- [AEMET — climatología y predicción por provincias](https://www.aemet.es): consulta las temperaturas y el clima de tu zona para adaptar la siembra y anticipar golpes de calor.

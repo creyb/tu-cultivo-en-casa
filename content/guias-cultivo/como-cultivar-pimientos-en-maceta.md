@@ -28,7 +28,7 @@ En esta guía vamos a contarte todo lo que hemos aprendido cultivando pimientos 
 
 ## Elegir la variedad: no todos los pimientos son iguales 🎨
 
-El primer paso es decidir qué tipo de pimiento quieres cultivar. Esto no es solo una cuestión de sabor: la variedad determina el tamaño de la maceta que necesitas, el tiempo de cosecha y la cantidad de frutos que obtendrás.
+El primer paso es decidir qué tipo de pimiento quieres cultivar. Esto no es solo una cuestión de sabor: la variedad determina el [tamaño de la maceta que necesitas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/), el tiempo de cosecha y la cantidad de frutos que obtendrás.
 
 ### Pimientos morrones (italianos)
 
@@ -122,7 +122,7 @@ La prueba del dedo es infalible: mete el dedo unos 3-4 cm en el sustrato. Si est
 - **Por la mañana**: El mejor momento es entre las 7 y las 9 de la mañana. Así la planta absorbe el agua antes del calor del mediodía.
 - **Evita los extremos**: No dejes que la tierra se seque completamente y luego la inundes. El riego irregular provoca que los frutos se agrieten o aparezca la pudrición apical.
 
-Si quieres profundizar en [cómo regar tu huerto urbano en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/), tenemos una guía completa que te ayudará a planificar el riego de todos tus cultivos en maceta.
+Si quieres profundizar en [cómo regar tu huerto urbano en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/), tenemos una guía completa que te ayudará a planificar el riego de todos tus cultivos en maceta. Si vas a tener más de 4-5 macetas, considera instalar un [kit de riego por goteo con programador](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/): los pimientos agradecen una humedad muy estable.
 
 ---
 
@@ -183,6 +183,8 @@ Es el problema más frustrante. La planta florece, pero las flores se caen sin f
 - **Pulgones**: Colonizan los brotes tiernos. Solución: jabón potásico o agua con jabón negro pulverizado
 - **Mosca blanca**: Pequeños insectos blancos que revolotean al tocar la planta. Solución: trampas amarillas pegajosas y aceite de neem
 - **Araña roja**: Muy común en verano con el calor seco. Se detecta por telarañas finas en el envés de las hojas. Solución: aumentar la humedad ambiental y aceite de neem
+
+Para el protocolo completo de prevención y tratamiento, revisa nuestra [guía de 5 plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
 
 ### Enfermedades
 
@@ -277,5 +279,5 @@ Cultivar pimientos en maceta es una de las experiencias más gratificantes del h
 
 ### Recursos y referencias 📚
 
-- [InfoJardín — ficha del pimiento](https://www.infojardin.com/huerto/): variedades, cuidados y plagas del cultivo de pimiento.
-- [AEMET](https://www.aemet.es): consulta las temperaturas de tu zona para decidir el mejor momento de trasplante.
+- [InfoJardín — ficha del pimiento](https://www.infojardin.com/huerto/): variedades (morrón, italiano, padrón, picantes), calendario de siembra, cuidados y plagas del cultivo de pimiento en maceta.
+- [AEMET](https://www.aemet.es): consulta las temperaturas mínimas y máximas de tu provincia para decidir el mejor momento de trasplante y evitar golpes de calor.

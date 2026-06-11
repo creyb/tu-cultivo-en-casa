@@ -16,9 +16,9 @@ slug: "mejores-macetas-huerto-urbano-comparativa"
 
 ## La maceta correcta marca la diferencia entre un huerto que sobrevive y uno que prospera 🌱
 
-Si has llegado hasta aquí, probablemente ya sabes que no todas las macetas son iguales. Y no, no estamos hablando solo del color o del diseño. La maceta que elijas para tu huerto urbano va a determinar la salud de las raíces, la frecuencia de riego, el peso que tu balcón puede soportar y, al final del día, la cantidad y calidad de tu cosecha.
+Si has llegado hasta aquí, probablemente ya sabes que no todas las macetas son iguales. Y no, no estamos hablando solo del color o del diseño. La maceta que elijas para tu huerto urbano va a determinar la salud de las raíces, la frecuencia de [riego en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/), el peso que tu balcón puede soportar y, al final del día, la cantidad y calidad de tu cosecha.
 
-Hemos cultivado en macetas de barro, plástico, fibra de coco, autorriego e incluso en recipientes reciclados. Algunas nos han sorprendido gratamente; otras nos han enseñado a base de plantas marchitas. En este artículo te contamos todo lo que hemos aprendido para que no tengas que cometer los mismos errores.
+Hemos cultivado en macetas de barro, plástico, fibra de coco, autorriego e incluso en recipientes reciclados. Algunas nos han sorprendido gratamente; otras nos han enseñado a base de plantas marchitas. En este artículo te contamos todo lo que hemos aprendido para que no tengas que cometer los mismos errores, ya cultives [tomates cherry](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/) o [hierbas aromáticas](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/).
 
 ![Variedad de macetas para huerto urbano en terraza](/images/macetas-huerto-urbano-hero.webp)
 
@@ -28,8 +28,8 @@ La maceta no es solo un contenedor decorativo. Es el microclima donde vivirán l
 
 - **Pudrición de raíces** por mal drenaje
 - **Deshidratación constante** si la maceta es muy porosa o pequeña
-- **Plagas** que aprovechan los excesos de humedad
-- **Espacio desperdiciado** en balcones o terrazas reducidas
+- **Plagas** que aprovechan los excesos de humedad ([cómo combatirlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/))
+- **Espacio desperdiciado** en balcones o terrazas reducidos
 - **Sobrecarga estructural** si usas materiales muy pesados
 
 La buena noticia es que no hay una única respuesta correcta. La maceta ideal depende de qué quieras cultivar, dónde vivas y cuánto tiempo puedas dedicarle cada día. Vamos a desglosarlo paso a paso.
@@ -212,7 +212,7 @@ El plástico negro o marrón oscuro en una terraza andaluza puede alcanzar tempe
 Una maceta de barro de 40 cm con tierra y planta puede pesar 25-30 kg. Verifica que tu balcón o barandilla aguante esa carga antes de llenarla.
 
 **5. Mezclar plantas con distintas necesidades en la misma jardinera**
-Una jardinera con tomate (que necesita mucha agua) y romero (que la odia) va a fracasar. Agrupa plantas con requerimientos similares.
+Una jardinera con tomate (que necesita mucha agua) y romero (que la odia) va a fracasar. Agrupa plantas con requerimientos similares y, si dudas, planifica con la [guía de asociaciones de junio](/huerto-urbano/que-plantar-junio-huerto-urbano/) o la de [julio](/huerto-urbano/que-plantar-julio-huerto-urbano/).
 
 ![Errores comunes al elegir macetas en huerto urbano](/images/errores-macetas-huerto.webp)
 
@@ -258,7 +258,7 @@ Mínimo 30 cm de diámetro y 30 cm de profundidad. Si quieres una producción ge
 Para cultivos ligeros como fresas, hierbas o tomates cherry en cascada sí. Para calabacines o raíces profundas no.
 
 **¿Cuánto cuesta equipar un huerto urbano en macetas?**
-Con 50-80€ puedes montar un huerto básico con 4-6 macetas de plástico de calidad, sustrato y semillas. Si optas por barro o autorriego, sube a 100-150€.
+Con 50-80€ puedes montar un huerto básico con 4-6 macetas de plástico de calidad, sustrato y semillas. Si optas por barro o autorriego, sube a 100-150€. Si vas a ausentarte en verano, complétalo con un [kit de riego por goteo con programador](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) y lo tendrás todo controlado.
 
 ---
 
@@ -266,6 +266,6 @@ Con 50-80€ puedes montar un huerto básico con 4-6 macetas de plástico de cal
 
 No existe la maceta perfecta, pero sí la maceta perfecta para ti. Si tienes un balcón pequeño y poco tiempo, apuesta por plástico ligero o autorriego. Si disfrutas cuidando tus plantas a diario y buscas la mejor calidad, el barro cocido es insuperable. Y si quieres cultivar en serio con variedad de hortalizas, una buena mesa de cultivo es la mejor inversión a largo plazo.
 
-Nuestro consejo final: empieza con lo básico, observa cómo responden tus plantas y ve escalando. Es mejor tener tres macetas bien elegidas que diez mal colocadas. El huerto urbano premia la atención al detalle, y la maceta es el primer detalle que debes cuidar. 🌱
+Nuestro consejo final: empieza con lo básico, observa cómo responden tus plantas y ve escalando. Es mejor tener tres macetas bien elegidas que diez mal colocadas. El huerto urbano premia la atención al detalle, y la maceta es el primer detalle que debes cuidar. Una vez la tengas, consulta [qué plantar este mes](/huerto-urbano/que-plantar-junio-huerto-urbano/) para no perderte nada. 🌱
 
 **¿Aún no sabes qué maceta elegir?** Revisa la tabla de comparativa según tu situación y empieza por el tipo que mejor encaje con tu espacio, presupuesto y tiempo disponible. El huerto urbano funciona cuando el primer paso está bien dado.

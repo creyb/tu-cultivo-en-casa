@@ -18,7 +18,7 @@ slug: "que-plantar-junio-huerto-urbano"
 
 Junio marca el arranque oficial del verano en España. Los días son largos, las temperaturas suben y el huerto urbano entra en una de sus fases más productivas. Pero también es un mes que exige planificación: no todos los cultivos aguantan el calor intenso, y elegir bien puede marcar la diferencia entre un huerto generoso y uno que sufre con la primera ola de calor.
 
-Si tienes macetas, jardineras o una mesa de cultivo en tu terraza o balcón, esta guía te ayudará a decidir qué sembrar en junio con criterio. Verás qué hortalizas funcionan mejor, cómo adaptarlas al calor y qué errores evitar.
+Si tienes macetas, jardineras o una [mesa de cultivo en tu terraza o balcón](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/), esta guía te ayudará a decidir qué sembrar en junio con criterio. Verás qué hortalizas funcionan mejor, cómo adaptarlas al calor y qué errores evitar.
 
 ![Huerto urbano productivo en junio con diversas hortalizas](/images/que-plantar-junio-hero.webp)
 
@@ -37,7 +37,7 @@ Esto significa que junio es un mes de oportunidad, pero también de urgencia. Si
 
 ### Tomates
 
-Si no los plantaste en mayo, junio todavía es viable en la mayoría de zonas de España. Eso sí, opta por planta de vivero ya crecida para ganar tiempo.
+Si no los plantaste en mayo, junio todavía es viable en la mayoría de zonas de España. Eso sí, opta por planta de vivero ya crecida para ganar tiempo. Tienes la [guía completa de cultivo de tomates cherry en maceta](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) con todo lo que necesitas para sacarlos adelante hasta final de verano.
 
 - **Variedades recomendadas**: Cherry, pera o variedades determinadas (de crecimiento limitado)
 - **Ubicación**: Sol directo, mínimo 6-8 horas
@@ -46,7 +46,7 @@ Si no los plantaste en mayo, junio todavía es viable en la mayoría de zonas de
 
 ### Pimientos
 
-Al igual que los tomates, los pimientos son cultivos de calor que agradecen las temperaturas de junio.
+Al igual que los tomates, los pimientos son cultivos de calor que agradecen las temperaturas de junio. Te contamos todo sobre su cultivo en maceta en nuestra [guía de pimientos paso a paso](/guias-cultivo/como-cultivar-pimientos-en-maceta/).
 
 - **Variedades**: Pimiento morrón, italiano, del piquillo o mini pimientos
 - **Maceta**: Mínimo 25-30 cm de profundidad
@@ -101,7 +101,7 @@ El rábano es el cultivo más rápido que existe. En apenas 3-4 semanas puedes t
 
 ### Zanahorias
 
-Aunque mayo es el mes estrella, junio sigue siendo viable para sembrar zanahorias, especialmente en zonas del norte o si eliges variedades de ciclo corto.
+Aunque mayo es el mes estrella, junio sigue siendo viable para sembrar zanahorias, especialmente en zonas del norte o si eliges variedades de ciclo corto. Tienes el protocolo completo en nuestra [guía para cultivar zanahorias en mayo](/huerto-urbano/zanahorias-mayo/), que aplica perfectamente a siembras de junio en zonas templadas.
 
 - **Variedades**: Nantes, baby o variedades de ciclo corto
 - **Sustrato**: Suelto, sin piedras, profundo
@@ -110,7 +110,7 @@ Aunque mayo es el mes estrella, junio sigue siendo viable para sembrar zanahoria
 
 ### Aromáticas: albahaca, perejil y cilantro
 
-Las aromáticas son compañeras perfectas del huerto urbano en junio. Además de uso culinario, muchas ayudan a repeler plagas de forma natural.
+Las aromáticas son compañeras perfectas del huerto urbano en junio. Además de uso culinario, muchas ayudan a [repeler plagas de forma natural](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/). Te explicamos cómo cultivarlas en nuestra [guía de hierbas aromáticas en casa](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/).
 
 - **Albahaca**: Le encanta el calor. Ideal junto a tomates.
 - **Perejil**: Aguanta bien el verano, aunque crece más lento con calor extremo.
@@ -222,7 +222,7 @@ Evita plantar juntas:
 
 ### Riego
 
-El riego es el cuidado más crítico en junio.
+El riego es el cuidado más crítico en junio. Tienes la guía específica en [cómo regar el huerto urbano en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/), con horarios, frecuencia por cultivo y sistemas automáticos.
 
 - **Frecuencia**: Diaria o cada dos días según el calor y el tamaño de la maceta
 - **Cantidad**: Suficiente para que el agua drene por abajo, pero sin encharcar
@@ -241,7 +241,7 @@ Con el calor y el crecimiento acelerado, las plantas consumen más nutrientes.
 
 ### Control de plagas
 
-Junio trae más plagas que la primavera.
+Junio trae más plagas que la primavera. El protocolo completo está en [5 plagas comunes del huerto urbano y cómo eliminarlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
 
 - **Pulgón**: Revisa el envés de las hojas; jabón potásico como prevención
 - **Mosca blanca**: Trampas cromáticas amarillas y jabón potásico
@@ -282,7 +282,7 @@ Depende del clima y del tamaño de la maceta. Como referencia: macetas pequeñas
 
 ### ¿Qué hago con el huerto si me voy de vacaciones en julio?
 
-Instala un riego por goteo con temporizador, pide a alguien que riegue, o usa macetas más grandes (retienen más humedad). El acolchado también ayuda a reducir la frecuencia de riego.
+Instala un [riego por goteo con temporizador](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) o usa macetas más grandes (retienen más humedad). Tienes el protocolo completo en [cómo preparar el huerto urbano para las vacaciones de verano](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/). El acolchado también ayuda a reducir la frecuencia de riego.
 
 ### ¿Puedo reutilizar el sustrato del año pasado?
 
@@ -298,5 +298,5 @@ La clave está en elegir bien qué plantar según tu zona, preparar el sustrato 
 
 ### Recursos y referencias 📚
 
-- [Agencia Estatal de Meteorología (AEMET)](https://www.aemet.es): consulta el clima y la predicción de tu zona para adaptar la siembra y el riego.
-- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo por hortaliza, calendario de siembra y asociaciones favorables.
+- [Atlas climático de la AEMET](https://www.aemet.es): consulta el clima, las horas de sol y la predicción de tu provincia para adaptar la siembra y el riego a tu zona concreta.
+- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo por hortaliza, calendario de siembra y asociaciones favorables para huerto urbano.

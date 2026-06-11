@@ -15,13 +15,13 @@ tag: ["tomates cherry", "huerto urbano", "cultivo en maceta", "terraza", "huerto
 
 ## ¿Y si pudieras cosechar tus propios tomates cherry en casa? 🍅
 
-Imagina esto: es una tarde calurosa de verano, abres la puerta de tu terraza y te encuentras con un racimo de tomates cherry rojos, brillantes y cargados de sabor. Los recoges en el momento exacto y los echas en una ensalada fresca. No necesitas una hectárea de campo, ni haber nacido en una familia de agricultores, ni tener un presupuesto enorme. Solo necesitas un poco de sol, una maceta y la curiosidad de ver crecer algo con tus propias manos.
+Imagina esto: es una tarde calurosa de verano, abres la puerta de tu terraza y te encuentras con un racimo de tomates cherry rojos, brillantes y cargados de sabor. Los recoges en el momento exacto y los echas en una ensalada fresca. No necesitas una hectárea de campo, ni haber nacido en una familia de agricultores, ni tener un presupuesto enorme. Solo necesitas un poco de sol, una [maceta adecuada para huerto urbano](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) y la curiosidad de ver crecer algo con tus propias manos.
 
 ![Cosecha de tomates cherry en terraza](/images/tomates-cherry-hero.webp)
 
-Cultivar tomates cherry es, posiblemente, la puerta de entrada perfecta al mundo del huerto urbano. A diferencia de otras variedades de tomate, los cherrys son increíblemente generosos: producen muchísimos frutos en poco espacio y son notablemente más resistentes a las plagas y enfermedades que los tomates grandes. Además, la diferencia de sabor es abismal; un tomate cherry cultivado en casa tiene una concentración de azúcares y aromas que el supermercado simplemente no puede ofrecer.
+Cultivar tomates cherry es, posiblemente, la puerta de entrada perfecta al mundo del huerto urbano. A diferencia de otras variedades de tomate, los cherrys son increíblemente generosos: producen muchísimos frutos en poco espacio y son notablemente más resistentes a las [plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) que los tomates grandes. Además, la diferencia de sabor es abismal; un tomate cherry cultivado en casa tiene una concentración de azúcares y aromas que el supermercado simplemente no puede ofrecer. Si todavía estás decidiendo qué cultivar este mes, echa un vistazo a nuestra [guía de qué plantar en junio en el huerto urbano](/huerto-urbano/que-plantar-junio-huerto-urbano/).
 
-Si nunca has plantado nada en tu vida, o si tienes el "don" de marchitar hasta los cactus, no te preocupes. Esta guía ha sido diseñada para llevarte de la mano, desde la elección de la semilla hasta el primer bocado de tu cosecha, asegurándonos de que cada paso sea un éxito.
+Si nunca has plantado nada en tu vida, o si tienes el "don" de marchitar hasta los cactus, no te preocupes. Esta guía ha sido diseñada para llevarte de la mano, desde la elección de la semilla hasta el primer bocado de tu cosecha, asegurándonos de que cada paso sea un éxito. Si te animas con más solanáceas, nuestra [guía de pimientos en maceta](/guias-cultivo/como-cultivar-pimientos-en-maceta/) sigue una lógica muy parecida.
 
 ---
 
@@ -40,7 +40,7 @@ El error más común de los principiantes es usar macetas demasiado pequeñas. E
 #### El Sustrato: El combustible de tu planta
 Olvídate de la tierra común del campo o la que encuentras en el parque. Esa tierra suele estar compactada, puede contener patógenos y no tiene el drenaje necesario para una maceta.
 - **Busca la calidad:** Opta por un sustrato universal orgánico de buena marca o, mejor aún, un sustrato específico para huerto urbano. Estos vienen mezclados con turba, coco y perlita, lo que garantiza que la tierra sea esponjosa y aireada.
-- **El "toque mágico": El Humus de Lombriz.** Si quieres que tus tomates exploten en sabor y cantidad, mezcla el sustrato con un 20% de humus de lombriz. Es el mejor fertilizante natural del mundo: aporta nitrógeno, fósforo y potasio de liberación lenta.
+- **El "toque mágico": El Humus de Lombriz.** Si quieres que tus tomates exploten en sabor y cantidad, mezcla el sustrato con un 20% de humus de lombriz. Es el mejor fertilizante natural del mundo: aporta nitrógeno, fósforo y potasio de liberación lenta. Si quieres producir tu propio humus en el balcón, te explicamos cómo en nuestra [guía de compostaje en maceta](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/).
 
 #### Soporte o Tutor: El esqueleto necesario
 El tomate cherry es una planta trepadora por naturaleza. A medida que la planta crece y los racimos de tomates se vuelven pesados, el tallo no puede sostener el peso por sí solo.
@@ -55,7 +55,7 @@ El tomate cherry es una planta trepadora por naturaleza. A medida que la planta 
 
 Si hay un factor que determina si tendrás un éxito rotundo o una decepción verde, es la luz. El tomate es una planta heliófila, lo que significa que es "amante del sol".
 
-- **La regla de las 6-8 horas:** Tus tomates necesitan un **mínimo de 6 a 8 horas de sol directo al día** ([consulta las horas de sol de tu zona en la AEMET](https://www.aemet.es)). Si los pones en una zona de semisombra, la planta crecerá, pero probablemente no verá frutos o estos serán verdes y ácidos.
+- **La regla de las 6-8 horas:** Tus tomates necesitan un **mínimo de 6 a 8 horas de sol directo al día** ([consulta el atlas climático de la AEMET para tu provincia](https://www.aemet.es)). Si los pones en una zona de semisombra, la planta crecerá, pero probablemente no verá frutos o estos serán verdes y ácidos. En pleno julio y agosto, echa un vistazo a nuestra [guía de riego del huerto urbano en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) para evitar que tus tomates pasen sed.
 - **Buscando el rincón perfecto:** Observa tu terraza durante un día entero. ¿Dónde cae el sol la mayor parte del tiempo? Ese es el lugar. Evita colocar la maceta pegada a paredes que proyecten sombra durante la mayor parte de la mañana.
 - **El peligro del viento:** Si tu terraza es muy ventosa, el tutor es aún más crítico. El viento fuerte puede romper las ramas cargadas de frutos o estresar la planta. Si es el caso, intenta colocar la maceta cerca de un muro que sirva de escudo.
 
@@ -106,7 +106,7 @@ El tomate cherry es muy vigoroso y tiende a sacar ramas laterales en el ángulo 
 
 #### Control de Plagas sin Químicos
 En la terraza, los enemigos más comunes son la mosca blanca y el pulgón. 
-- **Solución Natural:** El jabón potásico y el aceite de Neem son tus mejores aliados. Una mezcla de agua con jabón potásico pulverizada sobre las hojas (por arriba y por abajo) una vez a la semana es suficiente para mantenerlos a raya sin contaminar tus alimentos.
+- **Solución Natural:** El jabón potásico y el aceite de Neem son tus mejores aliados. Una mezcla de agua con jabón potásico pulverizada sobre las hojas (por arriba y por abajo) una vez a la semana es suficiente para mantenerlos a raya sin contaminar tus alimentos. Tienes el protocolo completo en nuestra [guía de plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
 
 ---
 
@@ -138,7 +138,7 @@ R: El tomate es una planta de clima cálido. En la mayoría de los lugares, el f
 R: ¡Depende de tus cuidados! Una planta de tomate cherry bien cuidada en maceta puede darte cientos de frutos a lo largo de la temporada. Es una de las plantas más productivas para el espacio que ocupa.
 
 **P: ¿Es malo usar fertilizantes químicos?**
-R: No es "malo" per se, pero los fertilizantes químicos suelen dar un crecimiento muy rápido y débil, y pueden alterar el sabor del fruto. Los abonos orgánicos alimentan la tierra y la planta, creando un equilibrio más saludable a largo plazo.
+R: No es "malo" per se, pero los fertilizantes químicos suelen dar un crecimiento muy rápido y débil, y pueden alterar el sabor del fruto. Los abonos orgánicos alimentan la tierra y la planta, creando un equilibrio más saludable a largo plazo. Si quieres cerrar el círculo en tu balcón, monta una [compostera o vermicompostador](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) y tendrás humus gratis todo el año.
 
 **P: ¿Cuál es la diferencia entre el tomate cherry y el tomate cocktail?**
 R: Básicamente es el tamaño. El cherry es el más pequeño (tipo uva), mientras que el cocktail es un paso intermedio entre el cherry y el tomate estándar. Ambos se cultivan de forma casi idéntica.
@@ -149,6 +149,6 @@ R: Básicamente es el tamaño. El cherry es el más pequeño (tipo uva), mientra
 
 ### Recursos y referencias 📚
 
-- [Agencia Estatal de Meteorología (AEMET)](https://www.aemet.es): consulta las horas de sol y temperaturas de tu zona para elegir la mejor ubicación.
-- [InfoJardín — sección de huerto](https://www.infojardin.com/huerto/): fichas de cultivo, foro de dudas y calendario de siembra.
-- [InfoJardín — plagas y enfermedades del tomate](https://www.infojardin.com/huerto/): diagnóstico y tratamiento ecológico de las plagas más comunes.
+- [Atlas climático de la AEMET](https://www.aemet.es): consulta las horas de sol, temperaturas medias y extremos de tu provincia para elegir la mejor ubicación y anticipar olas de calor.
+- [InfoJardín — fichas de cultivo del tomate](https://www.infojardin.com/huerto/): variedades, calendario de siembra, foro de dudas y trucos de cultivadores experimentados.
+- [InfoJardín — plagas y enfermedades del tomate](https://www.infojardin.com/huerto/): diagnóstico visual y tratamientos ecológicos paso a paso.
