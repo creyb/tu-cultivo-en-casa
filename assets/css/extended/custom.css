@@ -1533,9 +1533,19 @@ html, body {
     margin: 0 auto !important;
 }
 
+/* Pillar card wrapper — same look as .post-single */
+.list-card {
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-radius: 0.5rem !important;
+    padding: 2.5rem !important;
+    margin-bottom: 3rem !important;
+    box-shadow: 0 8px 32px rgba(51, 69, 55, 0.08), 0 2px 8px rgba(51, 69, 55, 0.04) !important;
+}
+
 .list-header {
     text-align: left !important;
-    padding: 1.5rem 0 1.25rem !important;
+    padding: 0 0 1.5rem !important;
     border-bottom: 1px solid var(--color-outline) !important;
     margin-bottom: 0 !important;
 }
@@ -1674,6 +1684,10 @@ html, body {
 }
 
 @media (max-width: 768px) {
+    .list-card {
+        padding: 1.5rem !important;
+        margin-bottom: 2rem !important;
+    }
     .pillar-content {
         margin-top: 1.5rem !important;
     }
@@ -1681,6 +1695,6 @@ html, body {
         margin-top: 1.25rem !important;
     }
     .list-header {
-        padding: 1rem 0 !important;
+        padding-bottom: 1rem !important;
     }
 }
