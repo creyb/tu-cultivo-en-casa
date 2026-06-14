@@ -3,15 +3,17 @@ title: "Cultivar zanahorias en mayo: guía completa para huerto urbano"
 date: 2026-05-07
 draft: false
 summary: "Descubre los secretos para cultivar zanahorias perfectas en mayo. Te explicamos el sustrato ideal, la siembra correcta y los cuidados necesarios para un huerto urbano productivo."
-categoria: ["Huerto urbano"]
+categoria: ["guias-cultivo"]
 cover:
     image: "/images/zanahorias-mayo-hero.webp"
     title: "Cultivar zanahorias en mayo: guía completa para huerto urbano"
     alt: "Sembrar zanahorias en mayo en un huerto urbano"
 featured_image: "/images/zanahorias-mayo-hero.webp"
-tag: ["zanahorias", "mayo", "siembra", "huerto urbano", "hortalizas"]
+tag: ["zanahorias", "calendario-siembra", "mayo", "hortalizas-raices"]
 description: "Aprende cuándo y cómo cultivar zanahorias en mayo en España, con consejos de siembra, riego, sustrato y cosecha en huerto urbano."
-slug: "cultivar-zanahorias-en-mayo"
+aliases:
+    - /huerto-urbano/cultivar-zanahorias-en-mayo/
+    - /huerto-urbano/zanahorias-mayo/
 ---
 
 # Cultivar zanahorias en mayo: guía completa para huerto urbano
