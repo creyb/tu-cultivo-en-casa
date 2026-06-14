@@ -11,6 +11,22 @@
     {{- end }}
   </header>
 
+  {{- if and .Params.cover.image (not (.Param "cover.hiddenInList")) }}
+  {{- $img := .Params.cover.image }}
+  {{- if hasPrefix $img "/" }}{{ $img = substr $img 1 }}{{ end }}
+  <figure class="pillar-hero">
+    <img src="{{ $img | relURL }}?v=2" alt="{{ .Params.cover.alt | default .Title }}" loading="lazy" width="1024" height="576">
+  </figure>
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="pillar-content md-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
   {{- $pages := .RegularPages }}
   {{- $paginator := .Paginate $pages }}
 

@@ -1359,3 +1359,328 @@ html, body {
 [data-theme-preference="light"] .theme-toggle-btn .sun {
     display: block !important;
 }
+
+/* ============================================
+   RELATED POSTS WIDGET
+   ============================================ */
+
+.related-posts {
+    margin-top: 3rem !important;
+    padding-top: 2.5rem !important;
+    border-top: 1px solid var(--color-outline) !important;
+    clear: both !important;
+}
+
+.related-header {
+    text-align: center !important;
+    margin-bottom: 2rem !important;
+}
+
+.related-eyebrow {
+    font-family: 'Metropolis', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.2em !important;
+    text-transform: uppercase !important;
+    color: var(--color-secondary) !important;
+    margin-bottom: 0.6rem !important;
+    position: relative !important;
+    display: inline-block !important;
+}
+
+.related-eyebrow::before,
+.related-eyebrow::after {
+    content: "" !important;
+    position: absolute !important;
+    top: 50% !important;
+    width: 28px !important;
+    height: 1px !important;
+    background: var(--color-secondary) !important;
+    opacity: 0.5 !important;
+}
+
+.related-eyebrow::before { right: calc(100% + 12px) !important; }
+.related-eyebrow::after  { left: calc(100% + 12px) !important; }
+
+.related-title {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: clamp(1.5rem, 3vw, 1.875rem) !important;
+    color: var(--color-primary) !important;
+    margin: 0 !important;
+    line-height: 1.25 !important;
+}
+
+.related-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)) !important;
+    gap: 1.25rem !important;
+    max-width: 100% !important;
+}
+
+.related-card {
+    background: var(--color-surface) !important;
+    border: 1px solid var(--color-outline) !important;
+    border-radius: 0.5rem !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+    transition: box-shadow 0.3s ease, transform 0.3s ease !important;
+    position: relative !important;
+}
+
+.related-card::before {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 2px !important;
+    background: linear-gradient(90deg, transparent, var(--color-secondary), transparent) !important;
+    opacity: 0.25 !important;
+    z-index: 1 !important;
+    pointer-events: none !important;
+}
+
+.related-card:hover {
+    box-shadow: 0 8px 24px rgba(51, 69, 55, 0.10), 0 2px 8px rgba(51, 69, 55, 0.05) !important;
+    transform: translateY(-2px) !important;
+}
+
+.related-image-link {
+    display: block !important;
+    line-height: 0 !important;
+    text-decoration: none !important;
+    overflow: hidden !important;
+}
+
+.related-image {
+    width: 100% !important;
+    height: 140px !important;
+    object-fit: cover !important;
+    display: block !important;
+    border-radius: 0.5rem 0.5rem 0 0 !important;
+    transition: transform 0.4s ease !important;
+}
+
+.related-card:hover .related-image {
+    transform: scale(1.04) !important;
+}
+
+.related-body {
+    padding: 0.875rem 1rem 1.125rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.4rem !important;
+    flex: 1 !important;
+}
+
+.related-categoria {
+    align-self: flex-start !important;
+    font-size: 10px !important;
+    padding: 0.15rem 0.45rem !important;
+    letter-spacing: 0.12em !important;
+}
+
+.related-card-title {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: 1rem !important;
+    line-height: 1.35 !important;
+    color: var(--color-primary) !important;
+    margin: 0 !important;
+    font-weight: 600 !important;
+}
+
+.related-card-title a {
+    color: var(--color-primary) !important;
+    text-decoration: none !important;
+    background: none !important;
+    padding: 0 !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+}
+
+.related-card-title a:hover {
+    color: var(--color-secondary) !important;
+}
+
+@media (max-width: 768px) {
+    .related-posts {
+        margin-top: 2rem !important;
+        padding-top: 1.75rem !important;
+    }
+    .related-header { margin-bottom: 1.5rem !important; }
+    .related-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 0.875rem !important;
+    }
+    .related-image { height: 110px !important; }
+    .related-card-title { font-size: 0.92rem !important; }
+}
+
+@media (max-width: 480px) {
+    .related-grid {
+        grid-template-columns: 1fr !important;
+    }
+    .related-image { height: 160px !important; }
+}
+
+/* ============================================
+   PILLAR / SECTION PAGE (list.html)
+   ============================================ */
+
+.list-page {
+    max-width: 900px !important;
+    margin: 0 auto !important;
+}
+
+.list-header {
+    text-align: left !important;
+    padding: 1.5rem 0 1.25rem !important;
+    border-bottom: 1px solid var(--color-outline) !important;
+    margin-bottom: 0 !important;
+}
+
+.list-header h1 {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: clamp(2rem, 4.5vw, 2.75rem) !important;
+    color: var(--color-primary) !important;
+    line-height: 1.15 !important;
+    margin: 0 0 0.75rem !important;
+}
+
+.list-description {
+    font-size: 1.1rem !important;
+    color: var(--text-muted) !important;
+    line-height: 1.6 !important;
+    margin: 0 !important;
+    max-width: 700px !important;
+}
+
+.pillar-hero {
+    margin: 2rem 0 0 !important;
+    border-radius: 0.5rem !important;
+    overflow: hidden !important;
+    border: 1px solid var(--color-outline) !important;
+    box-shadow: 0 4px 16px rgba(51, 69, 55, 0.06) !important;
+    position: relative !important;
+}
+
+.pillar-hero::after {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 3px !important;
+    background: linear-gradient(90deg, var(--color-secondary), rgba(139, 79, 53, 0.3), transparent) !important;
+    opacity: 0.7 !important;
+    pointer-events: none !important;
+}
+
+.pillar-hero img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    aspect-ratio: 16 / 9 !important;
+    object-fit: cover !important;
+}
+
+.pillar-content {
+    max-width: 720px !important;
+    margin: 2.5rem auto 0 !important;
+    line-height: 1.75 !important;
+    font-size: 1.05rem !important;
+    color: var(--text-main) !important;
+}
+
+.pillar-content > h2:first-child,
+.pillar-content > p:first-child {
+    margin-top: 0 !important;
+}
+
+.pillar-content p {
+    margin-bottom: 1.25rem !important;
+}
+
+.pillar-content h2 {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: clamp(1.5rem, 3vw, 1.875rem) !important;
+    color: var(--color-primary) !important;
+    margin-top: 2.5rem !important;
+    margin-bottom: 1rem !important;
+    line-height: 1.25 !important;
+    position: relative !important;
+    padding-bottom: 0.5rem !important;
+}
+
+.pillar-content h2::after {
+    content: "" !important;
+    display: block !important;
+    width: 40px !important;
+    height: 2px !important;
+    background: var(--color-secondary) !important;
+    margin-top: 0.5rem !important;
+    opacity: 0.6 !important;
+}
+
+.pillar-content h3 {
+    font-family: 'Libre Caslon Text', serif !important;
+    font-size: 1.35rem !important;
+    color: var(--color-primary) !important;
+    margin-top: 1.75rem !important;
+    margin-bottom: 0.75rem !important;
+}
+
+.pillar-content ul,
+.pillar-content ol {
+    margin: 0 0 1.5rem 1.25rem !important;
+    padding: 0 !important;
+}
+
+.pillar-content li {
+    margin-bottom: 0.4rem !important;
+    line-height: 1.65 !important;
+}
+
+.pillar-content a {
+    color: var(--color-secondary) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+    font-weight: 500 !important;
+    transition: color 0.2s ease !important;
+}
+
+.pillar-content a:hover {
+    color: var(--color-primary) !important;
+}
+
+.pillar-content strong {
+    color: var(--color-primary) !important;
+    font-weight: 700 !important;
+}
+
+.pillar-content hr {
+    border: none !important;
+    border-top: 1px dashed var(--color-outline) !important;
+    margin: 2rem 0 !important;
+}
+
+.pillar-content img {
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 0.375rem !important;
+    margin: 1.5rem 0 !important;
+    display: block !important;
+}
+
+@media (max-width: 768px) {
+    .pillar-content {
+        margin-top: 1.5rem !important;
+    }
+    .pillar-hero {
+        margin-top: 1.25rem !important;
+    }
+    .list-header {
+        padding: 1rem 0 !important;
+    }
+}

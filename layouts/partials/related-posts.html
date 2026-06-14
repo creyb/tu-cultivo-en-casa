@@ -1,0 +1,62 @@
+{{- /*
+  Related posts widget.
+  Scoring:
+    +3 if same categoria (silo sibling)
+    +1 per shared tag (cross-silo connector)
+  Ordered by score desc, capped at 4.
+*/ -}}
+
+{{- $currentCat := "" -}}
+{{- with index (.Params.categoria | default (slice)) 0 -}}
+  {{- $currentCat = . -}}
+{{- end -}}
+
+{{- $currentTags := .Params.tag | default (slice) -}}
+
+{{- $scored := slice -}}
+{{- range $p := where .Site.RegularPages ".Permalink" "ne" .Permalink -}}
+  {{- $score := 0 -}}
+  {{- if and $currentCat (in $p.Params.categoria $currentCat) -}}
+    {{- $score = add $score 3 -}}
+  {{- end -}}
+  {{- $pTags := $p.Params.tag | default (slice) -}}
+  {{- $shared := len (intersect $currentTags $pTags) -}}
+  {{- $score = add $score $shared -}}
+  {{- if gt $score 0 -}}
+    {{- $scored = $scored | append (dict "page" $p "score" $score) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $scored = sort $scored "score" "desc" -}}
+{{- $related := first 4 $scored -}}
+
+{{- if gt (len $related) 0 -}}
+  <section class="related-posts" aria-labelledby="related-posts-heading">
+    <header class="related-header">
+      <div class="related-eyebrow">Sigue explorando</div>
+      <h2 id="related-posts-heading" class="related-title">También te interesará</h2>
+    </header>
+    <div class="related-grid">
+      {{- range $related -}}
+        {{- $p := .page -}}
+        <article class="related-card">
+          {{- if $p.Params.cover.image -}}
+            {{- $img := $p.Params.cover.image -}}
+            {{- if hasPrefix $img "/" -}}{{- $img = substr $img 1 -}}{{- end -}}
+            <a href="{{ $p.RelPermalink }}" class="related-image-link" tabindex="-1" aria-hidden="true">
+              <img src="{{ $img | relURL }}?v=2" alt="" loading="lazy" class="related-image" width="400" height="225">
+            </a>
+          {{- end -}}
+          <div class="related-body">
+            {{- with index $p.Params.categoria 0 -}}
+              <span class="related-categoria chip">{{ . | humanize }}</span>
+            {{- end -}}
+            <h3 class="related-card-title">
+              <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+            </h3>
+          </div>
+        </article>
+      {{- end -}}
+    </div>
+  </section>
+{{- end -}}
