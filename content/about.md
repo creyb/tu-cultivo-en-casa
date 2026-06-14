@@ -2,6 +2,7 @@
 title: "Sobre Nosotros"
 description: "Conoce el proyecto Tu Cultivo en Casa: guías prácticas de huerto urbano, cultivo en maceta y cuidado de plantas para balcones y terrazas."
 author: "Tu Cultivo en Casa"
+noindex: true
 hiddenInHomeList: true
 ---
 

@@ -10,7 +10,7 @@ cover:
     alt: "Balcón con tomateras, pimientos y hierbas aromáticas cultivadas en maceta"
 featured_image: "/images/guias-cultivo-hero.webp"
 categoria: ["guias-cultivo"]
-tag: ["cultivo-en-maceta", "principiantes", "huerto-urbano", "macetas"]
+tag: ["cultivo-maceta", "principiantes", "huerto-urbano", "macetas"]
 ---
 
 ## Cultivar en casa es más fácil de lo que parece 🌱

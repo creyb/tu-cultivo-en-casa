@@ -1,13 +1,21 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if eq .Kind "404" }}
+{{- $noindex := false -}}
+{{- if eq .Kind "404" -}}
+  {{- $noindex = true -}}
+{{- else if .Params.noindex -}}
+  {{- $noindex = true -}}
+{{- else if and (eq .Kind "term") (lt (len .Pages) 3) -}}
+  {{- $noindex = true -}}
+{{- end -}}
+{{- if $noindex -}}
 <meta name="robots" content="noindex, nofollow">
-{{- else if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
+{{- else if hugo.IsProduction | or (eq site.Params.env "production") -}}
 <meta name="robots" content="index, follow">
-{{- else }}
+{{- else -}}
 <meta name="robots" content="noindex, nofollow">
-{{- end }}
+{{- end -}}
 
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ site.Title }} | Huerto Urbano y Guías de Cultivo en Casa{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ site.Title }}{{ end }}</title>
