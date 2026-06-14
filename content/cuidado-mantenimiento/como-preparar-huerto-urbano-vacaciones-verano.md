@@ -10,7 +10,7 @@ cover:
     title: "Cómo preparar tu huerto urbano para las vacaciones de verano"
     alt: "Huerto urbano preparado para vacaciones con sistema de riego por goteo y plantas sanas"
 featured_image: "/images/huerto-vacaciones-hero.webp"
-tag: ["vacaciones", "riego automático", "huerto urbano", "verano", "sistema de riego", "malla de sombreo", "acolchado", "cuidado plantas"]
+tag: ["vacaciones", "riego-automatico", "riego", "verano", "malla-sombreo"]
 slug: "como-preparar-huerto-urbano-vacaciones-verano"
 ---
 

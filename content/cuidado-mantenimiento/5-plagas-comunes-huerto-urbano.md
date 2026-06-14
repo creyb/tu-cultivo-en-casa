@@ -10,7 +10,7 @@ cover:
     title: "5 plagas comunes en el huerto urbano y cómo eliminarlas sin químicos"
     alt: "Planta de huerto urbano con hojas dañadas por plagas en una terraza"
 featured_image: "/images/plagas-huerto-urbano-hero.webp"
-tag: ["plagas huerto urbano", "eliminar plagas sin químicos", "insecticida casero", "cuidado plantas", "huerto urbano", "pulgones", "mosca blanca"]
+tag: ["plagas", "control-biologico", "pulgones", "mosca-blanca", "prevencion"]
 slug: "5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos"
 ---
 

@@ -10,7 +10,7 @@ cover:
     title: "Cómo cultivar hierbas aromáticas en casa: albahaca, perejil y cilantro"
     alt: "Macetas con albahaca, perejil y cilantro fresco en una ventana soleada"
 featured_image: "/images/hierbas-aromaticas-maceta-hero.webp"
-tag: ["hierbas aromáticas", "albahaca", "perejil", "cilantro", "cultivo en maceta", "huerto urbano", "plantas aromáticas", "cocina"]
+tag: ["hierbas-aromaticas", "albahaca", "perejil", "cilantro", "macetas", "principiantes", "cocina"]
 slug: "como-cultivar-hierbas-aromaticas-en-casa"
 ---
 

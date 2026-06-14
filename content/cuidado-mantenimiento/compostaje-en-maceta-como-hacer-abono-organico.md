@@ -10,7 +10,7 @@ cover:
     title: "Compostaje en maceta: cómo hacer abono orgánico en tu casa"
     alt: "Compostera pequeña de color verde oscuro en un balcón urbano, rodeada de macetas con plantas aromáticas y tomateras"
 featured_image: "/images/compost-balcon-huerto-urbano-hero.webp"
-tag: ["compost", "compostaje", "abono orgánico", "huerto urbano", "vermicompostador", "lombrices", "residuos orgánicos", "sostenibilidad", "balcón", "terraza"]
+tag: ["compostaje", "abonado", "vermicompostador", "sostenibilidad", "balcon"]
 slug: "compostaje-en-maceta-como-hacer-abono-organico"
 ---
 

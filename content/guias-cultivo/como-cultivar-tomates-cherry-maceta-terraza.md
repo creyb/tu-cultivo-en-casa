@@ -10,7 +10,7 @@ cover:
     title: "Cómo cultivar tomates cherry en maceta en tu terraza: Guía completa paso a paso para principiantes"
     alt: "Cosecha de tomates cherry en terraza"
 featured_image: "/images/tomates-cherry-hero.webp"
-tag: ["tomates cherry", "huerto urbano", "cultivo en maceta", "terraza", "huerto para principiantes", "cuidados del tomate"]
+tag: ["tomates-cherry", "solanaceas", "macetas", "riego", "abonado", "plagas", "principiantes"]
 ---
 
 ## ¿Y si pudieras cosechar tus propios tomates cherry en casa? 🍅

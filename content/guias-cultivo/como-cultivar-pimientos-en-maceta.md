@@ -10,7 +10,7 @@ cover:
     title: "Cómo cultivar pimientos en maceta: guía paso a paso"
     alt: "Pimientos de colores creciendo en macetas en una terraza soleada"
 featured_image: "/images/pimientos-maceta-hero.webp"
-tag: ["pimientos", "cultivo en maceta", "huerto urbano", "guias de cultivo", "terrazas", "balcones", "pimientos en maceta"]
+tag: ["pimientos", "solanaceas", "macetas", "principiantes"]
 slug: "como-cultivar-pimientos-en-maceta"
 ---
 

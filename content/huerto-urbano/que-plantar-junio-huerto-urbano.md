@@ -3,13 +3,13 @@ title: "Qué plantar en junio en el huerto urbano: guía completa para España"
 date: 2026-05-09
 draft: false
 summary: "Descubre qué hortalizas, verduras y aromáticas puedes plantar en junio en tu huerto urbano. Calendario de siembra adaptado al clima de España con consejos prácticos."
-categoria: ["Huerto urbano"]
+categoria: ["huerto-urbano"]
 cover:
     image: "/images/que-plantar-junio-hero.webp"
     title: "Qué plantar en junio en el huerto urbano"
     alt: "Huerto urbano productivo en junio con diversas hortalizas"
 featured_image: "/images/que-plantar-junio-hero.webp"
-tag: ["junio", "siembra", "huerto urbano", "calendario siembra", "hortalizas verano", "España"]
+tag: ["calendario-siembra", "junio", "verano", "hortalizas-verano"]
 description: "Calendario de siembra para junio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el inicio del verano."
 slug: "que-plantar-junio-huerto-urbano"
 ---
@@ -101,7 +101,7 @@ El rábano es el cultivo más rápido que existe. En apenas 3-4 semanas puedes t
 
 ### Zanahorias
 
-Aunque mayo es el mes estrella, junio sigue siendo viable para sembrar zanahorias, especialmente en zonas del norte o si eliges variedades de ciclo corto. Tienes el protocolo completo en nuestra [guía para cultivar zanahorias en mayo](/huerto-urbano/zanahorias-mayo/), que aplica perfectamente a siembras de junio en zonas templadas.
+Aunque mayo es el mes estrella, junio sigue siendo viable para sembrar zanahorias, especialmente en zonas del norte o si eliges variedades de ciclo corto. Tienes el protocolo completo en nuestra [guía para cultivar zanahorias en mayo](/guias-cultivo/cultivar-zanahorias-en-mayo/), que aplica perfectamente a siembras de junio en zonas templadas.
 
 - **Variedades**: Nantes, baby o variedades de ciclo corto
 - **Sustrato**: Suelto, sin piedras, profundo

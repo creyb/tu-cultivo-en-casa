@@ -10,7 +10,7 @@ cover:
     title: "Cómo regar correctamente tu huerto urbano en verano"
     alt: "Persona regando un huerto urbano en terraza durante el verano"
 featured_image: "/images/riego-huerto-verano-hero.webp"
-tag: ["riego", "verano", "huerto urbano", "cuidado plantas", "riego por goteo", "macetas", "frecuencia de riego"]
+tag: ["riego", "verano", "frecuencia-riego", "riego-goteo", "macetas"]
 slug: "como-regar-huerto-urbano-verano"
 ---
 

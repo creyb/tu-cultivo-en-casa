@@ -10,7 +10,7 @@ cover:
     title: "Mejores macetas para huerto urbano: comparativa y recomendaciones"
     alt: "Variedad de macetas para huerto urbano en terraza"
 featured_image: "/images/macetas-huerto-urbano-hero.webp"
-tag: ["macetas", "huerto urbano", "reviews productos", "cultivo en maceta", "terrazas", "balcones", "equipamiento huerto"]
+tag: ["macetas", "cultivo-maceta", "equipamiento", "terraza", "balcon", "comparativa"]
 slug: "mejores-macetas-huerto-urbano-comparativa"
 ---
 

@@ -10,7 +10,7 @@ cover:
     title: "Kit de riego por goteo para huerto urbano"
     alt: "Kit de riego por goteo instalado en macetas de terraza"
 featured_image: "/images/kit-riego-goteo-huerto-hero.webp"
-tag: ["riego por goteo", "kit riego", "huerto urbano", "reviews productos", "macetas", "equipamiento huerto", "programador riego", "ahorro agua"]
+tag: ["riego-goteo", "riego", "kit-riego", "equipamiento", "programador-riego", "comparativa"]
 slug: "mejores-kits-riego-por-goteo-huerto-urbano-comparativa"
 ---
 
