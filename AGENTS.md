@@ -61,3 +61,8 @@
 
 ## Repo-local Skills
 - `.agents/skills/` and `.claude/skills/` contain repo-local skills (e.g., `hugo-content-generator`, `copywriting`, `seo-audit`). Load via the `skill` tool when applicable.
+
+## Image Generation
+- Use `fal-ai/flux-2-pro` (Flux 2 Pro) for all new hero images. Never use `fal-ai/flux/dev` unless explicitly requested.
+- Standard aspect: `landscape_16_9` (1024x576), output `png`, then convert to `webp` with Pillow (quality 85, method 6) before saving to `static/images/`.
+- If the user has consumed their fal.ai credit, reuse the last batch of generated images rather than regenerating.
