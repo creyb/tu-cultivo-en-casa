@@ -1,6 +1,6 @@
 ---
 title: "Qué plantar en agosto en el huerto urbano: guía completa para España"
-date: 2026-06-21
+date: 2026-06-27
 draft: false
 summary: "Descubre qué hortalizas, verduras y aromáticas plantar en agosto en tu huerto urbano. Calendario de siembra de finales de verano y planificación de otoño adaptado al clima de España."
 categoria: ["huerto-urbano"]

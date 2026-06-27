@@ -21,6 +21,7 @@
   - `featured_image` — same path as `cover.image` (used by layouts)
 - Legal pages at root (`about.md`, `aviso-legal.md`, `politica-cookies.md`) must include `noindex: true` and `hiddenInHomeList: true`.
 - **`date` must always be the day the post is committed**, never a future date. CI builds with `hugo --gc --minify --baseURL "https://tucultivoencasa.com/"` (no `--buildFuture`), so any post with `date` later than today will be silently ignored by the build and will not publish until some future push or trigger happens. When the user asks for an article, they want it published **right now**, not tomorrow.
+- **🛑 STOP — Read the system date BEFORE writing `date:` in front matter.** Run `date` (or `Get-Date` on PowerShell) at the moment of writing and use its output literally. Do NOT trust the `Today's date:` line in the env block from session start — that snapshot is from when the session opened and goes stale in long sessions. Example: if the env says "Jun 21" but `date` returns Jun 27, use Jun 27. The env-block date is informational; the live `date` command is the only authoritative source. **Treat any session where the env-block date is older than 1 day as a fresh start for date calculations.**
 
 ## Images
 - Place images in `static/images/name.webp` (WebP only).

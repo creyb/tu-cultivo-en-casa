@@ -1,6 +1,6 @@
 ---
 title: "Asociaciones de cultivos en maceta: la guía completa para el huerto urbano"
-date: 2026-06-21
+date: 2026-06-27
 draft: false
 summary: "Aprende a combinar hortalizas y aromáticas en la misma maceta para mejorar la producción, evitar plagas y aprovechar el espacio. Las 8 mejores asociaciones, las 5 que debes evitar y un plan de 3 macetas."
 categoria: ["huerto-urbano"]
