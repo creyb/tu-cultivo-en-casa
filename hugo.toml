@@ -54,9 +54,8 @@ weight = 5
   twitter = ""
 
 [services]
-  [services.analytics]
-    [services.analytics.google]
-      ID = "G-WTV8Z3LFKB"
+  [services.googleAnalytics]
+    id = "G-WTV8Z3LFKB"
 
 [markup]
   [markup.goldmark]
