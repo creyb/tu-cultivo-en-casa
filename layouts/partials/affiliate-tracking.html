@@ -1,0 +1,70 @@
+{{- /* Affiliate click tracking for GA4.
+   - Fires affiliate_click + outbound_click events on any click to a partner link.
+   - Respects CookieConsent analytics category (no event fired if user rejected).
+   - Auto-detects the partner from the URL hostname.
+   - Optional: add data-product="Nombre exacto" to an <a> for cleaner event data;
+     otherwise the anchor text is used (trimmed, max 80 chars). */ -}}
+<script>
+  (function () {
+    'use strict';
+
+    function hasConsent() {
+      if (typeof CookieConsent === 'undefined') return false;
+      return CookieConsent.acceptedCategory('analytics');
+    }
+
+    function detectPartner(url) {
+      try {
+        var host = new URL(url, location.origin).hostname.toLowerCase();
+        if (host.indexOf('amazon') !== -1) return 'amazon';
+        return host;
+      } catch (e) { return 'unknown'; }
+    }
+
+    function cleanProduct(s) {
+      if (!s) return '';
+      s = s.trim().replace(/\s+/g, ' ');
+      if (s.length > 80) return s.slice(0, 80) + '...';
+      return s;
+    }
+
+    function track(e) {
+      if (typeof gtag === 'undefined') return;
+      if (!hasConsent()) return;
+      var link = e.currentTarget;
+      var href = link.href;
+      var product = link.getAttribute('data-product') || cleanProduct(link.textContent);
+      var partner = detectPartner(href);
+      var path = location.pathname;
+      var allPartnerLinks = document.querySelectorAll('a[href*="' + partner + '"]');
+      var position = Array.prototype.indexOf.call(allPartnerLinks, link) + 1;
+
+      gtag('event', 'affiliate_click', {
+        article_path: path,
+        product: product,
+        partner: partner,
+        link_url: href,
+        link_position: position
+      });
+      gtag('event', 'outbound_click', {
+        link_url: href,
+        partner: partner
+      });
+    }
+
+    function attach() {
+      var links = document.querySelectorAll('a[href*="amazon"]');
+      for (var i = 0; i < links.length; i++) {
+        if (links[i].dataset.affTracked) continue;
+        links[i].addEventListener('click', track);
+        links[i].dataset.affTracked = '1';
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', attach);
+    } else {
+      attach();
+    }
+  })();
+</script>
