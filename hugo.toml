@@ -53,6 +53,11 @@ weight = 5
 [params.social]
   twitter = ""
 
+[services]
+  [services.analytics]
+    [services.analytics.google]
+      ID = "G-WTV8Z3LFKB"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

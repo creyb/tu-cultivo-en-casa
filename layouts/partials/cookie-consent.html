@@ -67,7 +67,7 @@
                 },
                 {
                   title: 'Cookies de análisis',
-                  description: 'Nos ayudan a entender cómo interactúas con el sitio web para mejorar nuestros contenidos. Actualmente no utilizamos análisis de terceros, pero esta categoría está preparada para futuras implementaciones.',
+                  description: 'Nos ayudan a entender cómo interactúas con el sitio web para mejorar nuestros contenidos. Usamos Google Analytics 4 con la IP anonimizada y solo se carga si aceptas esta categoría.',
                   linkedCategory: 'analytics'
                 },
                 {
@@ -99,12 +99,15 @@
         console.log('CookieConsent: first consent given', cookie);
       },
       onConsent: ({ cookie }) => {
-        if (cookie.categories.includes('marketing')) {
-          // Enable Amazon affiliate tracking when marketing cookies are accepted
-          document.body.dataset.marketingConsent = 'true';
-        } else {
-          document.body.dataset.marketingConsent = 'false';
+        if (typeof gtag !== 'undefined') {
+          gtag('consent', 'update', {
+            ad_storage: cookie.categories.includes('marketing') ? 'granted' : 'denied',
+            ad_user_data: cookie.categories.includes('marketing') ? 'granted' : 'denied',
+            ad_personalization: cookie.categories.includes('marketing') ? 'granted' : 'denied',
+            analytics_storage: cookie.categories.includes('analytics') ? 'granted' : 'denied'
+          });
         }
+        document.body.dataset.marketingConsent = cookie.categories.includes('marketing') ? 'true' : 'false';
       }
     });
   });
