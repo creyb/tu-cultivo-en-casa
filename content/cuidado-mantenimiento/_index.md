@@ -151,4 +151,4 @@ Sí. Un vermicompostador de cocina (con lombrices) cabe debajo del fregadero y n
 
 Cuidar un huerto no debería ser una carga. Si el sistema está bien diseñado —riego automático, sustrato adecuado, acolchado, plantas resistentes—, el tiempo de mantenimiento real es de 15-30 minutos a la semana. El resto lo hace la planta y el sol.
 
-Las guías de esta sección están pensadas para que ese tiempo sea eficiente: que sepas exactamente qué hacer, cuándo y por qué. Sin理论知识, con datos prácticos. Si después de leerlas sigues teniendo dudas, escríbenos. El huerto urbano es un camino que se recorre mejor acompañado. 🌱
+Las guías de esta sección están pensadas para que ese tiempo sea eficiente: que sepas exactamente qué hacer, cuándo y por qué. Sin teoría innecesaria, con datos prácticos. Si después de leerlas sigues teniendo dudas, escríbenos. El huerto urbano es un camino que se recorre mejor acompañado. 🌱

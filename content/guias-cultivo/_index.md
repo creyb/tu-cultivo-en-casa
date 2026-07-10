@@ -32,7 +32,7 @@ Más allá del sabor, cultivar en casa tiene beneficios prácticos que no esper�
 
 ### Qué vas a encontrar en estas guías
 
-Hemos organizado las guías por cultivo. Cada una cubre todo el ciclo: elección de variedad, siembra o trasplante, cuidados durante el crecimiento, plagas más comunes, abonado y cosecha. Sin理论与, con datos prácticos: tamaños de maceta en centímetros, frecuencias de riego en días, cantidades de sustrato en litros.
+Hemos organizado las guías por cultivo. Cada una cubre todo el ciclo: elección de variedad, siembra o trasplante, cuidados durante el crecimiento, plagas más comunes, abonado y cosecha. Sin teoría innecesaria, con datos prácticos: tamaños de maceta en centímetros, frecuencias de riego en días, cantidades de sustrato en litros.
 
 Las guías que tenemos publicadas ahora mismo son estas:
 

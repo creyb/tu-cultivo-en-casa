@@ -136,7 +136,7 @@ Totalmente. Las lombrices del compostador y los insectos beneficiosos del huerto
 
 ## El huerto como ecosistema, no como campo de batalla 🌱
 
-El control biológico te obliga a cambiar el chip: de pensar en "eliminar la plaga" a pensar en "mantener el equilibrio". Al principio cuesta, sobre todo cuando ves tus plantas sufrir. Pero una vez que el ecosistema se estabiliza —y con las técnicas que te hemos explicado se estabiliza en una o dos temporadas—,，你会发现 que el huerto se cuida casi solo.
+El control biológico te obliga a cambiar el chip: de pensar en "eliminar la plaga" a pensar en "mantener el equilibrio". Al principio cuesta, sobre todo cuando ves tus plantas sufrir. Pero una vez que el ecosistema se estabiliza —y con las técnicas que te hemos explicado se estabiliza en una o dos temporadas—, descubres que el huerto se cuida casi solo.
 
 ¿Quieres profundizar en alguna plaga concreta? Ya tenemos guías específicas para las dos más comunes:
 - [Cómo eliminar pulgones del huerto urbano](/cuidado-mantenimiento/como-eliminar-pulgones-huerto-ecologico/)
