@@ -81,6 +81,16 @@ Estas son las guías completas de la sección, ordenadas por urgencia. Si estás
 - 🌱 [Compostaje en maceta: cómo hacer abono orgánico en tu casa](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) — composteras de balcón, vermicompostador de cocina, bokashi. Qué echar, qué evitar y cómo usar el compost maduro.
 - 🏖️ [Cómo preparar tu huerto urbano para las vacaciones de verano](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/) — sistema de riego automático paso a paso, malla de sombreo, acolchado y checklist pre-viaje.
 
+### Problemas comunes del huerto urbano
+
+Si algo va mal en tu huerto, estas guías te ayudan a diagnosticar y solucionar los problemas más frecuentes:
+
+- 🟡 [Hojas amarillas en el huerto urbano: causas, diagnóstico y solución rápida](/cuidado-mantenimiento/hojas-amarillas-huerto-urbano-causas-solucion/) — las 5 causas más comunes, cómo diagnosticar cuál es la tuya y qué hacer para salvar la planta.
+- 💧 [Exceso de riego: cómo detectarlo a tiempo y salvar tus plantas](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar/) — síntomas tempranos, cómo rescatar plantas ahogadas y evitar que te vuelva a pasar.
+- 🌸 [Por qué se caen las flores del tomate y del pimiento en maceta](/cuidado-mantenimiento/caida-flores-tomate-pimiento-maceta/) — temperatura, polinización, nutrientes, riego y las 6 causas principales con solución.
+- 🔥 [Puntas de hojas secas o quemadas: causas y solución](/cuidado-mantenimiento/puntas-hojas-secas-quemadas-huerto-urbano/) — golpe de sol, acumulación de sales, falta de potasio, baja humedad y riego irregular.
+- 🧱 [Sustrato compactado que no drena: cómo recuperarlo](/cuidado-mantenimiento/sustrato-compactado-maceta-no-drena-solucion/) — diagnóstico, técnicas de aireación, trasplante y prevención con perlita.
+
 Y seguimos. Las próximas guías que tenemos en preparación cubren poda de tomate, asociaciones de cultivo y calendario de mantenimiento anual.
 
 ---
