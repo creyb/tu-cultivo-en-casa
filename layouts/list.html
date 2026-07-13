@@ -43,7 +43,9 @@
         <img src="{{ $img | relURL }}?v=2" 
              alt="{{ .Params.cover.alt | default .Title }}" 
              class="card-image"
-             loading="lazy">
+             loading="lazy"
+             width="400"
+             height="225">
       </div>
       {{- end }}
       
