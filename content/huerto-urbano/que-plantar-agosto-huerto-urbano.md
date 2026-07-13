@@ -10,6 +10,19 @@ cover:
     alt: "Huerto urbano a finales de agosto con cosecha de verano y semilleros de otoño en macetas"
 featured_image: "/images/que-plantar-agosto-hero.webp"
 tag: ["calendario-siembra", "agosto", "verano", "hortalizas-verano", "planificacion"]
+faq:
+  - q: "¿Es demasiado tarde para empezar un huerto en agosto?"
+    a: "No. Agosto es un mes perfecto para empezar, sobre todo si buscas cosecha de otoño e invierno."
+  - q: "¿Puedo sembrar semillas directamente en agosto?"
+    a: "Sí, sobre todo para cultivos de ciclo corto: rábanos, lechugas, espinacas, acelgas, judías (hasta mediados de mes)."
+  - q: "¿Qué hago si me voy de vacaciones en agosto?"
+    a: "Instala un riego por goteo con temporizador y un acolchado grueso. Si puedes, pide a alguien que recoja los tomates cada 2-3 días."
+  - q: "¿Cuántas veces hay que regar en agosto?"
+    a: "Macetas pequeñas (20-30 cm) necesitan dos riegos al día en la primera quincena; macetas grandes (40+ cm), uno diario."
+  - q: "¿Cuándo trasplanto los semilleros que hice en julio?"
+    a: "A lo largo de agosto. Las coles estarán listas para trasplante; las lechugas de invierno, hacia finales de mes."
+  - q: "¿Es buen mes para empezar a cultivar aromáticas?"
+    a: "Sí, sobre todo perejil y cilantro, que prefieren temperaturas más suaves. La albahaca se resiente en pleno agosto."
 description: "Calendario de siembra para agosto en huerto urbano en España. Qué plantar en el mes de transición entre verano y otoño, con siembra de coles, lechugas de invierno y últimas cosechas de verano."
 slug: "que-plantar-agosto-huerto-urbano"
 ---

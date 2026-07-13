@@ -11,6 +11,19 @@ cover:
     alt: "Pimientos de colores creciendo en macetas en una terraza soleada"
 featured_image: "/images/pimientos-maceta-hero.webp"
 tag: ["pimientos", "solanaceas", "macetas", "principiantes"]
+faq:
+  - q: "¿Se pueden cultivar pimientos en maceta en un balcón con semisombra?"
+    a: "Es posible, pero la producción será menor. Los pimientos necesitan al menos 6 horas de sol directo."
+  - q: "¿Cuánto tarda un pimiento en crecer desde la semilla?"
+    a: "Desde la siembra hasta la primera cosecha suelen pasar 60-90 días, dependiendo de la variedad."
+  - q: "¿Puedo cultivar pimientos y tomates en la misma maceta?"
+    a: "No es recomendable. Ambos son cultivos exigentes que competirían por los mismos nutrientes y espacio."
+  - q: "¿Los pimientos picantes son más difíciles de cultivar?"
+    a: "No necesariamente, pero sí más lentos. Los habaneros pueden tardar 120 días o más en madurar."
+  - q: "¿Por qué mis pimientos tienen la piel arrugada?"
+    a: "Normalmente indica deshidratación. Aumenta la frecuencia de riego y asegúrate de que la maceta tenga buen drenaje."
+  - q: "¿Cuánto rinde una planta de pimiento en maceta?"
+    a: "Depende de la variedad y el cuidado, pero una planta bien cuidada puede producir entre 10 y 30 frutos durante la temporada."
 slug: "como-cultivar-pimientos-en-maceta"
 ---
 

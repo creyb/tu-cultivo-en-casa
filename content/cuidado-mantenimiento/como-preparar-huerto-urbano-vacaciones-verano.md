@@ -11,6 +11,15 @@ cover:
     alt: "Huerto urbano preparado para vacaciones con sistema de riego por goteo y plantas sanas"
 featured_image: "/images/huerto-vacaciones-hero.webp"
 tag: ["vacaciones", "riego-automatico", "riego", "verano", "malla-sombreo"]
+faq:
+  - q: "¿Cuánto tiempo pueden estar las plantas sin riego?"
+    a: "Depende de la planta: aromáticas mediterráneas aguantan 10-15 días; tomates y pimientos, 3-4 días máximo; lechugas y hierbas tiernas, 1-2 días."
+  - q: "¿La malla de sombreo funciona de verdad o es un mito?"
+    a: "Funciona de forma medible. En zonas con 40 °C, baja la temperatura de las hojas entre 5 y 8 °C y reduce el estrés hídrico."
+  - q: "¿Qué pasa si el programador de riego falla mientras estoy fuera?"
+    a: "Por eso insistimos en probarlo varios días antes y tener un plan B: una persona de confianza que pueda revisar al menos una vez por semana."
+  - q: "¿Es mejor regar mucho antes de irme y olvidarme, o riego diario poco?"
+    a: "Riego diario poco, siempre. Regar en exceso antes de irte encharca las raíces y cuando vuelves la planta está muerta."
 slug: "como-preparar-huerto-urbano-vacaciones-verano"
 ---
 

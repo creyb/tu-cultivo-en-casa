@@ -11,6 +11,17 @@ cover:
     alt: "Kit de riego por goteo instalado en macetas de terraza"
 featured_image: "/images/kit-riego-goteo-huerto-hero.webp"
 tag: ["riego-goteo", "riego", "kit-riego", "equipamiento", "programador-riego", "comparativa"]
+faq:
+  - q: "¿Cuántas macetas puede regar un kit de goteo estándar?"
+    a: "Los kits más comunes cubren entre 10 y 20 macetas. Si tienes más, lo amplías con microtubo extra."
+  - q: "¿Funciona sin grifo? ¿Y sin electricidad?"
+    a: "Sí, con un sistema por gravedad (Claber Aqua-Magic) o solar con bomba (TRJZWA)."
+  - q: "¿Cuánto consume de agua un kit para 10 macetas?"
+    a: "Con goteros de 2 L/h y riegos de 15 minutos dos veces al día, consumes unos 10 litros al día en pleno verano."
+  - q: "¿Cuánto se tarda en instalar?"
+    a: "Una tarde tranquila (2-3 horas) para un kit de 15 macetas en una terraza sencilla."
+  - q: "¿Cinta exudante o gotero tradicional? ¿Cuál es mejor?"
+    a: "La cinta exudante es ideal para hileras densas. El gotero tradicional es más preciso, mejor para macetas individuales."
 slug: "mejores-kits-riego-por-goteo-huerto-urbano-comparativa"
 ---
 

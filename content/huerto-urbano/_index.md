@@ -11,6 +11,17 @@ cover:
 featured_image: "/images/huerto-urbano-hero.webp"
 categoria: ["huerto-urbano"]
 tag: ["calendario-siembra", "principiantes", "huerto-urbano", "planificacion"]
+faq:
+  - q: "¿Cuánto cuesta montar un huerto urbano desde cero?"
+    a: "Para un kit básico (mesa de cultivo 1×1 m, sustrato 70 L, 6 planteles, regadera, herramientas básicas) el desembolso inicial está entre 100 € y 150 €. Después de eso, el coste por temporada baja a 30-50 €."
+  - q: "¿Qué hago si mi balcón no tiene toma de agua?"
+    a: "Opciones: regadera pesada pero funcional, garrafa con grifo cerca, manguera fina con conexión rápida, o instalar un pequeño depósito con programador."
+  - q: "¿Es legal tener un huerto en la terraza de un piso de alquiler?"
+    a: "En la mayoría de comunidades de propietarios, sí. Lo que revisa la normativa suele ser el peso, el goteo y la seguridad. Consulta tus estatutos, pero en general no hay problema."
+  - q: "¿Cómo evito los mosquitos en las macetas?"
+    a: "Vacía el plato 10 minutos después de regar, o pon arena gruesa en el plato para que el agua se filtre pero no quede encharcada. El sustrato adecuado también reduce la frecuencia de riego."
+  - q: "¿Y si vivo en una zona muy fría del norte o muy calurosa del sur?"
+    a: "El calendario de siembra se adapta. En zonas frías, empezar más tarde (mayo-junio para tomate, junio-julio para pimiento). En zonas muy calurosas, prioriza cultivos de otoño-invierno y sombrea en las horas centrales."
 ---
 
 ## Convertir un metro cuadrado en despensa 🏙️

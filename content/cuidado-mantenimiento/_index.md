@@ -11,6 +11,19 @@ cover:
 featured_image: "/images/cuidado-mantenimiento-hero.webp"
 categoria: ["cuidado-mantenimiento"]
 tag: ["riego", "plagas", "abonado", "huerto-urbano", "principiantes"]
+faq:
+  - q: "¿Cada cuánto tengo que regar el huerto en verano?"
+    a: "Depende del clima, el tamaño de la maceta y el cultivo. En pleno julio, las macetas de 30 cm en terraza soleada necesitan riego diario, las de 40 cm o más cada dos días, y las macetas grandes o mesas de cultivo cada 2-3 días."
+  - q: "¿Cómo sé si una planta tiene exceso o falta de agua?"
+    a: "Toca el sustrato con el dedo. Si está húmedo a 2-3 cm de profundidad, no riegues. Si está seco, riega hasta que el agua salga por los agujeros de drenaje."
+  - q: "¿Es mejor el compost casero o el comprado?"
+    a: "El compost casero es más sostenible y gratis, pero tarda meses en estar listo. El humus de lombriz comprado es excelente y se aplica directamente. Lo ideal es combinar ambos."
+  - q: "¿Qué hago si me voy de vacaciones dos semanas en agosto?"
+    a: "Instala un sistema de riego por goteo con programador, acolcha el sustrato, instala malla de sombreo si tu terraza es muy soleada, y pide a alguien que vigile cada 3-4 días."
+  - q: "¿Los insecticidas químicos son necesarios en un huerto urbano?"
+    a: "Casi nunca. Las plagas más comunes se controlan con remedios caseros (jabón potásico, aceite de neem, infusión de ajo) si se actúa a tiempo."
+  - q: "¿Puedo tener compost en un piso de 50 m²?"
+    a: "Sí. Un vermicompostador de cocina (con lombrices) cabe debajo del fregadero y no huele si se mantiene bien. Procesa los restos orgánicos del hogar sin producir malos olores."
 ---
 
 ## Cuidar un huerto es casi más importante que plantar 💧

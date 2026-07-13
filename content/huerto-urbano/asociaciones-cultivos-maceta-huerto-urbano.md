@@ -10,6 +10,19 @@ cover:
     alt: "Tomate cherry, albahaca y tagetes creciendo juntos en la misma maceta, ejemplo clásico de asociación de cultivos"
 featured_image: "/images/asociaciones-cultivos-hero.webp"
 tag: ["planificacion", "cultivo-maceta", "principiantes", "huerto-urbano", "plagas"]
+faq:
+  - q: "¿Puedo plantar más de 2-3 especies en una sola maceta?"
+    a: "Es posible, pero no recomendable. En maceta, 2-3 especies bien elegidas rinden más que 5 apiñadas."
+  - q: "¿Las asociaciones funcionan igual en maceta que en el suelo?"
+    a: "Funcionan mejor en maceta. La concentración de raíces y la cercanía del follaje hacen que los efectos sean más intensos."
+  - q: "¿Y si una de las plantas asociadas muere?"
+    a: "No pasa nada. Las asociaciones son beneficiosas, no imprescindibles. Lo importante es no plantar juntas especies que se perjudiquen."
+  - q: "¿Puedo plantar tomate y pimiento en la misma maceta?"
+    a: "Sí, aunque no es la combinación ideal. Ambos son solanáceas y comparten plagas. Mejor: tomate + albahaca, y pimiento + albahaca, en macetas separadas."
+  - q: "¿Las asociaciones ayudan a prevenir el mildiu y el oídio?"
+    a: "Indirectamente sí. Al diversificar la maceta reduces la humedad concentrada y mejoras la ventilación. Una maceta diversa se ventila mejor."
+  - q: "¿Funcionan las asociaciones en una mesa de cultivo?"
+    a: "Sí, y de hecho es donde mejor funcionan. La mesa de cultivo es la versión maceta grande ideal para asociaciones."
 description: "Guía práctica de asociaciones de cultivos en maceta para huerto urbano. Las 8 mejores combinaciones, las 5 que debes evitar, y cómo aprovecharlas para evitar plagas sin química."
 slug: "asociaciones-cultivos-maceta-huerto-urbano"
 ---

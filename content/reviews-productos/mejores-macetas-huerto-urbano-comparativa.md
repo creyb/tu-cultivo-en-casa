@@ -11,6 +11,17 @@ cover:
     alt: "Variedad de macetas para huerto urbano en terraza"
 featured_image: "/images/macetas-huerto-urbano-hero.webp"
 tag: ["macetas", "cultivo-maceta", "equipamiento", "terraza", "balcon", "comparativa"]
+faq:
+  - q: "¿Es mejor el barro o el plástico para huerto urbano?"
+    a: "Depende. El barro es superior en drenaje y estética, pero el plástico gana en ligereza y precio. Para balcones pequeños, plástico. Para terrazas amplias, barro."
+  - q: "¿Las macetas de autorriego realmente funcionan?"
+    a: "Sí, pero no son mágicas. Reducen la frecuencia de riego, pero necesitan mantenimiento. No todas las plantas las toleran bien."
+  - q: "¿Puedo poner varias plantas en una maceta grande?"
+    a: "Solo si son compatibles. Tomate y albahaca sí; tomate y romero no. Deben compartir necesidades de agua, luz y espacio radicular."
+  - q: "¿Qué tamaño de maceta necesito para un tomate cherry?"
+    a: "Mínimo 30 cm de diámetro y 30 cm de profundidad. Para una producción generosa, sube a 40 cm."
+  - q: "¿Las macetas de colgar sirven para huerto urbano?"
+    a: "Para cultivos ligeros como fresas, hierbas o tomates cherry en cascada sí. Para calabacines o raíces profundas no."
 slug: "mejores-macetas-huerto-urbano-comparativa"
 ---
 

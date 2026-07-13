@@ -11,6 +11,19 @@ cover:
     alt: "Cosecha de tomates cherry en terraza"
 featured_image: "/images/tomates-cherry-hero.webp"
 tag: ["tomates-cherry", "solanaceas", "macetas", "riego", "abonado", "plagas", "principiantes"]
+faq:
+  - q: "¿Por qué mis hojas se están poniendo amarillas?"
+    a: "Puede deberse a exceso de riego (raíces asfixiadas) o falta de nitrógeno. Si la tierra está empapada, deja que se seque. Si está seca, añade humus de lombriz."
+  - q: "Tienen flores, pero no salen tomates. ¿Qué pasa?"
+    a: "Se llama caída de la flor. Puede ser por estrés térmico o falta de polinización. Ayuda dando golpecitos suaves a los racimos de flores para mover el polen."
+  - q: "¿Puedo cultivar tomates cherry en invierno?"
+    a: "El tomate es de clima cálido. En la mayoría de lugares, el frío extremo matará la planta. Si lo intentas, necesitarás invernadero o interior cerca de ventana muy soleada."
+  - q: "¿Cuántos tomates puedo sacar de una sola planta?"
+    a: "Una planta de tomate cherry bien cuidada en maceta puede darte cientos de frutos a lo largo de la temporada."
+  - q: "¿Es malo usar fertilizantes químicos?"
+    a: "No es malo per se, pero los fertilizantes orgánicos alimentan la tierra y la planta, creando un equilibrio más saludable a largo plazo."
+  - q: "¿Cuál es la diferencia entre el tomate cherry y el tomate cocktail?"
+    a: "Básicamente el tamaño. El cherry es el más pequeño (tipo uva), mientras que el cocktail es un paso intermedio. Ambos se cultivan de forma casi idéntica."
 ---
 
 ## ¿Y si pudieras cosechar tus propios tomates cherry en casa? 🍅

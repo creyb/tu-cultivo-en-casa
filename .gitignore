@@ -19,5 +19,6 @@ calendario/
 # Playwright scratch (snapshots, console logs)
 .playwright-mcp/
 
-# Documento de seguimiento del proyecto (local, no se versiona)
+# Documentos de seguimiento del proyecto (local, no se versiona)
 ESTADO_PROYECTO.md
+PLAN_MEJORAS.md

@@ -11,6 +11,17 @@ cover:
     alt: "Colonia de pulgones verdes agrupados en el brote tierno de una planta de huerto"
 featured_image: "/images/pulgones-huerto-hero.webp"
 tag: ["plagas", "pulgones", "control-biologico", "prevencion", "principiantes"]
+faq:
+  - q: "¿Los pulgones pueden matar a una planta adulta?"
+    a: "Por sí solos rara vez matan a una planta establecida, pero la debilitan tanto que la hacen vulnerable a otras plagas y enfermedades."
+  - q: "¿Por qué vuelven año tras año al mismo sitio?"
+    a: "Probablemente porque hay hormigas criando pulgones cerca. Si ves hormigas subiendo por tus macetas, pon barreras de cinta adhesiva en los tallos."
+  - q: "¿El vinagre funciona contra los pulgones?"
+    a: "No lo recomendamos. El vinagre acidifica el sustrato y puede dañar las raíces. Mejor el jabón potásico o el ajo."
+  - q: "¿Puedo comer las hojas si acabo de pulverizar con neem?"
+    a: "Sí, el aceite de neem se degrada en 5-7 días y no es tóxico para humanos. Pero lava bien las hojas antes de consumirlas."
+  - q: "¿Cómo sé si el pulgón ha transmitido un virus?"
+    a: "Las hojas amarillentas, moteadas o con deformaciones suelen ser signo de virus. En ese caso, retira la planta afectada para no contagiar al resto."
 ---
 
 ## El pulgón: el enemigo número uno de tu huerto urbano 🐛

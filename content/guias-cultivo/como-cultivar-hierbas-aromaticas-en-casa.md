@@ -11,6 +11,19 @@ cover:
     alt: "Macetas con albahaca, perejil y cilantro fresco en una ventana soleada"
 featured_image: "/images/hierbas-aromaticas-maceta-hero.webp"
 tag: ["hierbas-aromaticas", "albahaca", "perejil", "cilantro", "macetas", "principiantes", "cocina"]
+faq:
+  - q: "¿Cuánto tiempo tarda en crecer la albahaca en maceta?"
+    a: "Desde la siembra hasta la primera cosecha, entre 4 y 6 semanas. Si compras plantín ya crecido, puedes cosechar en 1-2 semanas."
+  - q: "¿Se puede cultivar albahaca dentro de casa?"
+    a: "Sí, en una ventana con mucha luz (sur o este). Necesita al menos 4-6 horas de luz directa."
+  - q: "¿Por qué mi cilantro se pone amarillo?"
+    a: "Las causas más comunes son: riego excesivo, maceta sin drenaje, demasiado sol directo en verano o falta de nutrientes."
+  - q: "¿Se pueden plantar albahaca, perejil y cilantro juntos?"
+    a: "Sí, pero ten en cuenta sus necesidades. La albahaca necesita más riego que el perejil, y el cilantro necesita semisombra en verano."
+  - q: "¿Cuántas veces puedo cosechar albahaca en una temporada?"
+    a: "Con pellizcos frecuentes y buena nutrición, puedes cosechar albahaca cada 1-2 semanas durante toda la primavera y verano."
+  - q: "¿Las hierbas aromáticas de supermercado sirven para replantar?"
+    a: "Depende. Las albahacas de supermercado suelen estar muy compactadas y con raíces dañadas. Funciona mejor con plantines de vivero o semillas propias."
 slug: "como-cultivar-hierbas-aromaticas-en-casa"
 ---
 

@@ -11,6 +11,19 @@ cover:
     alt: "Hojas de planta de huerto con manchas blancas de oídio y zonas amarillentas"
 featured_image: "/images/oidio-mildiu-huerto-hero.webp"
 tag: ["plagas", "oidio", "mildiu", "prevencion", "principiantes"]
+faq:
+  - q: "¿El oídio o el mildiú se transmite al comer las hojas o frutos?"
+    a: "No. Son hongos específicos de las plantas, no afectan a las personas. Puedes comer con total tranquilidad los frutos."
+  - q: "¿Por qué me aparece mildiú aunque no llueva?"
+    a: "El mildiú necesita humedad en las hojas, no necesariamente lluvia. El rocío de la madrugada o regar al atardecer es suficiente."
+  - q: "¿La ceniza de la barbacoa sirve contra el oídio?"
+    a: "Se ha usado tradicionalmente, pero no la recomendamos. La ceniza cambia el pH del suelo y su efecto fungicida es muy irregular."
+  - q: "¿Cuándo puedo volver a plantar en una maceta donde tuve mildiú?"
+    a: "Lávala bien con agua y lejía, aclárala y déjala secar al sol. Mejor aún, renueva el sustrato por completo."
+  - q: "¿La asociación de plantas ayuda a prevenir hongos?"
+    a: "Sí. Plantar albahaca cerca de los tomates o caléndulas cerca de los calabacines reduce la incidencia de oídio."
+  - q: "¿Puedo prevenir el oídio con tratamientos caseros?"
+    a: "Sí, sobre todo con la decocción de cola de caballo y la leche diluida, aplicadas cada 2 semanas como preventivo."
 ---
 
 ## Hongos en el huerto: cuando el clima se vuelve tu enemigo 🍄

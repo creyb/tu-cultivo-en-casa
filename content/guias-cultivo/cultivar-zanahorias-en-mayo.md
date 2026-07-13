@@ -10,6 +10,15 @@ cover:
     alt: "Sembrar zanahorias en mayo en un huerto urbano"
 featured_image: "/images/zanahorias-mayo-hero.webp"
 tag: ["zanahorias", "calendario-siembra", "mayo", "hortalizas-raices"]
+faq:
+  - q: "¿Puedo sembrar zanahorias en maceta en mayo?"
+    a: "Sí, siempre que la maceta tenga buena profundidad y un sustrato fino."
+  - q: "¿Necesitan mucho sol?"
+    a: "Sí, pero en zonas muy calurosas agradecen algo de protección en las horas más fuertes."
+  - q: "¿Cuánto tardan en salir?"
+    a: "Normalmente entre 10 y 20 días, según temperatura y humedad."
+  - q: "¿Se pueden cultivar junto a otras hortalizas?"
+    a: "Sí, funcionan bien en asociaciones sencillas, siempre que no compitan demasiado por espacio."
 description: "Aprende cuándo y cómo cultivar zanahorias en mayo en España, con consejos de siembra, riego, sustrato y cosecha en huerto urbano."
 aliases:
     - /huerto-urbano/cultivar-zanahorias-en-mayo/

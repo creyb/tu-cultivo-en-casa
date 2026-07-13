@@ -11,6 +11,17 @@ cover:
 featured_image: "/images/reviews-productos-hero.webp"
 categoria: ["reviews-productos"]
 tag: ["equipamiento", "comparativa", "macetas", "riego-goteo", "huerto-urbano"]
+faq:
+  - q: "¿Cuánto debo gastar en equipamiento para empezar?"
+    a: "Para un kit básico funcional, entre 80 € y 130 €. La parte más cara son las macetas (40-60 € para 3-4 unidades de tamaño medio) y el sustrato (15-25 € por saco de 50 L)."
+  - q: "¿Merece la pena comprar herramientas caras?"
+    a: "Depende del uso. Si vas a podar diez tomateras una vez al mes, con unas tijeras de 10 € tienes suficiente. En general, mejor dos herramientas buenas que cinco malas."
+  - q: "¿Mejor maceta de barro, plástico o autorriego?"
+    a: "Depende del cultivo y del clima. El barro es elegante, poroso, duradero y más caro. El plástico es barato, ligero, retiene humedad y se degrada con el sol. El autorriego da autonomía pero requiere mantenimiento."
+  - q: "¿El riego por goteo no es demasiado caro para empezar?"
+    a: "Un kit básico de 20-30 € con 10-15 goteros y un programador barato cubre una terraza pequeña. La inversión se amortiza en un verano."
+  - q: "¿Compráis los productos o los recibís de las marcas?"
+    a: "Siempre los compramos nosotros (o los pedimos como clientes anónimos). Cuando llegue el caso de hacer una colaboración con una marca, lo indicaremos explícitamente al principio del artículo."
 ---
 
 ## Reviews honestas, no escaparate ⭐

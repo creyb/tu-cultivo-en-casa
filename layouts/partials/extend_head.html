@@ -1,0 +1,21 @@
+{{- if and .Params.faq hugo.IsProduction -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $e := .Params.faq -}}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $e.q | plainify | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $e.a | markdownify | plainify | jsonify }}
+      }
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}

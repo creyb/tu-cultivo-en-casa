@@ -11,6 +11,17 @@ cover:
 featured_image: "/images/guias-cultivo-hero.webp"
 categoria: ["guias-cultivo"]
 tag: ["cultivo-maceta", "principiantes", "huerto-urbano", "macetas"]
+faq:
+  - q: "¿Necesito un balcón enorme para empezar?"
+    a: "No. Con 2 m² y tres macetas puedes cultivar suficientes hierbas y algún tomate cherry para una familia de dos. Lo que importa es la luz, no el espacio."
+  - q: "¿Cuánto cuesta empezar un huerto urbano básico?"
+    a: "Un kit de inicio razonable (tres macetas de 30 cm, sustrato de calidad, semillas, una regadera y humus de lombriz) está entre 50 € y 80 €. Después de eso, solo gastas en semillas y sustrato cada temporada."
+  - q: "¿Es mejor comprar plantel o sembrar desde semilla?"
+    a: "Para el principiante, el plantel (planta ya crecida) es más seguro: te saltas la fase de germinación, que es la más delicada. Las semillas son más baratas y dan más variedades, pero exigen más atención. Ambas opciones funcionan."
+  - q: "¿Cuándo es la mejor época para empezar?"
+    a: "Primavera (abril-mayo) es la temporada ideal para la mayoría de cultivos de verano. Si empiezas en otoño, mejor con hortalizas de raíz y hoja."
+  - q: "¿Las guías sirven para cualquier clima de España?"
+    a: "Cubrimos el clima mediterráneo y templado de la mayor parte de la península. Si vives en zonas muy frías o muy calurosas, hay que adaptar fechas de siembra y elegir variedades más resistentes."
 ---
 
 ## Cultivar en casa es más fácil de lo que parece 🌱

@@ -11,6 +11,17 @@ cover:
     alt: "Compostera pequeña de color verde oscuro en un balcón urbano, rodeada de macetas con plantas aromáticas y tomateras"
 featured_image: "/images/compost-balcon-huerto-urbano-hero.webp"
 tag: ["compostaje", "abonado", "vermicompostador", "sostenibilidad", "balcon"]
+faq:
+  - q: "¿Se puede compostar en pleno invierno?"
+    a: "Sí, pero el proceso se ralentiza mucho. Si usas vermicompostador interior, no tendrás este problema: tu cocina está a 20 °C todo el año."
+  - q: "¿Y si me voy de vacaciones y la compostera se queda sin atención?"
+    a: "No pasa nada. Una compostera o vermicompostador bien armado aguanta 2-3 semanas sin mantenimiento."
+  - q: "¿Las lombrices se mueren si les echo de comer en exceso?"
+    a: "Sí, si las saturas. Las lombrices rojas californianas procesan al día aproximadamente la mitad de su peso en comida. Mejor echar poco y a menudo."
+  - q: "¿Necesito autorización de la comunidad de vecinos para poner una compostera en el balcón?"
+    a: "En general, no. Una compostera cerrada y bien mantenida no genera olores ni atrae insectos."
+  - q: "¿Cuánto compost se genera al mes en un piso de 2 personas?"
+    a: "Aproximadamente 5-8 kg de compost maduro al mes por persona. Una pareja durante un año genera unos 100-150 kg."
 slug: "compostaje-en-maceta-como-hacer-abono-organico"
 ---
 

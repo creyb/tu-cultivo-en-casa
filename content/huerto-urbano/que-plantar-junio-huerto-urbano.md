@@ -10,6 +10,17 @@ cover:
     alt: "Huerto urbano productivo en junio con diversas hortalizas"
 featured_image: "/images/que-plantar-junio-hero.webp"
 tag: ["calendario-siembra", "junio", "verano", "hortalizas-verano"]
+faq:
+  - q: "¿Es demasiado tarde para empezar un huerto en junio?"
+    a: "No. Junio es un excelente mes para empezar. Muchos cultivos de verano se plantan precisamente ahora. Solo evita los cultivos de clima frío."
+  - q: "¿Puedo sembrar semillas directamente en junio?"
+    a: "Sí, pero para cultivos de ciclo largo como tomates o pimientos es mejor comprar planta de vivero ya crecida."
+  - q: "¿Cuántas veces hay que regar en junio?"
+    a: "Macetas pequeñas (20-30 cm) pueden necesitar riego diario; macetas grandes (40+ cm) cada 2-3 días. Usa la prueba del dedo."
+  - q: "¿Qué hago con el huerto si me voy de vacaciones en julio?"
+    a: "Instala un riego por goteo con temporizador o usa macetas más grandes. El acolchado también ayuda a reducir la frecuencia de riego."
+  - q: "¿Puedo reutilizar el sustrato del año pasado?"
+    a: "Sí, pero renuévalo parcialmente. Mezcla un 50% de sustrato viejo con 50% de sustrato nuevo y añade compost o humus de lombriz."
 description: "Calendario de siembra para junio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el inicio del verano."
 slug: "que-plantar-junio-huerto-urbano"
 ---

@@ -11,6 +11,17 @@ cover:
     alt: "Planta de huerto urbano con hojas afectadas por mosca blanca y melaza brillante"
 featured_image: "/images/mosca-blanca-huerto-hero.webp"
 tag: ["plagas", "mosca-blanca", "control-biologico", "prevencion", "principiantes"]
+faq:
+  - q: "¿La mosca blanca pica a las personas?"
+    a: "No. Se alimenta exclusivamente de savia de plantas. Es inofensiva para humanos y mascotas."
+  - q: "¿Puedo fumigar con insecticida químico y listo?"
+    a: "Puedes, pero no es necesario. Los insecticidas químicos de amplio espectro matan también a los insectos beneficiosos."
+  - q: "¿Por qué tengo mosca blanca solo en una planta?"
+    a: "Probablemente porque esa planta es especialmente atractiva (los tomates, pimientos y coles son sus favoritas). Aísla la planta y trátala por separado."
+  - q: "¿La negrilla se va sola cuando elimino la plaga?"
+    a: "Sí, una vez que la colonia de mosca blanca desaparece, la negrilla deja de crecer. Puedes retirarla con un trapo húmedo."
+  - q: "¿Puedo prevenir la mosca blanca con asociaciones de plantas?"
+    a: "Sí. La albahaca, el romero, la menta y la caléndula plantadas entre tus hortalizas reducen su presencia."
 ---
 
 ## La mosca blanca: persistente, fastidiosa y muy difícil de cazar 👻

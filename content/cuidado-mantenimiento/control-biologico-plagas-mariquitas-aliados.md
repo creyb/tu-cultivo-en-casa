@@ -11,6 +11,17 @@ cover:
     alt: "Mariquita sobre una hoja de huerto urbano buscando pulgones"
 featured_image: "/images/control-biologico-huerto-hero.webp"
 tag: ["plagas", "control-biologico", "prevencion", "principiantes", "sostenibilidad"]
+faq:
+  - q: "¿Las mariquitas pican?"
+    a: "No. Son completamente inofensivas para las personas."
+  - q: "¿Cuántas mariquitas necesito para mi huerto?"
+    a: "Para una terraza de 5-10 macetas, con liberar 50-100 mariquitas o crisopas basta."
+  - q: "¿Funciona el control biológico en un balcón pequeño?"
+    a: "Sí, aunque el efecto es más modesto. Lo más efectivo es atraer fauna auxiliar con flores y plantas aromáticas."
+  - q: "¿Y si vivo en un piso alto, sin jardín cerca?"
+    a: "La mayoría de los insectos beneficiosos vuelan, así que llegarán a tu balcón si hay flores que los atraigan."
+  - q: "¿El control biológico es compatible con el compostaje en maceta?"
+    a: "Totalmente. Las lombrices del compostador y los insectos beneficiosos se complementan."
 ---
 
 ## El control biológico: cuando la naturaleza trabaja para ti 🐞

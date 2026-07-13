@@ -11,6 +11,17 @@ cover:
     alt: "Trasiego de sustrato oscuro rico desde saco de arpillera a maceta de terracota en terraza soleada"
 featured_image: "/images/sustrato-huerto-hero.webp"
 tag: ["sustrato", "comparativa", "equipamiento", "principiantes"]
+faq:
+  - q: "¿Cada cuánto hay que cambiar el sustrato de una maceta?"
+    a: "Cada 2-3 años en macetas grandes (40 L+), cada 1-2 años en macetas pequeñas. La estructura se degrada y los nutrientes se agotan."
+  - q: "¿Puedo reutilizar el sustrato de la temporada pasada?"
+    a: "Sí, pero no tal cual. Sácalo, rompe los terrones, mezcla con 30% de sustrato nuevo y 10% de compost maduro."
+  - q: "¿Sustrato universal o específico para huerto?"
+    a: "Para empezar, universal. Si tienes más de 4-5 macetas y plantas productivas, el específico para huerto marca la diferencia."
+  - q: "¿La perlita se puede sustituir por algo más barato?"
+    a: "Por arena gruesa de río sí, pero no más de un 10-15% de la mezcla. Por vermiculita, sí, tiene propiedades parecidas pero retiene más agua."
+  - q: "¿Mejor turba o coco?"
+    a: "El coco es más sostenible y drena mejor. La turba retiene algo más de agua. En climas calurosos y secos, el coco gana."
 slug: "mejor-sustrato-huerto-urbano-comparativa"
 ---
 

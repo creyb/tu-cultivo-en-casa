@@ -10,6 +10,19 @@ cover:
     alt: "Huerto urbano en pleno verano con hortalizas de julio en macetas"
 featured_image: "/images/que-plantar-julio-hero.webp"
 tag: ["calendario-siembra", "julio", "verano", "hortalizas-verano", "riego"]
+faq:
+  - q: "¿Es demasiado tarde para empezar un huerto urbano en julio?"
+    a: "No. Aunque no puedes sembrar cultivos de ciclo largo como tomates desde semilla, sí puedes comprar plantas de vivero y tienes muchos cultivos rápidos: calabacines, pepinos, judías, lechugas con sombra, rábanos y aromáticas."
+  - q: "¿Puedo sembrar semillas directamente en julio?"
+    a: "Sí, pero solo para cultivos de ciclo corto: judías verdes (45-60 días), rábanos (3-4 semanas), lechugas (30-40 días)."
+  - q: "¿Cuántas veces hay que regar en julio?"
+    a: "Macetas pequeñas (20-30 cm) pueden necesitar riego dos veces al día; macetas grandes (40+ cm) cada 1-2 días."
+  - q: "¿Cómo protejo las plantas del calor extremo?"
+    a: "Usa mallas de sombreo del 30-50%, acolchado en el sustrato, riego en horas frescas y coloca las macetas sensibles detrás de las más altas."
+  - q: "¿Puedo cultivar sandía o melón en maceta?"
+    a: "Sí, pero necesitas macetas grandes (50 cm mínimo), sol directo y riego muy frecuente. Elige variedades enanas."
+  - q: "¿Qué cultivos puedo plantar ahora para cosechar en otoño?"
+    a: "Calabazas, judías verdes (siembras escalonadas en agosto), lechugas (siembra en septiembre) y rábanos (siembras continuas hasta octubre)."
 description: "Calendario de siembra para julio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el mes más caluroso del verano."
 slug: "que-plantar-julio-huerto-urbano"
 ---
