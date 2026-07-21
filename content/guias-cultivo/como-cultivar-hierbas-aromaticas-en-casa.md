@@ -78,7 +78,7 @@ Las macetas de terracota son ideales porque permiten que la tierra respire, pero
 
 Las tres hierbas necesitan al menos **4-6 horas de sol directo** al día ([consulta las horas de sol de tu zona en la AEMET](https://www.aemet.es)). Una ventana orientada al sur o este es perfecta. En terraza o balcón, busca un lugar que reciba sol de mañana y semisombra de la tarde (especialmente en verano).
 
-El cilantro es el más sensible al calor intenso: si temperature supera los 35°C, tiende a "patular" (sacar tallo florífero). En verano, colócalo en un lugar con algo de sombra por la tarde.
+El cilantro es el más sensible al calor intenso: si la temperatura supera los 35°C, tiende a espigar (sacar tallo florífero). En verano, colócalo en un lugar con algo de sombra por la tarde.
 
 ---
 
@@ -92,12 +92,12 @@ La albahaca es sin duda la hierba más popular para cultivar en casa, y por buen
 
 Siembra las semillas directamente en la maceta (la albahaca no trasplanta bien). Cubre con 0.5 cm de sustrato, riega suavemente y mantén húmedo hasta que germinen (7-14 días).
 
-**Truco**: sembra cada 2-3 semanas para tener albahaca constante sin necesidad de guardar semillas.
+**Truco**: siembra cada 2-3 semanas para tener albahaca constante sin necesidad de guardar semillas.
 
 ### Cuidados
 
 - **Riego**: constante pero sin encharcar. La albahaca ama la humedad pero odia los pies mojados. Riega cuando la capa superior de la tierra esté seca al tacto. En verano puede necesitar riego diario.
-- **Abono**: abono líquido para plantas cada 2 semanas durante la primera mes y luego cada 3-4 semanas.
+- **Abono**: abono líquido para plantas cada 2 semanas durante el primer mes y luego cada 3-4 semanas.
 - **Pellizcar**: cuando la planta tenga 4-6 hojas verdaderas, pellizca la punta del tallo principal. Esto estimula el crecimiento de ramas laterales y te da más hojas.
 
 ### Cosecha

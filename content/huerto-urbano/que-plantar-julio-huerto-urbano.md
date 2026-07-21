@@ -80,7 +80,7 @@ Si plantaste berenjenas en junio, julio es el mes en que empiezan a florecer y a
 
 ### Tomates
 
-Los tomates son el cultivo estrella del verano, pero en julio hay que tener cuidado con lo que sembramos. Si ainda no tienes tomates plantados, lo más inteligente es comprar planta de vivero ya crecida. Sembrar semilla en julio es tarde para la mayoría de variedades. Tienes la [guía completa de cultivo de tomates cherry en maceta](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) con todos los cuidados de julio y agosto.
+Los tomates son el cultivo estrella del verano, pero en julio hay que tener cuidado con lo que sembramos. Si aún no tienes tomates plantados, lo más inteligente es comprar planta de vivero ya crecida. Sembrar semilla en julio es tarde para la mayoría de variedades. Tienes la [guía completa de cultivo de tomates cherry en maceta](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) con todos los cuidados de julio y agosto.
 
 - **Variedades de vivero**: Cherry, pera, beef heart, variedades determinadas
 - **Maceta**: Grande, mínimo 40 cm de diámetro y 40 cm de profundidad

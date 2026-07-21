@@ -11,6 +11,17 @@ cover:
     alt: "Kit de riego por goteo instalado en macetas de terraza"
 featured_image: "/images/kit-riego-goteo-huerto-hero.webp"
 tag: ["riego-goteo", "riego", "kit-riego", "equipamiento", "programador-riego", "comparativa"]
+itemlist:
+  - name: "Gardena Micro-Drip Set Balcon 13401-20"
+    url: "https://www.amazon.es/dp/B0BNLMJ7LQ?tag=tucultivo-21"
+  - name: "Hozelock 2802 Kit 15 macetas"
+    url: "https://www.amazon.es/dp/B00WFZJ7WA?tag=tucultivo-21"
+  - name: "Claber Aqua-Magic System"
+    url: "https://www.amazon.es/dp/B01DNS3TIK?tag=tucultivo-21"
+  - name: "TRJZWA Solar Kit 9 programas"
+    url: "https://www.amazon.es/dp/B0CSG3YWR6?tag=tucultivo-21"
+  - name: "Kit 20-25 macetas con goteros autocompensantes y grifo doble de laton"
+    url: "https://www.amazon.es/dp/B0FPGLX8K1?tag=tucultivo-21"
 faq:
   - q: "¿Cuántas macetas puede regar un kit de goteo estándar?"
     a: "Los kits más comunes cubren entre 10 y 20 macetas. Si tienes más, lo amplías con microtubo extra."

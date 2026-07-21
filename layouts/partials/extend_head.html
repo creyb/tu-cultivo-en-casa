@@ -8,10 +8,35 @@
     {{- if $i }},{{ end }}
     {
       "@type": "Question",
-      "name": {{ $e.q | plainify | jsonify }},
+      "name": {{ $e.q | plainify | jsonify | safeJS }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ $e.a | markdownify | plainify | jsonify }}
+            "text": {{ $e.a | markdownify | plainify | jsonify | safeJS }}
+      }
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}
+{{- if and .Params.itemlist hugo.IsProduction -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ .Title | plainify | jsonify | safeJS }},
+  "itemListOrder": "https://schema.org/ItemListOrderAscending",
+  "numberOfItems": {{ len .Params.itemlist }},
+  "itemListElement": [
+    {{- range $i, $e := .Params.itemlist -}}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "item": {
+        "@type": "Thing",
+        "name": {{ $e.name | plainify | jsonify | safeJS }},
+        "url": {{ $e.url | jsonify | safeJS }}
       }
     }
     {{- end -}}

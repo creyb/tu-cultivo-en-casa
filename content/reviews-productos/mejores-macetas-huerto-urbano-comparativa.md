@@ -11,6 +11,19 @@ cover:
     alt: "Variedad de macetas para huerto urbano en terraza"
 featured_image: "/images/macetas-huerto-urbano-hero.webp"
 tag: ["macetas", "cultivo-maceta", "equipamiento", "terraza", "balcon", "comparativa"]
+itemlist:
+  - name: "KOTARBAU Set 4 macetas Terracota 15 cm"
+    url: "https://www.amazon.es/dp/B0B69HMSYT?tag=tucultivo-21"
+  - name: "Acan Tradineur Pack 6 macetas plastico redondas 30 cm"
+    url: "https://www.amazon.es/dp/B0CKZ3CZM9?tag=tucultivo-21"
+  - name: "SUNYAY Pack 2 forros redondos de fibra de coco 40 cm"
+    url: "https://www.amazon.es/dp/B09KWXCCT9?tag=tucultivo-21"
+  - name: "Lechuza Classico Color 21 LS autorriego"
+    url: "https://www.amazon.es/dp/B00DNUSG8W?tag=tucultivo-21"
+  - name: "Outsunny Jardinera elevada de madera"
+    url: "https://www.amazon.es/dp/B098BL9PX4?tag=tucultivo-21"
+  - name: "VOUNOT Mesa de cultivo galvanizada"
+    url: "https://www.amazon.es/dp/B0BSGKJS9P?tag=tucultivo-21"
 faq:
   - q: "¿Es mejor el barro o el plástico para huerto urbano?"
     a: "Depende. El barro es superior en drenaje y estética, pero el plástico gana en ligereza y precio. Para balcones pequeños, plástico. Para terrazas amplias, barro."

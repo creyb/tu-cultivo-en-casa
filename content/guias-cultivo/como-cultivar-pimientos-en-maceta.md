@@ -29,7 +29,7 @@ slug: "como-cultivar-pimientos-en-maceta"
 
 ## Los pimientos en maceta son más fáciles de lo que crees 🌶️
 
-Hay algo que nos encanta de los pimientos: son increíblemente versátiles. Puedes tener pimientos picantes para darle fuego a tus platos, pimientos italianos para asar al horno, pimientos de padrón para Tapear con amigos o pimientos morrones para ensaladas y salteados. Y lo mejor de todo es que todos ellos se cultivan perfectamente en maceta.
+Hay algo que nos encanta de los pimientos: son increíblemente versátiles. Puedes tener pimientos picantes para darle fuego a tus platos, pimientos italianos para asar al horno, pimientos de padrón para tapear con amigos o pimientos morrones para ensaladas y salteados. Y lo mejor de todo es que todos ellos se cultivan perfectamente en maceta.
 
 Si has cultivado [tomates cherry en maceta](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) antes, ya tienes la mitad del camino hecho. Los pimientos son cultivos de la misma familia (Solanáceas), tienen necesidades similares y, en muchos aspectos, son incluso más tolerantes al calor y a los errores del principiante. Pero no por eso hay que subestimarlos: un pimiento bien cuidado en maceta puede darte una cosecha sorprendente durante varios meses.
 
@@ -87,7 +87,7 @@ Si ya leíste nuestra [comparativa de macetas para huerto urbano](/reviews-produ
 
 ### El sustrato perfecto para pimientos en maceta
 
-No uses tierra de jardín directamente: se compacta, drene mal y puede traer plagas. Opta por un **sustrato universal de buena calidad** o uno específico para hortalizas.
+No uses tierra de jardín directamente: se compacta, drena mal y puede traer plagas. Opta por un **sustrato universal de buena calidad** o uno específico para hortalizas.
 
 El truco que mejor nos ha funcionado es esta mezcla:
 

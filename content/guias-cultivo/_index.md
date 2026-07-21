@@ -51,8 +51,10 @@ Las guías que tenemos publicadas ahora mismo son estas:
 - 🌶️ [Cómo cultivar pimientos en maceta paso a paso](/guias-cultivo/como-cultivar-pimientos-en-maceta/) — morrones, italianos, padrón y picantes. Incluye las variedades que mejor funcionan en maceta pequeña y los trucos para que no se caigan las flores con el calor.
 - 🥕 [Cultivar zanahorias en mayo: guía completa](/guias-cultivo/cultivar-zanahorias-en-mayo/) — la raíz más agradecida para macetas profundas. Si tienes una mesa de cultivo o un balde grande, las zanahorias son el cultivo perfecto para principiantes pacientes.
 - 🌿 [Cómo cultivar hierbas aromáticas en casa](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/) — albahaca, perejil y cilantro todo el año. La mejor puerta de entrada al huerto urbano: crecen rápido, ocupan poco y las usas a diario en la cocina.
+- 🥬 [Cómo cultivar lechuga en maceta](/guias-cultivo/como-cultivar-lechuga-en-maceta/) — cultivo fácil, rápido y perfecto para principiantes. Cubre siembra, riego, cosecha hoja a hoja y variedades para cada estación.
+- 🍓 [Cómo cultivar fresas en maceta](/guias-cultivo/como-cultivar-fresas-en-maceta/) — ideal para balcones y jardineras colgantes. Explica variedades remontantes, estolones, riego, sol y cosecha.
 
-Y esto es solo el principio. Tenemos en preparación guías de lechugas, fresas, judías, calabacín y aromáticas perennes (romero, tomillo, menta). Si hay algún cultivo que te gustaría ver aquí, dínoslo y lo priorizamos.
+Y esto es solo el principio. Tenemos en preparación guías de judías, calabacín y aromáticas perennes (romero, tomillo, menta). Si hay algún cultivo que te gustaría ver aquí, dínoslo y lo priorizamos.
 
 ---
 
@@ -76,15 +78,15 @@ No todos los huertos urbanos son iguales. Antes de elegir qué plantar, piensa e
 
 ### Si tienes 1-2 horas de sol directo
 
-Cultivos de hoja y raíz. Lechugas, espinacas, rúcula, zanahorias baby, remolacha. Evitar tomate, pimiento, berenjena o calabacín: necesitan al menos 6 horas de sol para producir.
+Cultivos de hoja y raíz. [Lechugas](/guias-cultivo/como-cultivar-lechuga-en-maceta/), espinacas, rúcula, zanahorias baby, remolacha. Evitar tomate, pimiento, berenjena o calabacín: necesitan al menos 6 horas de sol para producir.
 
 ### Si tienes 3-5 horas de sol
 
-Buen espacio para hierbas aromáticas, fresas, rabanitos, lechugas y algunas variedades de tomate cherry (las más tolerantes a semisombra como 'Black Cherry' o 'Yellow Pear'). Las [hierbas aromáticas](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/) son la opción más segura.
+Buen espacio para hierbas aromáticas, [fresas](/guias-cultivo/como-cultivar-fresas-en-maceta/), rabanitos, [lechugas](/guias-cultivo/como-cultivar-lechuga-en-maceta/) y algunas variedades de tomate cherry (las más tolerantes a semisombra como 'Black Cherry' o 'Yellow Pear'). Las [hierbas aromáticas](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/) son la opción más segura.
 
 ### Si tienes 6+ horas de sol
 
-El paraíso del huerto urbano. Puedes cultivar todo: [tomates](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/), [zanahorias](/guias-cultivo/cultivar-zanahorias-en-mayo/), calabacines, judías, fresas. Es el escenario que cubren todas nuestras guías.
+El paraíso del huerto urbano. Puedes cultivar todo: [tomates](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/), [zanahorias](/guias-cultivo/cultivar-zanahorias-en-mayo/), calabacines, judías, [fresas](/guias-cultivo/como-cultivar-fresas-en-maceta/). Es el escenario que cubren todas nuestras guías.
 
 ### Si tienes poco tiempo (menos de 30 min/semana)
 

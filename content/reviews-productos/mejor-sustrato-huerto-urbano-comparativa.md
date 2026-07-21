@@ -11,6 +11,15 @@ cover:
     alt: "Trasiego de sustrato oscuro rico desde saco de arpillera a maceta de terracota en terraza soleada"
 featured_image: "/images/sustrato-huerto-hero.webp"
 tag: ["sustrato", "comparativa", "equipamiento", "principiantes"]
+itemlist:
+  - name: "COMPO SANA Universal 10 L"
+    url: "https://www.amazon.es/dp/B00UCCLC1W?tag=tucultivo-21"
+  - name: "Flower Sustrato Huerto Urbano Ecologico 20 L"
+    url: "https://www.amazon.es/dp/B01HTVOYLI?tag=tucultivo-21"
+  - name: "GREENGOF Fibra de Coco 5 Kg"
+    url: "https://www.amazon.es/dp/B0CJZ2MNB2?tag=tucultivo-21"
+  - name: "COMPO BIO Huerto Urbano 5 L"
+    url: "https://www.amazon.es/dp/B0C4LBCRKG?tag=tucultivo-21"
 faq:
   - q: "¿Cada cuánto hay que cambiar el sustrato de una maceta?"
     a: "Cada 2-3 años en macetas grandes (40 L+), cada 1-2 años en macetas pequeñas. La estructura se degrada y los nutrientes se agotan."

@@ -73,16 +73,23 @@ El huerto entra en producción plena, pero también es la temporada más exigent
 
 - **Junio**: arranque oficial del verano, días largos, calor moderado. Tienes nuestra [guía completa de qué plantar en junio en el huerto urbano](/huerto-urbano/que-plantar-junio-huerto-urbano/) con la lista de cultivos que mejor se adaptan y los cuidados específicos del mes.
 - **Julio**: el mes más duro, con temperaturas extremas y evaporación acelerada. Pero también hay cultivos que prefieren este calor. Mira la [guía de qué plantar en julio](/huerto-urbano/que-plantar-julio-huerto-urbano/) para no tirar la toalla antes de tiempo.
+- **Agosto**: transición entre cosecha de verano y siembras de otoño. La [guía de qué plantar en agosto](/huerto-urbano/que-plantar-agosto-huerto-urbano/) te ayuda a preparar lechugas, espinacas, acelgas y coles para los meses siguientes.
 
 ⚠️ **Consejo de agosto**: si te vas de vacaciones, prepara el huerto con tiempo. Tienes nuestra [guía completa para dejar el huerto en verano](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/) que cubre riego automático, malla de sombreo y acolchado.
 
 ### Otoño (septiembre-noviembre)
 
-Vuelta al cole del huerto. Bajan las temperaturas, vuelve el riesgo de lluvia excesiva. Es el momento de cultivar hojas (lechugas, espinacas, rúcula) y raíces (rabanitos, remolacha, nabos). Los [calendarios de siembra](/huerto-urbano/que-plantar-junio-huerto-urbano/) que publicamos cubren también la transición a cultivos de otoño.
+Vuelta al cole del huerto. Bajan las temperaturas, vuelve el riesgo de lluvia excesiva y se abre la mejor ventana para hojas (lechugas, espinacas, rúcula), raíces rápidas y cultivos resistentes.
+
+- **Septiembre**: segundo inicio de temporada. En la [guía de qué plantar en septiembre](/huerto-urbano/que-plantar-septiembre-huerto-urbano/) explicamos cómo renovar macetas, mantener lo que queda del verano y sembrar hojas de otoño.
+- **Octubre**: mes de hojas, raíces y bulbos. La [guía de qué plantar en octubre](/huerto-urbano/que-plantar-octubre-huerto-urbano/) cubre rúcula, rábanos, espinacas, acelgas, ajos, cebolla tierna y fresas.
+- **Noviembre**: entrada al invierno. En [qué plantar en noviembre](/huerto-urbano/que-plantar-noviembre-huerto-urbano/) vemos ajos, habas, canónigos, rúcula y protección ligera para macetas.
 
 ### Invierno (diciembre-febrero)
 
-Temporada de descanso productivo. Los [kits de riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) se quitan, el [compostaje](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) sigue su curso, y se planifica la temporada siguiente. Es momento de pedir semillas y revisar el equipamiento.
+Temporada de descanso productivo. Los [kits de riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) se quitan, el [compostaje](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) sigue su curso, y se planifica la temporada siguiente. En la guía de [huerto urbano en invierno](/huerto-urbano/huerto-urbano-invierno-que-hacer-sembrar/) explicamos qué sembrar, cómo proteger macetas y qué tareas hacer antes de primavera.
+
+Si quieres una visión global mes a mes, guarda el [calendario de siembra anual para huerto urbano](/huerto-urbano/calendario-siembra-anual-huerto-urbano/).
 
 ---
 
@@ -162,7 +169,7 @@ Poner un plato bajo la maceta es necesario para no manchar, pero ese plato acumu
 
 ### ¿Y si vivo en una zona muy fría del norte o muy calurosa del sur?
 
-El calendario de siembra se adapta. En zonas frías, empezar más tarde (mayo-junio para tomate, junio-julio para pimiento). En zonas muy calurosas, privilégier cultivos de otoño-invierno y sombrear en las horas centrales. Cada [guía de cultivo](/guias-cultivo/) incluye adaptaciones por clima.
+El calendario de siembra se adapta. En zonas frías, empezar más tarde (mayo-junio para tomate, junio-julio para pimiento). En zonas muy calurosas, prioriza cultivos de otoño-invierno y sombrea en las horas centrales. Cada [guía de cultivo](/guias-cultivo/) incluye adaptaciones por clima.
 
 ---
 
@@ -170,7 +177,7 @@ El calendario de siembra se adapta. En zonas frías, empezar más tarde (mayo-ju
 
 El huerto urbano es un camino, no un destino. Cada temporada aprendes algo nuevo. Estos son los próximos pasos que te recomendamos:
 
-1. Revisa el [calendario de siembra de junio](/huerto-urbano/que-plantar-junio-huerto-urbano/) o [julio](/huerto-urbano/que-plantar-julio-huerto-urbano/) para ver qué puedes plantar este mes.
+1. Revisa el [calendario de siembra anual](/huerto-urbano/calendario-siembra-anual-huerto-urbano/) o la guía mensual que toque: [junio](/huerto-urbano/que-plantar-junio-huerto-urbano/), [julio](/huerto-urbano/que-plantar-julio-huerto-urbano/), [agosto](/huerto-urbano/que-plantar-agosto-huerto-urbano/), [septiembre](/huerto-urbano/que-plantar-septiembre-huerto-urbano/), [octubre](/huerto-urbano/que-plantar-octubre-huerto-urbano/) o [noviembre](/huerto-urbano/que-plantar-noviembre-huerto-urbano/).
 2. Elige un cultivo y sigue su [guía paso a paso](/guias-cultivo/) — la de [tomate cherry](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) es la más completa.
 3. Asegúrate de tener el equipamiento básico con la [comparativa de macetas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/).
 4. Aprende a regar bien con la [guía de riego en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/).
