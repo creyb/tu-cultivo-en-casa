@@ -44,7 +44,7 @@ Esta es la primera confusión que debes resolver. Mucha gente llama "oidio" a cu
 - **Aspecto:** polvo blanco o grisáceo, como si la hoja tuviera ceniza espolvoreada. Aparece en la **parte superior** de las hojas.
 - **Textura:** seca, harinosa, se puede limpiar con el dedo (aunque vuelve a salir).
 - **Condiciones que lo favorecen:** calor (20-30°C) y humedad ambiental media-alta, pero con **hojas secas**. Sí, has leído bien: el oídio es el hongo del "calor sin mojar". Por eso es típico de veranos secos o de terrazas con riego por goteo.
-- **Plantas más afectadas:** calabacines, pepinos, [tomates](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/), fresas, vid y aromáticas como la albahaca.
+- **Plantas más afectadas:** calabacines, pepinos, [tomates](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/), [fresas](/guias-cultivo/como-cultivar-fresas-en-maceta/), vid y aromáticas como la albahaca.
 
 ### Mildiú ("mildew" o "mildiu")
 - **Aspecto:** manchas amarillas o marrones en la parte **superior** de las hojas, con una pelusilla blanca o gris en la **parte inferior**. A veces solo se ve el envés afectado.

@@ -122,7 +122,7 @@ Invierno es el momento de decidir:
 - Qué macetas cambiar.
 - Qué semillas comprar.
 - Qué sistema de riego instalar antes del calor.
-- Qué espacio reservar para tomates, pimientos o fresas.
+- Qué espacio reservar para tomates, pimientos o [fresas](/guias-cultivo/como-cultivar-fresas-en-maceta/).
 
 Si esperas a mayo, acabarás comprando de impulso. Si planificas en enero-febrero, eliges mejor y gastas menos.
 

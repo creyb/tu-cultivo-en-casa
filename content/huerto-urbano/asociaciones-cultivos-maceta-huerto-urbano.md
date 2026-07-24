@@ -75,7 +75,7 @@ Misma lógica que el tomate, pero adaptada al pimiento. La albahaca crece bien a
 
 ### 4. Lechuga + Rábano (espacio y velocidad)
 
-El rábano crece en 25-30 días y deja hueco justo cuando la lechuga empieza a pedir más espacio. Es la asociación de aprovechamiento del espacio por excelencia.
+El rábano crece en 25-30 días y deja hueco justo cuando la [lechuga](/guias-cultivo/como-cultivar-lechuga-en-maceta/) empieza a pedir más espacio. Es la asociación de aprovechamiento del espacio por excelencia.
 
 - **Maceta**: 25-30 cm, poco profunda.
 - **Siembra**: alterna hileras de rábano (cada 5 cm) y lechuga (cada 20 cm).

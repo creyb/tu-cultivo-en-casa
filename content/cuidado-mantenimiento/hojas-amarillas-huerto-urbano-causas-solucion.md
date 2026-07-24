@@ -144,7 +144,7 @@ Las hojas amarillas son normales y casi siempre tienen solución. Pero hay seña
 
 - **El tallo se pone blando y oscuro:** Significa que la raíz se está pudriendo. Si la pudrición ha subido al tallo, la planta probablemente no se salve.
 - **Todas las hojas se ponen amarillas a la vez:** Puede ser un problema sistémico (sustrato contaminado, maceta sin drenaje, enfermedad fúngica).
-- **Hojas amarillas + manchas negras o marrones:** Podría ser un hongo como el mildiu o la alternaria. En ese caso, aísla la planta y trata con fungicida específico. La [guía de hongos del huerto urbano](/cuidado-mantenimiento/oidio-mildiu-hongos-huerto-urbano/) cubre estos casos.
+- **Hojas amarillas + manchas negras o marrones:** Podría ser un hongo como el mildiu o la alternaria. En ese caso, aísla la planta y trata con fungicida específico. La [guía de hongos del huerto urbano](/cuidado-mantenimiento/oidio-mildiu-hongos-huerto-como-prevenir/) cubre estos casos.
 
 Si llegas a este punto y la planta no tiene salvación, no te desanimes. En el huerto urbano se aprende más de los fracasos que de los aciertos. La próxima vez sabrás qué buscar antes de que llegue a este punto.
 
