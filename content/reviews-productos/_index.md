@@ -42,6 +42,11 @@ Empezamos por los dos productos que más impacto tienen en el éxito de un huert
 ### 🪴 Macetas y contenedores
 
 - [Mejores macetas para huerto urbano: comparativa y recomendaciones honestas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) — barro, plástico, autorriego, fibra de coco y mesas de cultivo. Analizamos las cinco categorías con datos de más de 30 productos y reseñas cruzadas con cultivos como [tomates cherry](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/) y [hierbas aromáticas](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/). Pros, contras y para quién es ideal cada tipo.
+- [Mejores jardineras de autorriego para huerto urbano](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/) — comparativa específica para balcones y terrazas con poco tiempo de riego. Revisamos LECHUZA, elho y alternativas con depósito para [fresas](/guias-cultivo/como-cultivar-fresas-en-maceta/), [lechugas](/guias-cultivo/como-cultivar-lechuga-en-maceta/) y aromáticas.
+
+### 🌱 Sustratos y tierra
+
+- [Mejor sustrato para huerto urbano: comparativa con 4 opciones](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/) — analizamos sustrato universal, mezcla específica para huerto, fibra de coco y opción ecológica según composición, precio y uso recomendado en maceta.
 
 ### 💧 Sistemas de riego
 
@@ -51,9 +56,7 @@ Empezamos por los dos productos que más impacto tienen en el éxito de un huert
 
 Tenemos en preparación análisis de:
 
-- **Sustratos para huerto urbano**: comparativa de marcas, mezclas y resultados esperados por cultivo.
 - **Humus de lombriz y abonos orgánicos**: qué marca comprar y cuánto aplicar.
-- **Jardineras autorriego**: especialmente relevantes para el [verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) o para personas que se ausentan a menudo.
 - **Herramientas básicas**: tijeras de podar, palas, guantes. No es glamour, pero marcan la diferencia.
 
 Si hay un producto que te gustaría ver analizado, dínoslo y lo priorizamos.
@@ -157,7 +160,7 @@ Hay sensores de humedad, nutrientes y luz que se conectan al móvil. Son interes
 
 ### 🌿 Jardineras autorriego
 
-Tienen su público: gente que se ausenta a menudo o que se olvida de regar. La duración real de la reserva varía mucho según la marca y el tamaño. Estamos preparando una comparativa específica. Mientras tanto, si tienes dudas, escríbenos.
+Tienen su público: gente que se ausenta a menudo o que se olvida de regar. La duración real de la reserva varía mucho según la marca, el tamaño y el cultivo. Ya tienes la [comparativa específica de jardineras de autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/) con opciones para balcón pequeño, terraza y plantas de hoja.
 
 ### 🪴 Macetas de geotextil (tela)
 
