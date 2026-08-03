@@ -47,6 +47,7 @@ Empezamos por los dos productos que más impacto tienen en el éxito de un huert
 ### 🌱 Sustratos y tierra
 
 - [Mejor sustrato para huerto urbano: comparativa con 4 opciones](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/) — analizamos sustrato universal, mezcla específica para huerto, fibra de coco y opción ecológica según composición, precio y uso recomendado en maceta.
+- [Mejor humus de lombriz y abonos orgánicos para huerto urbano](/reviews-productos/mejor-humus-lombriz-abonos-organicos-huerto-urbano/) — comparativa de humus, guano y fertilizantes orgánicos para renovar sustrato, alimentar tomates, pimientos, fresas y mantener macetas productivas.
 
 ### 💧 Sistemas de riego
 
@@ -56,7 +57,6 @@ Empezamos por los dos productos que más impacto tienen en el éxito de un huert
 
 Tenemos en preparación análisis de:
 
-- **Humus de lombriz y abonos orgánicos**: qué marca comprar y cuánto aplicar.
 - **Herramientas básicas**: tijeras de podar, palas, guantes. No es glamour, pero marcan la diferencia.
 
 Si hay un producto que te gustaría ver analizado, dínoslo y lo priorizamos.
