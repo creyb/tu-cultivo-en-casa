@@ -40,7 +40,7 @@ slug: "mejores-kits-riego-por-goteo-huerto-urbano-comparativa"
 
 En esta comparativa **he seleccionado 5 kits populares del mercado español** disponibles en Amazon España, cubriendo las cuatro categorías principales: con grifo, con programador, por gravedad y solar. Para cada uno revisé: precio actual, rating, número de reviews verificadas, Prime y composición. Los datos están actualizados a 4 de julio de 2026. Los precios y la disponibilidad pueden variar; te recomiendo revisarlos en el momento de comprar.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`). Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, composición, rating, reviews verificadas), **no en pruebas propias**. No hemos instalado ni testado estos kits; el análisis es informativo, no experimental.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`) y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, composición, rating, reviews verificadas), **no en pruebas propias**. No hemos instalado ni testado estos kits; el análisis es informativo, no experimental.
 
 ![Kit de riego por goteo instalado en macetas de terraza](/images/kit-riego-goteo-huerto-hero.webp)
 
@@ -97,9 +97,13 @@ Antes de mirar productos concretos, lo importante es saber qué tipo de kit se a
 
 Es el más común y, si tienes grifo en la terraza, el más sencillo. Conectas al grifo, programa y olvídate. Marcas como Gardena o Hozelock lo bordaron en este formato. La pega: necesitas grifo accesible.
 
+> 🛒 **Alternativa disponible en Leroy Merlin**: <a href="https://www.awin1.com/cread.php?awinmid=20598&awinaffid=3005719&ued=https%3A%2F%2Fwww.leroymerlin.es%2Fproductos%2Fkit-de-riego-por-goteo-geolia-con-25-m-de-tuberia-indicado-para-huerto-88923963.html" target="_blank" rel="sponsored noopener noreferrer">Ver kit de riego por goteo GEOLIA para huerto en Leroy Merlin</a>
+
 ### Kit solar con bomba
 
 Para balcones sin grifo. Una bomba pequeña alimentada por un panel solar y una batería de 2000-3000 mAh mueve el agua desde un depósito o una garrafa. Lo programas y riega solo, sin consumir electricidad de tu casa. Barato y muy cómodo.
+
+> 🛒 **Para vacaciones o terrazas sin grifo**: <a href="https://www.awin1.com/cread.php?awinmid=20598&awinaffid=3005719&ued=https%3A%2F%2Fwww.leroymerlin.es%2Fproductos%2Fkit-de-riego-por-goteo-con-bomba-programable-indicado-para-huerto-y-jardin-84592041.html" target="_blank" rel="sponsored noopener noreferrer">Ver kit con bomba programable en Leroy Merlin</a>
 
 ### Kit por gravedad con depósito
 

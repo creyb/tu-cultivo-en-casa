@@ -46,7 +46,7 @@ En maceta, el sustrato se agota rápido. Cada riego arrastra nutrientes, cada co
 
 En esta comparativa he analizado opciones disponibles en Amazon España el **3 de agosto de 2026**, priorizando productos con ficha concreta, señal de Prime/envío visible, rating razonable y formatos útiles para balcón o terraza. No los presento como probados por nosotros en esta tanda: el análisis se basa en datos públicos de Amazon, ficha de producto y criterios prácticos de cultivo en maceta.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`). Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, ficha, rating, reviews visibles y disponibilidad), **no en pruebas propias de estos productos concretos**. Los precios, ratings, Prime y stock pueden cambiar; revisa siempre la ficha actual antes de comprar.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`) y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, ficha, rating, reviews visibles y disponibilidad), **no en pruebas propias de estos productos concretos**. Los precios, ratings, Prime y stock pueden cambiar; revisa siempre la ficha actual antes de comprar.
 
 ![Humus de lombriz oscuro con plantas de tomate, albahaca y fresas en una terraza urbana](/images/humus-lombriz-abonos-organicos-hero.webp)
 
@@ -75,6 +75,8 @@ Para un huerto urbano sano, la fórmula más sensata suele ser:
 - **Mantenimiento**: una capa fina de humus cada mes o mes y medio.
 - **Producción**: abono orgánico más rico cuando empiezan flores y frutos.
 - **Correcciones**: fertilizante líquido si necesitas respuesta rápida.
+
+> 🛒 **Para comparar formatos y disponibilidad**: <a href="https://www.awin1.com/cread.php?awinmid=20598&awinaffid=3005719&ued=https%3A%2F%2Fwww.leroymerlin.es%2Fproductos%2Fjardin-y-terraza%2Fabono-y-cuidado-de-plantas%2Fabonos-y-fitosanitarios-ecologicos%2Fhumus-de-lombriz%2F" target="_blank" rel="sponsored noopener noreferrer">Ver humus de lombriz en Leroy Merlin</a>
 
 Si estás preparando macetas desde cero, combina este artículo con la [comparativa de sustratos para huerto urbano](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/). El abono no arregla un sustrato malo: lo maquilla durante dos semanas y luego el problema vuelve con sombrero.
 
@@ -387,4 +389,3 @@ Sí, si tienes varias macetas o renuevas sustrato cada temporada. Para dos o tre
 ---
 
 *Este artículo se creó el 3 de agosto de 2026 con precios, ratings, reviews y señales de Prime/envío revisados en Amazon España. Los datos pueden cambiar; revisa siempre la ficha actual antes de comprar.*
-

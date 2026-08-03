@@ -42,7 +42,7 @@ Una jardinera de autorriego promete justo lo que más queremos en un [huerto urb
 
 En esta comparativa he seleccionado modelos y familias de producto que cubren los casos más habituales: balcón estrecho, barandilla, terraza soleada, cultivos de hoja, fresas, aromáticas y alguna alternativa de mayor capacidad. No las presento como “probadas en laboratorio” porque no lo son. El análisis se basa en ficha técnica pública del fabricante, disponibilidad en Amazon España, datos visibles de mercado y experiencia práctica con cultivos en maceta.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`). Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos, ficha técnica y criterios de cultivo en maceta, **no en pruebas propias de estos modelos concretos**. Los precios, ratings y disponibilidad pueden cambiar; revisa siempre la ficha actual antes de comprar.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`) y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos, ficha técnica y criterios de cultivo en maceta, **no en pruebas propias de estos modelos concretos**. Los precios, ratings y disponibilidad pueden cambiar; revisa siempre la ficha actual antes de comprar.
 
 ![Jardineras de autorriego con lechugas, fresas y aromáticas en un balcón urbano soleado](/images/jardineras-autorriego-huerto-urbano-hero.webp)
 
@@ -59,6 +59,8 @@ En esta comparativa he seleccionado modelos y familias de producto que cubren lo
 ## Cómo elegir sin equivocarte
 
 Antes de mirar marca o precio, hacemos tres preguntas. Son menos brillantes que una tabla de “top 10”, pero te ahorran compras tontas.
+
+> 🛒 **Para comparar más modelos**: <a href="https://www.awin1.com/cread.php?awinmid=20598&awinaffid=3005719&ued=https%3A%2F%2Fwww.leroymerlin.es%2Fproductos%2Fjardin-y-terraza%2Fmacetas-y-jardineras%2Fmacetas-y-jardineras-de-autorriego%2F" target="_blank" rel="sponsored noopener noreferrer">Ver macetas y jardineras de autorriego en Leroy Merlin</a>
 
 ### 1. ¿Quieres cultivar hoja, aromáticas o fruto?
 

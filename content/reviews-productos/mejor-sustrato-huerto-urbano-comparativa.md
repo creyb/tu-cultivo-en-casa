@@ -38,7 +38,7 @@ slug: "mejor-sustrato-huerto-urbano-comparativa"
 
 En esta comparativa **he analizado 4 sustratos populares del mercado español** disponibles en Amazon España. Para cada uno revisé cuatro cosas: composición declarada por el fabricante, precio actual, rating y número de reviews verificadas. Los datos están actualizados a 4 de julio de 2026. Los precios y la disponibilidad pueden variar; te recomiendo revisarlos en el momento de comprar.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`). Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, composición declarada, rating, reviews verificadas), **no en pruebas propias**. No hemos comprado ni testado estos productos; el análisis es informativo, no experimental.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`) y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, composición declarada, rating, reviews verificadas), **no en pruebas propias**. No hemos comprado ni testado estos productos; el análisis es informativo, no experimental.
 
 ![Trasiego de sustrato desde saco a maceta de terracota](/images/sustrato-huerto-hero.webp)
 
@@ -70,6 +70,8 @@ Antes de comparar productos comerciales, conviene entender qué llevan dentro. C
 - **Compost vegetal**: el clásico. Aporta nutrientes pero hay que controlar que esté bien maduro (si no, quema raíces).
 
 En la práctica, un **sustrato universal** lleva turba + perlita + algo de fertilizante inicial. Un **sustrato específico para huerto** añade más nutrientes y mejor drenaje. Y los **sustratos premium** (ecológicos, sin turba) llevan mezclas más equilibradas pensadas para agricultura ecológica.
+
+> 🛒 **Para comparar más formatos**: <a href="https://www.awin1.com/cread.php?awinmid=20598&awinaffid=3005719&ued=https%3A%2F%2Fwww.leroymerlin.es%2Fproductos%2Fjardin-y-terraza%2Fplantas-semillas-y-arboles%2Ftierras-y-sustratos%2Fsustratos-para-huerto-p.html" target="_blank" rel="sponsored noopener noreferrer">Ver sustratos para huerto en Leroy Merlin</a>
 
 ![Tres tipos de sustrato en boles: turba, coco y perlita](/images/sustrato-tipos-comparacion.webp)
 
