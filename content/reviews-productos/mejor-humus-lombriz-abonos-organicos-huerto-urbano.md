@@ -44,15 +44,15 @@ Hay un momento muy típico en el huerto urbano: la planta está viva, tiene hoja
 
 En maceta, el sustrato se agota rápido. Cada riego arrastra nutrientes, cada cosecha se lleva minerales y cada planta consume lo que tiene a mano. Por eso conviene distinguir entre dos cosas que solemos mezclar: **humus de lombriz** y **abono orgánico**. El humus mejora el suelo; el abono empuja el crecimiento o la producción.
 
-En esta comparativa he analizado opciones disponibles en Amazon España el **3 de agosto de 2026**, priorizando productos con ficha concreta, señal de Prime/envío visible, rating razonable y formatos útiles para balcón o terraza. No los presento como probados por nosotros en esta tanda: el análisis se basa en datos públicos de Amazon, ficha de producto y criterios prácticos de cultivo en maceta.
+En esta comparativa he analizado opciones disponibles en Amazon España el **3 de agosto de 2026**, priorizando productos con ficha concreta, envío Prime visible cuando aplica, rating razonable y formatos útiles para balcón o terraza. No los presento como probados por nosotros en esta tanda: el análisis se basa en datos públicos de Amazon, ficha de producto y criterios prácticos de cultivo en maceta.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon (tag `tucultivo-21`) y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, ficha, rating, reviews visibles y disponibilidad), **no en pruebas propias de estos productos concretos**. Los precios, ratings, Prime y stock pueden cambiar; revisa siempre la ficha actual antes de comprar.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, ficha, rating, reviews visibles y disponibilidad), **no en pruebas propias de estos productos concretos**. Los precios, ratings, Prime y stock pueden cambiar; revisa siempre la ficha actual antes de comprar.
 
 ![Humus de lombriz oscuro con plantas de tomate, albahaca y fresas en una terraza urbana](/images/humus-lombriz-abonos-organicos-hero.webp)
 
 ## Comparativa rápida
 
-| Producto | Mejor para | Formato | Precio visto | Rating / reviews | Señal Prime |
+| Producto | Mejor para | Formato | Precio visto | Rating / reviews | Envío |
 |---|---|---:|---:|---:|---|
 | CULTIVERS Humus de Lombriz Ecológico | Varias macetas y renovación de sustrato | 40 L | 19,90 € | 4,6 / 807 | Sí |
 | COMPO Bio Huerto Urbano Humus Sólido | Balcón pequeño y marca conocida | 10 L | 11,29 € | 4,4 / 119 | Sí |
@@ -86,14 +86,13 @@ Si estás preparando macetas desde cero, combina este artículo con la [comparat
 
 El saco de 40 litros de CULTIVERS es el formato que más sentido tiene si ya tienes un huerto urbano montado: tomates, pimientos, fresas, aromáticas y alguna jardinera de hoja. Sale mejor por litro que los formatos pequeños y permite renovar sustrato sin ir comprando bolsitas cada dos semanas.
 
-**Datos verificados en Amazon:**
+**Datos revisados en Amazon:**
 
-- ASIN: `B09Q7VPJT3`
 - Formato: 40 L
 - Precio visto: 19,90 €
 - Rating visible: 4,6 sobre 5
 - Reviews visibles: 807
-- Señal Prime/envío: sí
+- Envío: Prime visible
 
 **Para quién lo elegiríamos**
 
@@ -102,7 +101,7 @@ Para quien tiene 6-10 macetas o más, reutiliza sustrato y quiere mejorar la mez
 **Pros**
 
 - Mejor formato para renovar muchas macetas.
-- Buena validación social: 807 reviews visibles.
+- Buen volumen de opiniones: 807 reviews visibles.
 - Producto específico de humus, no mezcla de sustrato con “algo de humus”.
 - Útil para mezclar, acolchar y recuperar sustratos usados.
 
@@ -120,14 +119,13 @@ Para quien tiene 6-10 macetas o más, reutiliza sustrato y quiere mejorar la mez
 
 COMPO tiene una ventaja clara: es marca conocida, con presencia en jardinería y productos fáciles de encontrar. Este humus sólido de 10 litros encaja mejor si tienes un balcón pequeño, pocas macetas o quieres probar sin llenar media casa de sacos.
 
-**Datos verificados en Amazon:**
+**Datos revisados en Amazon:**
 
-- ASIN: `B07NZXH822`
 - Formato: 10 L
 - Precio visto: 11,29 €
 - Rating visible: 4,4 sobre 5
 - Reviews visibles: 119
-- Señal Prime/envío: sí
+- Envío: Prime visible
 
 **Para quién lo elegiríamos**
 
@@ -152,16 +150,15 @@ Para principiantes con 3-5 macetas. También para quien ya compra sustratos COMP
 
 ## 3. Vermiduero Humus de lombriz 10 L: el formato económico y directo
 
-Vermiduero es interesante por precio y validación: 10 litros, 7,50 € vistos en Amazon, 4,6 de rating y 389 reviews visibles. Si quieres humus sencillo, sin complicarte y sin comprar 40 litros, tiene sentido.
+Vermiduero es interesante por precio y opiniones: 10 litros, 7,50 € vistos en Amazon, 4,6 de rating y 389 reviews visibles. Si quieres humus sencillo, sin complicarte y sin comprar 40 litros, tiene sentido.
 
-**Datos verificados en Amazon:**
+**Datos revisados en Amazon:**
 
-- ASIN: `B09S6HY7MR`
 - Formato: 10 L
 - Precio visto: 7,50 €
 - Rating visible: 4,6 sobre 5
 - Reviews visibles: 389
-- Señal Prime/envío: sí
+- Envío: Prime visible
 
 **Para quién lo elegiríamos**
 
@@ -188,14 +185,13 @@ Para quien busca una compra barata y funcional para mejorar el sustrato de macet
 
 Este ya no es humus. Es un abono orgánico sólido pensado para huerta y jardín. En un huerto urbano lo usaríamos como mantenimiento de temporada, especialmente si las plantas ya están en marcha y el sustrato empieza a quedarse corto.
 
-**Datos verificados en Amazon:**
+**Datos revisados en Amazon:**
 
-- ASIN: `B00L2IBNAU`
 - Formato: 2 kg sólido
 - Precio visto: 10,69 €
 - Rating visible: 4,4 sobre 5
 - Reviews visibles: 69
-- Señal Prime/envío: sí
+- Envío: Prime visible
 
 **Para quién lo elegiríamos**
 
@@ -222,14 +218,13 @@ Para quien quiere un abono “comodín” para hortalizas, jardineras y macetas 
 
 El guano es más potente que el humus. No lo usaríamos como base de sustrato, sino como refuerzo cuando entran cultivos exigentes: tomate, pimiento, berenjena, fresa o calabacín. Bien usado, ayuda en floración y producción; mal usado, puede pasarse de intensidad.
 
-**Datos verificados en Amazon:**
+**Datos revisados en Amazon:**
 
-- ASIN: `B00L2IBMJC`
 - Formato: 2 kg sólido
 - Precio visto: 10,39 €
 - Rating visible: 4,5 sobre 5
 - Reviews visibles: 106
-- Señal Prime/envío: sí
+- Envío: Prime visible
 
 **Para quién lo elegiríamos**
 
@@ -256,14 +251,13 @@ Para quien ya tiene plantas de fruto y quiere algo más orientado a producción 
 
 El líquido tiene una ventaja: actúa y se dosifica rápido. No mejora el sustrato como el humus, pero sirve cuando quieres corregir una planta que va corta de alimento o mantener cultivos en maceta durante semanas de mucha demanda.
 
-**Datos verificados en Amazon:**
+**Datos revisados en Amazon:**
 
-- ASIN: `B00UCLALQU`
 - Formato: 1 L líquido
 - Precio visto: 6,79 €
 - Rating visible: 4,5 sobre 5
 - Reviews visibles: 233
-- Señal Prime/envío: sí
+- Envío: Prime visible
 
 **Para quién lo elegiríamos**
 
@@ -388,4 +382,4 @@ Sí, si tienes varias macetas o renuevas sustrato cada temporada. Para dos o tre
 
 ---
 
-*Este artículo se creó el 3 de agosto de 2026 con precios, ratings, reviews y señales de Prime/envío revisados en Amazon España. Los datos pueden cambiar; revisa siempre la ficha actual antes de comprar.*
+*Este artículo se creó el 3 de agosto de 2026 con precios, ratings, reviews y señales de envío revisados en Amazon España. Los datos pueden cambiar; revisa siempre la ficha actual antes de comprar.*

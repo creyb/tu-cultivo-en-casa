@@ -1,7 +1,7 @@
 ---
 title: "Reviews de Productos"
 description: "Análisis honestos de macetas, sustratos, sistemas de riego y herramientas para huerto urbano. Seleccionamos según datos reales de mercado."
-summary: "Reviews y comparativas de productos para huerto urbano basadas en análisis de datos de Amazon (precio, especificaciones, reviews verificadas). Macetas, sistemas de riego, sustratos y herramientas analizados a fondo para que aciertes en tu compra."
+summary: "Reviews y comparativas de productos para huerto urbano basadas en análisis de datos públicos de tiendas online: precio, especificaciones y reviews visibles. Macetas, sistemas de riego, sustratos y herramientas analizados a fondo para que aciertes en tu compra."
 date: 2026-06-14
 draft: false
 cover:
@@ -21,11 +21,11 @@ faq:
   - q: "¿El riego por goteo no es demasiado caro para empezar?"
     a: "Un kit básico de 20-30 € con 10-15 goteros y un programador barato cubre una terraza pequeña. La inversión se amortiza en un verano."
   - q: "¿Compráis los productos o los recibís de las marcas?"
-    a: "Siempre los compramos nosotros (o los pedimos como clientes anónimos). Cuando llegue el caso de hacer una colaboración con una marca, lo indicaremos explícitamente al principio del artículo."
+    a: "En las comparativas actuales trabajamos con datos públicos de tiendas online, fichas técnicas y reviews visibles. Cuando probemos un producto en casa o haya una colaboración con una marca, lo indicaremos claramente al principio del artículo."
 ---
 ## Reviews honestas, no escaparate ⭐
 
-Esta sección no es un catálogo de Amazon ni una lista de los productos más caros. Es el resultado de analizar a fondo los datos de mercado de cada categoría — precio, especificaciones técnicas, reviews verificadas, materiales, durabilidad declarada y relación calidad-precio — para que sepas exactamente qué comprar según tu presupuesto, espacio y nivel de experiencia.
+Esta sección no es un catálogo de Amazon ni una lista de los productos más caros. Es el resultado de analizar a fondo los datos de mercado de cada categoría — precio, especificaciones técnicas, reviews visibles, materiales, durabilidad declarada y relación calidad-precio — para que sepas exactamente qué comprar según tu presupuesto, espacio y nivel de experiencia.
 
 Cuando recomendamos una maceta, un sustrato o un kit de riego, lo hacemos porque los datos lo respaldan, y cuando algo no nos convence, también lo decimos. Creemos que la mejor reseña es la que te ahorra una compra mala, no la que te empuja a una compra buena.
 
@@ -69,14 +69,14 @@ Para que una comparativa sea útil, tiene que basarse en datos fiables y repetib
 
 1. **Selección de productos** representativos dentro de cada categoría, cubriendo distintos rangos de precio, materiales y tipos de usuario.
 2. **Recopilación de datos técnicos** de cada producto: dimensiones, materiales, capacidad, peso, accesorios incluidos y garantía.
-3. **Análisis de reviews verificadas** de Amazon (mínimo 100 valoraciones por producto) para identificar patrones de rotura, durabilidad, facilidad de uso y servicio postventa.
+3. **Análisis de reviews visibles** de Amazon cuando hay volumen suficiente para identificar patrones de rotura, durabilidad, facilidad de uso y servicio postventa.
 4. **Comparativa de precios** históricos para evaluar la relación calidad-precio real y detectar fluctuaciones estacionales.
 5. **Contraste con alternativas** directas de precio y gama similar. Un análisis sin comparativa es solo una descripción.
 6. **Veredicto final con contexto**: para quién es ideal, para quién NO es recomendable, y en qué situaciones concretas destaca.
 
 Esto significa que las comparativas se actualizan periódicamente. Los precios y la disponibilidad cambian, y cuando aparecen productos nuevos que mejoran lo existente, actualizamos el análisis.
 
-> **Importante**: nuestras comparativas se basan en datos públicos de Amazon (precio, ficha técnica, rating, reviews verificadas), no en pruebas de laboratorio propias. Cuando en el futuro podamos realizar tests hands-on, lo indicaremos explícitamente y actualizaremos la metodología.
+> **Importante**: nuestras comparativas se basan en datos públicos de tiendas online (precio, ficha técnica, rating y reviews visibles), no en pruebas de laboratorio propias. Cuando en el futuro podamos realizar tests hands-on, lo indicaremos explícitamente y actualizaremos la metodología.
 
 ---
 
@@ -85,7 +85,7 @@ Esto significa que las comparativas se actualizan periódicamente. Los precios y
 Para que quede claro desde el principio:
 
 - **Reviews pagadas sin marcar.** Si alguna vez hacemos una colaboración pagada con una marca, lo indicaremos explícitamente al principio del artículo. Por ahora, todos los análisis son independientes.
-- **Productos que no hemos analizado.** Solo publicamos análisis de productos cuyo precio, ficha técnica y reviews verificadas hemos revisado en profundidad. Si no hay datos suficientes, no lo recomendamos.
+- **Productos que no hemos analizado.** Solo publicamos análisis de productos cuyo precio, ficha técnica y reviews visibles hemos revisado en profundidad. Si no hay datos suficientes, no lo recomendamos.
 - **Listas de "los 10 mejores"** sin contexto. Cada huerto es distinto. Una lista genérica no ayuda a nadie. Nuestras reviews siempre incluyen para quién es ideal cada producto.
 - **Hype de novedades.** Si un producto es nuevo pero no aporta nada, lo decimos. Y si un producto clásico sigue siendo la mejor opción, no lo cambiamos por uno más moderno solo por publicar.
 
@@ -192,7 +192,7 @@ Un kit básico de 20-30 € con 10-15 goteros y un programador barato cubre una 
 
 ### ¿Compráis los productos o los recibís de las marcas?
 
-Siempre los compramos nosotros (o los pedimos como clientes anónimos). Cuando llegue el caso de hacer una colaboración con una marca, lo indicaremos explícitamente al principio del artículo. La política de transparencia está en la [sección de aviso legal](/aviso-legal/).
+En las comparativas actuales trabajamos con datos públicos de tiendas online, fichas técnicas y reviews visibles. Cuando probemos un producto en casa o recibamos una unidad de una marca, lo indicaremos claramente al principio del artículo. La política de transparencia está en la [sección de aviso legal](/aviso-legal/).
 
 ---
 
