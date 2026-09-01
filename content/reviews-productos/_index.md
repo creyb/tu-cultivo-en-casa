@@ -43,6 +43,7 @@ Empezamos por los dos productos que más impacto tienen en el éxito de un huert
 
 - [Mejores macetas para huerto urbano: comparativa y recomendaciones honestas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) — barro, plástico, autorriego, fibra de coco y mesas de cultivo. Analizamos las cinco categorías con datos de más de 30 productos y reseñas cruzadas con cultivos como [tomates cherry](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/) y [hierbas aromáticas](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/). Pros, contras y para quién es ideal cada tipo.
 - [Mejores jardineras de autorriego para huerto urbano](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/) — comparativa específica para balcones y terrazas con poco tiempo de riego. Revisamos LECHUZA, elho y alternativas con depósito para [fresas](/guias-cultivo/como-cultivar-fresas-en-maceta/), [lechugas](/guias-cultivo/como-cultivar-lechuga-en-maceta/) y aromáticas.
+- [Mejores mesas de cultivo para huerto urbano](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) — modelos elevados de metal y madera para trabajar cómodo, ganar orden en terraza y cultivar hojas, fresas, aromáticas o tomates cherry compactos sin llenar el suelo de macetas.
 
 ### 🌱 Sustratos y tierra
 
@@ -112,7 +113,7 @@ Cada persona llega al huerto urbano con una situación distinta. Por eso organiz
 Empieza por lo básico y ve ampliando según vayas necesitando. Para un kit de inicio decente necesitas:
 
 - **3-5 macetas de 30 cm** de diámetro y profundidad. Tienes la [comparativa de macetas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) con opciones para cada presupuesto.
-- **Sustrato universal de calidad** con perlita. Marca conocida, saco de 50-70 L. Próximamente publicaremos comparativa.
+- **Sustrato universal de calidad** con perlita. Tienes la [comparativa de sustratos para huerto urbano](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/) para elegir sin ir a ciegas.
 - **Una regadera de 5-10 L** con roseta fina para no aplastar las plántulas.
 - **Tijeras de podar pequeñas** para cosechar y podar.
 - **Un pulverizador** para tratamientos de plagas ([5 plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/)) y para humidificar hojas en días calurosos.
@@ -126,7 +127,7 @@ Aquí el presupuesto importa menos que el coste por uso. Una maceta de barro coc
 En esta categoría priorizamos:
 
 - Macetas de barro cocido o de cerámica esmaltada.
-- Mesas de cultivo de madera tratada para exterior o de acero galvanizado.
+- [Mesas de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) de madera tratada para exterior o de acero galvanizado.
 - Sistemas de riego con filtros, regulador de presión y goteros autocompensantes.
 - Herramientas de acero inoxidable, no de aluminio.
 
@@ -135,9 +136,9 @@ En esta categoría priorizamos:
 Aquí cada centímetro cuenta. Priorizamos:
 
 - Macetas verticales o con soporte para barandilla.
-- Mesas de cultivo compactas (60×60 cm o 80×40 cm).
+- [Mesas de cultivo compactas](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) (60×60 cm o 80×40 cm).
 - [Kits de riego por goteo solares](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) que no necesitan grifo cerca.
-- Macetas autorriego que dan autonomía de 3-5 días sin recargar. Pendiente de análisis específico.
+- [Macetas autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/) que dan autonomía de 3-5 días sin recargar.
 
 ### Si cultivas en zonas muy calurosas del sur
 
