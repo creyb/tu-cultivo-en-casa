@@ -1,9 +1,9 @@
 ---
-title: "Mejores kits de riego por goteo para huerto urbano: comparativa 2026 con datos de Amazon"
+title: "Mejores kits de riego por goteo para huerto urbano: cuál elegir en 2026"
 date: 2026-06-10
 draft: false
-summary: "Comparativa de 5 kits de riego por goteo para huerto urbano según precio, rating y reviews visibles en Amazon España. Gardena, Hozelock, Claber, TRJZWA solar y un kit con goteros autocompensantes. Datos de julio 2026."
-description: "Análisis comparativo de 5 kits de riego por goteo populares en Amazon España: con grifo, con programador, solar, por gravedad y con goteros autocompensantes. Precio, composición y rating revisados."
+summary: "Comparamos 5 kits de riego por goteo para macetas: con grifo, con programador, sin grifo y solar. Te ayudamos a elegir según tus macetas, tu terraza y tu presupuesto."
+description: "Qué kit de riego por goteo elegir para macetas y huerto urbano: opciones con grifo, programador, sin grifo y solar. Comparativa con recomendaciones por caso."
 categoria: ["reviews-productos"]
 cover:
     image: "/images/kit-riego-goteo-huerto-hero.webp"
@@ -43,6 +43,19 @@ En esta comparativa **he seleccionado 5 kits populares del mercado español** di
 > 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, composición, rating y reviews visibles), **no en pruebas propias**. No hemos instalado ni testado estos kits; el análisis es informativo, no experimental.
 
 ![Kit de riego por goteo instalado en macetas de terraza](/images/kit-riego-goteo-huerto-hero.webp)
+
+---
+
+## Elige rápido: el kit adecuado para tu terraza
+
+No necesitas leer la comparativa entera para acertar. Estas son las opciones que encajan mejor según el problema que quieras resolver:
+
+- **Tienes grifo y quieres montar algo duradero**: el <a href="https://www.amazon.es/dp/B0BNLMJ7LQ?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Gardena Micro-Drip Set Balcón</a> es la opción de marca más sólida para hasta 15 plantas. Añade un programador si quieres olvidarte del riego diario.
+- **Quieres grifo y automatización desde el primer día**: el <a href="https://www.amazon.es/dp/B00WFZJ7WA?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Hozelock 2802 para 15 macetas</a> incluye controlador, filtro y regulador; encaja si prefieres comprar una vez y montar sin buscar piezas extra.
+- **No tienes grifo en la terraza**: el <a href="https://www.amazon.es/dp/B01DNS3TIK?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Claber Aqua-Magic</a> funciona desde un depósito y es la alternativa más completa para vacaciones o balcones sin toma de agua.
+- **Buscas gastar lo mínimo para empezar**: el <a href="https://www.amazon.es/dp/B0CSG3YWR6?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">kit solar TRJZWA</a> es una opción económica para pocas macetas, aunque sus materiales no están al nivel de Gardena o Claber.
+
+Los enlaces son de afiliado y los datos de precio, valoración y disponibilidad cambian con frecuencia. Comprueba siempre la ficha antes de decidir.
 
 ---
 

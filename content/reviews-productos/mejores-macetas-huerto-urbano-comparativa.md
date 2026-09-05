@@ -1,9 +1,9 @@
 ---
-title: "Mejores macetas para huerto urbano: comparativa de tipos según datos de Amazon"
+title: "Mejores macetas para huerto urbano: cuál elegir según tu balcón y cultivo"
 date: 2026-05-12
 draft: false
-summary: "Comparativa de 5 tipos de macetas para huerto urbano (cerámica, plástico, fibra de coco, autorriego, jardineras) según precio, materiales y reviews visibles en Amazon España. Datos de julio 2026."
-description: "Análisis de los principales tipos de macetas para huerto urbano: barro, plástico, fibra de coco, autorriego y jardineras. Para cada tipo, un producto representativo revisado en Amazon España."
+summary: "Qué maceta elegir para un huerto urbano según el espacio, el cultivo y el tiempo que tengas para regar: plástico, barro, autorriego, jardineras y mesas de cultivo."
+description: "Mejores macetas para huerto urbano según tu balcón, cultivo y presupuesto. Comparamos plástico, barro, autorriego, jardineras y mesas de cultivo."
 categoria: ["reviews-productos"]
 cover:
     image: "/images/macetas-huerto-urbano-hero.webp"
@@ -47,6 +47,15 @@ En esta guía **he analizado los 5 tipos principales de macetas** disponibles en
 > 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, ficha técnica, rating y reviews visibles), **no en pruebas propias**. No hemos cultivado en estas macetas; el análisis es informativo, no experimental.
 
 ![Variedad de macetas para huerto urbano en terraza](/images/macetas-huerto-urbano-hero.webp)
+
+## Elige rápido según lo que vas a plantar
+
+- **Tomates, pimientos, berenjenas o calabacines**: busca macetas grandes, de al menos 30-40 cm de profundidad. Una <a href="https://www.amazon.es/dp/B098BL9PX4?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">jardinera rectangular de 50 cm</a> encaja bien cuando quieres agrupar varias plantas de hoja o aromáticas.
+- **Un balcón pequeño y presupuesto ajustado**: las <a href="https://www.amazon.es/dp/B0CKZ3CZM9?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">macetas de plástico en pack</a> suelen ser la forma más simple de empezar con varias plantas sin cargar demasiado peso.
+- **Te ausentas algunos días o riegas con poca regularidad**: una <a href="https://www.amazon.es/dp/B00DNUSG8W?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">maceta de autorriego LECHUZA</a> reduce la frecuencia de riego; para varias macetas, complétala con un [kit de goteo con programador](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/).
+- **No puedes agacharte o tienes una terraza amplia**: una <a href="https://www.amazon.es/dp/B0BSGKJS9P?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">mesa de cultivo elevada</a> hace más cómodo sembrar y cosechar, aunque ocupa más y suele requerir más sustrato.
+
+Los enlaces a Amazon son de afiliado. Revisa medidas, agujeros de drenaje y disponibilidad en la ficha antes de comprar: el tamaño es más importante que la marca.
 
 ## ¿Por qué la elección de la maceta importa tanto?
 

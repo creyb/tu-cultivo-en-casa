@@ -31,7 +31,14 @@ slug: "que-plantar-julio-huerto-urbano"
 
 Julio es el mes más duro del año para el huerto urbano en España. El calor aprieta, el sol dura 14-15 horas y el agua se evapora de las macetas en cuestión de horas. Pero también es un mes de grandes posibilidades: muchas hortalizas de verano están en su punto justo ahora, y si eliges bien qué sembrar, puedes tener cosecha hasta bien entrado el otoño.
 
-Hemos cultivado en terrazas con 40°C bajo cero y en balcones donde el sol pega de lleno desde las ocho de la mañana. Lo que hemos aprendido es que julio no es un mes para plantar cualquier cosa, sino para plantar lo correcto. En esta guía te contamos exactamente qué funciona en julio, qué no vale la pena intentar y cómo adaptar tu huerto urbano al calor más intenso del año, empezando por [elegir las macetas adecuadas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) para cada cultivo.
+Hemos cultivado en terrazas con 40 °C y en balcones donde el sol pega de lleno desde las ocho de la mañana. Lo que hemos aprendido es que julio no es un mes para plantar cualquier cosa, sino para plantar lo correcto. En esta guía te contamos exactamente qué funciona en julio, qué no vale la pena intentar y cómo adaptar tu huerto urbano al calor más intenso del año, empezando por [elegir las macetas adecuadas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) para cada cultivo.
+
+## Antes de sembrar: resuelve el riego de julio
+
+En julio el equipo no es un capricho: una maceta pequeña puede secarse en horas. Para que el huerto aguante el verano:
+
+- Si tienes grifo en la terraza y varias macetas, revisa qué [kit de riego por goteo con temporizador encaja con tu espacio](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/).
+- Si vas a poner tomates, calabacines o berenjenas, elige [macetas con volumen suficiente para que la raíz y el agua tengan margen](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/). Es una decisión que se nota más que añadir una variedad nueva.
 
 ![Huerto urbano en pleno verano con hortalizas de julio en macetas](/images/que-plantar-julio-hero.webp)
 

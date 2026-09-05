@@ -31,6 +31,13 @@ Junio marca el arranque oficial del verano en España. Los días son largos, las
 
 Si tienes macetas, jardineras o una [mesa de cultivo en tu terraza o balcón](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/), esta guía te ayudará a decidir qué sembrar en junio con criterio. Verás qué hortalizas funcionan mejor, cómo adaptarlas al calor y qué errores evitar.
 
+## Antes de sembrar: el equipo que más se nota en junio
+
+En junio no hace falta comprar media tienda. Pero sí conviene resolver dos cosas antes de que llegue el calor fuerte:
+
+- Para tomates, pimientos, berenjenas y calabacines, empieza con [macetas profundas que no se queden pequeñas a mitad de temporada](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/).
+- Si tienes más de cuatro macetas o ya piensas en las vacaciones, mira nuestra [comparativa de kits de riego por goteo para huerto urbano](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/). Un sistema sencillo instalado ahora evita el riego a contrarreloj en julio.
+
 ![Huerto urbano productivo en junio con diversas hortalizas](/images/que-plantar-junio-hero.webp)
 
 ## Por qué junio es un mes clave para el huerto urbano

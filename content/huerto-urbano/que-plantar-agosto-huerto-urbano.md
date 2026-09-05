@@ -35,6 +35,11 @@ La mayoría de la gente llega a agosto agotada — del calor, de las vacaciones,
 
 En esta guía te contamos qué sembrar en maceta durante agosto, qué trasplantar para el otoño, qué hacer con lo que ya está en producción y cómo preparar el huerto para los meses más suaves que están al llegar. Y si todavía no tienes claras las macetas en las que sembrar, echa un vistazo a nuestra [comparativa de las mejores macetas para huerto urbano](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/).
 
+## Dos decisiones que evitan perder el huerto en agosto
+
+- **Si te vas de vacaciones o tienes más de cuatro macetas**, prioriza un [kit de riego por goteo que puedas programar](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/). Agosto no da mucho margen para corregir un riego irregular.
+- **Para las nuevas coles, acelgas y lechugas de otoño**, usa [macetas o jardineras con buen drenaje y espacio suficiente](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/). Reutilizar una maceta agotada sin renovarla suele frenar el arranque.
+
 ![Huerto urbano a finales de agosto con cosecha de verano y semilleros de otoño en macetas](/images/que-plantar-agosto-hero.webp)
 
 ## Por qué agosto es un mes de transición

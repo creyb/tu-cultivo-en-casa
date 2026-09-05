@@ -31,6 +31,13 @@ Para nosotros, septiembre es el segundo inicio de temporada. No tiene la emoció
 
 Si vienes de la [guía de agosto](/huerto-urbano/que-plantar-agosto-huerto-urbano/), septiembre es la continuación natural: trasplantar lo que sembraste, renovar macetas agotadas y empezar cultivos rápidos para otoño.
 
+## Antes de plantar: prepara bien la nueva temporada
+
+Septiembre es buen momento para simplificar y corregir lo que el verano dejó claro:
+
+- Para lechugas, rúcula, espinacas y aromáticas, una [jardinera o maceta adecuada al cultivo y al espacio disponible](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) permite sembrar escalonado sin apretar demasiado las plantas.
+- Si aún tienes tomates, pimientos o varias macetas que siguen produciendo, compara los [kits de riego por goteo para terraza](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) antes de pasar a la rutina de riego de otoño.
+
 ![Huerto urbano de septiembre con macetas de hojas verdes y semilleros de otoño](/images/que-plantar-septiembre-hero.webp)
 
 ## Por qué septiembre es tan buen mes para plantar 🌱
