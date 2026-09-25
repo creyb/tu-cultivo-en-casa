@@ -197,7 +197,7 @@ Es el problema más frustrante. La planta florece, pero las flores se caen sin f
 - **Mosca blanca**: Pequeños insectos blancos que revolotean al tocar la planta. Solución: trampas amarillas pegajosas y aceite de neem
 - **Araña roja**: Muy común en verano con el calor seco. Se detecta por telarañas finas en el envés de las hojas. Solución: aumentar la humedad ambiental y aceite de neem
 
-Para el protocolo completo de prevención y tratamiento, revisa nuestra [guía de 5 plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+Para el protocolo completo de prevención y tratamiento, revisa nuestra [guía de 5 plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 ### Enfermedades
 

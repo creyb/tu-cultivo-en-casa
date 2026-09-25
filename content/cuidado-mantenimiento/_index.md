@@ -52,7 +52,7 @@ Si tienes un balcón o terraza y no quieres cargar regaderas, el [riego por gote
 
 Da igual lo limpio que sea tu sustrato o lo bien que riegues: las plagas aparecen. Es ley de vida. La buena noticia es que en huerto urbano las plagas son pocas y muy reconocibles. Si sabes qué buscar y actúas a tiempo, no hace falta química dura.
 
-En la [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) cubrimos pulgón, mosca blanca, cochinilla, araña roja y babosas, que son prácticamente las únicas que te van a aparecer. Con identificación temprana y los remedios caseros que funcionan, no necesitarás más.
+En la [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) cubrimos pulgón, mosca blanca, cochinilla, araña roja y babosas, que son prácticamente las únicas que te van a aparecer. Con identificación temprana y los remedios caseros que funcionan, no necesitarás más.
 
 ### 3. Abonado: nutrir la tierra, no solo la planta
 
@@ -77,7 +77,7 @@ La [guía para preparar el huerto urbano antes de las vacaciones](/cuidado-mante
 Estas son las guías completas de la sección, ordenadas por urgencia. Si estás empezando, lee primero la de riego; si ya tienes plantas y algo va mal, ve directo a plagas o compostaje.
 
 - 💧 [Cómo regar correctamente tu huerto urbano en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) — horarios, frecuencia por cultivo, síntomas de exceso y falta de agua, sistemas automáticos y los errores más comunes.
-- 🐛 [5 plagas comunes en el huerto urbano y cómo eliminarlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) — pulgón, mosca blanca, cochinilla, araña roja y babosas. Identificación, prevención y remedios caseros que funcionan.
+- 🐛 [5 plagas comunes en el huerto urbano y cómo eliminarlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) — pulgón, mosca blanca, cochinilla, araña roja y babosas. Identificación, prevención y remedios caseros que funcionan.
 - 🌱 [Compostaje en maceta: cómo hacer abono orgánico en tu casa](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) — composteras de balcón, vermicompostador de cocina, bokashi. Qué echar, qué evitar y cómo usar el compost maduro.
 - 🏖️ [Cómo preparar tu huerto urbano para las vacaciones de verano](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/) — sistema de riego automático paso a paso, malla de sombreo, acolchado y checklist pre-viaje.
 
@@ -86,9 +86,9 @@ Estas son las guías completas de la sección, ordenadas por urgencia. Si estás
 Si algo va mal en tu huerto, estas guías te ayudan a diagnosticar y solucionar los problemas más frecuentes:
 
 - 🟡 [Hojas amarillas en el huerto urbano: causas, diagnóstico y solución rápida](/cuidado-mantenimiento/hojas-amarillas-huerto-urbano-causas-solucion/) — las 5 causas más comunes, cómo diagnosticar cuál es la tuya y qué hacer para salvar la planta.
-- 💧 [Exceso de riego: cómo detectarlo a tiempo y salvar tus plantas](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar/) — síntomas tempranos, cómo rescatar plantas ahogadas y evitar que te vuelva a pasar.
-- 🌸 [Por qué se caen las flores del tomate y del pimiento en maceta](/cuidado-mantenimiento/caida-flores-tomate-pimiento-maceta/) — temperatura, polinización, nutrientes, riego y las 6 causas principales con solución.
-- 🔥 [Puntas de hojas secas o quemadas: causas y solución](/cuidado-mantenimiento/puntas-hojas-secas-quemadas-huerto-urbano/) — golpe de sol, acumulación de sales, falta de potasio, baja humedad y riego irregular.
+- 💧 [Exceso de riego: cómo detectarlo a tiempo y salvar tus plantas](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar-plantas/) — síntomas tempranos, cómo rescatar plantas ahogadas y evitar que te vuelva a pasar.
+- 🌸 [Por qué se caen las flores del tomate y del pimiento en maceta](/cuidado-mantenimiento/por-que-se-caen-flores-tomate-pimiento-maceta/) — temperatura, polinización, nutrientes, riego y las 6 causas principales con solución.
+- 🔥 [Puntas de hojas secas o quemadas: causas y solución](/cuidado-mantenimiento/puntas-hojas-secas-quemadas-huerto-urbano-causas/) — golpe de sol, acumulación de sales, falta de potasio, baja humedad y riego irregular.
 - 🧱 [Sustrato compactado que no drena: cómo recuperarlo](/cuidado-mantenimiento/sustrato-compactado-maceta-no-drena-solucion/) — diagnóstico, técnicas de aireación, trasplante y prevención con perlita.
 
 Y seguimos. Las próximas guías que tenemos en preparación cubren poda de tomate, asociaciones de cultivo y calendario de mantenimiento anual.
@@ -104,7 +104,7 @@ A grandes rasgos, este es el calendario de mantenimiento que seguimos en nuestra
 - Revisar el estado de macetas y sustrato de la temporada anterior.
 - Limpiar herramientas, revisar el [kit de riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/).
 - Empezar a regar con más frecuencia según suben las temperaturas.
-- Vigilar la aparición de pulgón en los primeros brotes tiernos. Más detalles en [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+- Vigilar la aparición de pulgón en los primeros brotes tiernos. Más detalles en [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 - Abonar con humus de lombriz antes del trasplante de los cultivos de verano.
 
 ### Verano (junio-agosto)
@@ -136,7 +136,7 @@ Después de cuatro temporadas, estos son los errores de mantenimiento que más n
 
 - **Regar a la hora equivocada.** Regar a pleno sol del mediodía es desperdiciar agua y quemar hojas. La [guía de riego en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) explica el mejor momento según el clima.
 - **Confundir síntomas de exceso y falta de agua.** Las hojas amarillas y caídas pueden ser por ambas cosas. Hay que tocar el sustrato antes de regar más.
-- **Esperar a que la plaga sea un problema.** Cuando ves pulgón a simple vista, ya hay una colonia instalada. La [guía de plagas](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) explica cómo detectarlos en fase temprana.
+- **Esperar a que la plaga sea un problema.** Cuando ves pulgón a simple vista, ya hay una colonia instalada. La [guía de plagas](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) explica cómo detectarlos en fase temprana.
 - **No acolchar en verano.** Una capa de paja, corteza o acolchado textil reduce la frecuencia de riego a la mitad. Se cubre en la [guía de vacaciones](/cuidado-mantenimiento/como-preparar-huerto-urbano-vacaciones-verano/).
 - **Abonar en exceso "por si acaso".** Más fertilizante no es mejor. Una planta sobrefertilizada echa mucha hoja y poco fruto. Sigue las dosis del envase o del [compost casero](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/).
 
@@ -162,7 +162,7 @@ Instala un [sistema de riego por goteo con programador](/reviews-productos/mejor
 
 ### ¿Los insecticidas químicos son necesarios en un huerto urbano?
 
-Casi nunca. Las plagas más comunes se controlan con remedios caseros (jabón potásico, aceite de neem, infusión de ajo) si se actúa a tiempo. La [guía de plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) tiene los protocolos detallados.
+Casi nunca. Las plagas más comunes se controlan con remedios caseros (jabón potásico, aceite de neem, infusión de ajo) si se actúa a tiempo. La [guía de plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) tiene los protocolos detallados.
 
 ### ¿Puedo tener compost en un piso de 50 m²?
 

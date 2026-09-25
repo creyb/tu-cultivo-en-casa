@@ -137,8 +137,8 @@ En maceta pequeña, conviene cortar la mayoría. Si no, la planta se agota.
 - **Frutos pequeños**: falta de luz, nutrientes o riego irregular.
 - **Fresas podridas**: exceso de humedad o frutos tocando sustrato.
 - **Hojas amarillas**: puede ser exceso de riego o falta de nutrientes. Revisa [hojas amarillas](/cuidado-mantenimiento/hojas-amarillas-huerto-urbano-causas-solucion/).
-- **Pulgones**: aparecen en brotes tiernos. La guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) cubre tratamiento.
-- **Puntas secas**: estrés hídrico o sales acumuladas. Mira [puntas secas](/cuidado-mantenimiento/puntas-hojas-secas-quemadas-huerto-urbano/).
+- **Pulgones**: aparecen en brotes tiernos. La guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) cubre tratamiento.
+- **Puntas secas**: estrés hídrico o sales acumuladas. Mira [puntas secas](/cuidado-mantenimiento/puntas-hojas-secas-quemadas-huerto-urbano-causas/).
 
 ## Cosecha
 

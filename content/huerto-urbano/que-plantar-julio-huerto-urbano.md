@@ -25,6 +25,8 @@ faq:
     a: "Calabazas, judías verdes (siembras escalonadas en agosto), lechugas (siembra en septiembre) y rábanos (siembras continuas hasta octubre)."
 description: "Calendario de siembra para julio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el mes más caluroso del verano."
 slug: "que-plantar-julio-huerto-urbano"
+aliases:
+    - /calendario-de-siembra/julio/
 ---
 
 # Qué plantar en julio en el huerto urbano: guía completa para España
@@ -221,7 +223,7 @@ Julio trae más plagas que cualquier otro mes. La combinación de calor y sequed
 - **Araña roja**: Aparece con calor y sequedad; aumenta la humedad ambiental
 - **Babosas y caracoles**: Más activos tras los riegos; barreras de ceniza o cáscaras de huevo
 
-Para un tratamiento detallado, consulta nuestra guía de [plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+Para un tratamiento detallado, consulta nuestra guía de [plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 ## Calendario rápido: qué plantar según tu zona
 

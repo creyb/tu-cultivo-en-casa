@@ -21,6 +21,12 @@ faq:
     a: "Sí, octubre es buen momento para poner plantones de fresa en maceta y que enraícen antes de primavera."
   - q: "¿Tengo que proteger las plantas del frío en octubre?"
     a: "Solo en zonas frías o si hay heladas tempranas. En la mayoría de España basta con vigilar viento, exceso de lluvia y drenaje."
+aliases:
+    - /huerto-urbano-que-plantar-octubre-huerto-urbano/
+    - /huerto-octubre-huerto-urbano/
+    - /huerto-urbano/que-plantar-en-octubre-huerto-urbano/
+    - /huerto-urbano/que-plantar-en-octubre-huerto-urbano-cultivos-faciles-para-otono/
+    - /huerto-urbano/que-plantar-octubre-huerto-huerto/
 ---
 
 # Qué plantar en octubre en el huerto urbano: cultivos fáciles para otoño
@@ -118,7 +124,7 @@ Trasplanta al atardecer y riega suave. No aprietes demasiado el sustrato: las ra
 
 En octubre el exceso de riego vuelve a ser peligroso. Ya no hay evaporación de agosto y una maceta puede mantenerse húmeda varios días. Antes de regar, toca el sustrato. Si dudas, espera.
 
-Si ves hojas amarillas y sustrato mojado, revisa la guía de [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar/).
+Si ves hojas amarillas y sustrato mojado, revisa la guía de [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar-plantas/).
 
 ### Mejorar ventilación
 

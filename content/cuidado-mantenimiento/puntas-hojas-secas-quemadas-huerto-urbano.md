@@ -21,6 +21,8 @@ faq:
     a: "El cloro en sí no, pero las sales disueltas (calcio, magnesio, sodio) que lleva el agua del grifo sí se acumulan en el sustrato y pueden quemar las puntas."
   - q: "¿Las puntas secas se pueden recuperar?"
     a: "No. El tejido seco está muerto. Lo que buscas es que las hojas nuevas nazcan sin puntas secas. Si las hojas nuevas salen sanas, vas por buen camino."
+aliases:
+    - /cuidado-mantenimiento/puntas-hojas-secas-quemadas-huerto-urbano/
 ---
 
 ## Puntas marrones: no siempre es lo que parece 🔥

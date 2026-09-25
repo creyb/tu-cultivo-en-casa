@@ -82,7 +82,7 @@ Algunas plagas chupan la savia de las hojas y las dejan amarillas. Los ácaros (
 - Si ves puntitos que se mueven, telarañas finas o insectos blancos diminutos, tienes plaga.
 - Las hojas amarillas por plagas suelen tener un aspecto moteado o punteado, no uniforme.
 
-**Solución:** Jabón potásico (2-3 cucharadas por litro de agua) pulverizado directamente sobre las plagas. Repite cada 3-4 días hasta que desaparezcan. La [guía de plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) tiene los protocolos detallados para cada una.
+**Solución:** Jabón potásico (2-3 cucharadas por litro de agua) pulverizado directamente sobre las plagas. Repite cada 3-4 días hasta que desaparezcan. La [guía de plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) tiene los protocolos detallados para cada una.
 
 ### 5. Envejecimiento natural (no es un problema)
 

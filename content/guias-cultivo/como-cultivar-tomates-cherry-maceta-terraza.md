@@ -32,7 +32,7 @@ Imagina esto: es una tarde calurosa de verano, abres la puerta de tu terraza y t
 
 ![Cosecha de tomates cherry en terraza](/images/tomates-cherry-hero.webp)
 
-Cultivar tomates cherry es, posiblemente, la puerta de entrada perfecta al mundo del huerto urbano. A diferencia de otras variedades de tomate, los cherrys son increíblemente generosos: producen muchísimos frutos en poco espacio y son notablemente más resistentes a las [plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) que los tomates grandes. Además, la diferencia de sabor es abismal; un tomate cherry cultivado en casa tiene una concentración de azúcares y aromas que el supermercado simplemente no puede ofrecer. Si todavía estás decidiendo qué cultivar este mes, echa un vistazo a nuestra [guía de qué plantar en junio en el huerto urbano](/huerto-urbano/que-plantar-junio-huerto-urbano/).
+Cultivar tomates cherry es, posiblemente, la puerta de entrada perfecta al mundo del huerto urbano. A diferencia de otras variedades de tomate, los cherrys son increíblemente generosos: producen muchísimos frutos en poco espacio y son notablemente más resistentes a las [plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) que los tomates grandes. Además, la diferencia de sabor es abismal; un tomate cherry cultivado en casa tiene una concentración de azúcares y aromas que el supermercado simplemente no puede ofrecer. Si todavía estás decidiendo qué cultivar este mes, echa un vistazo a nuestra [guía de qué plantar en junio en el huerto urbano](/huerto-urbano/que-plantar-junio-huerto-urbano/).
 
 Si nunca has plantado nada en tu vida, o si tienes el "don" de marchitar hasta los cactus, no te preocupes. Esta guía ha sido diseñada para llevarte de la mano, desde la elección de la semilla hasta el primer bocado de tu cosecha, asegurándonos de que cada paso sea un éxito. Si te animas con más solanáceas, nuestra [guía de pimientos en maceta](/guias-cultivo/como-cultivar-pimientos-en-maceta/) sigue una lógica muy parecida.
 
@@ -119,7 +119,7 @@ El tomate cherry es muy vigoroso y tiende a sacar ramas laterales en el ángulo 
 
 #### Control de Plagas sin Químicos
 En la terraza, los enemigos más comunes son la mosca blanca y el pulgón. 
-- **Solución Natural:** El jabón potásico y el aceite de Neem son tus mejores aliados. Una mezcla de agua con jabón potásico pulverizada sobre las hojas (por arriba y por abajo) una vez a la semana es suficiente para mantenerlos a raya sin contaminar tus alimentos. Tienes el protocolo completo en nuestra [guía de plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+- **Solución Natural:** El jabón potásico y el aceite de Neem son tus mejores aliados. Una mezcla de agua con jabón potásico pulverizada sobre las hojas (por arriba y por abajo) una vez a la semana es suficiente para mantenerlos a raya sin contaminar tus alimentos. Tienes el protocolo completo en nuestra [guía de plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 ---
 

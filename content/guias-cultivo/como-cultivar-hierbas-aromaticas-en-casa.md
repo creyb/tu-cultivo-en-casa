@@ -25,6 +25,9 @@ faq:
   - q: "¿Las hierbas aromáticas de supermercado sirven para replantar?"
     a: "Depende. Las albahacas de supermercado suelen estar muy compactadas y con raíces dañadas. Funciona mejor con plantines de vivero o semillas propias."
 slug: "como-cultivar-hierbas-aromaticas-en-casa"
+aliases:
+    - /guias-cultivo/como-cultivar-hierbas-aromaticas-albahaca-perejil-y-cilantro/
+    - /guias-cultivo/como-cultivar-hierbas-aromaticas-en-albahaca-perejil-y-cilantro/
 ---
 
 Las hierbas aromáticas son probablemente la mejor puerta de entrada al mundo del huerto urbano. No necesitas mucho espacio, no son exigentes y te dan una recompensa inmediata: hojas frescas para tus platos, directamente de tu terraza o balcón.
@@ -174,7 +177,7 @@ Después de varios años cultivando hierbas en maceta, estos son los errores que
 4. **Sol directo en verano sin protección**: el cilantro y la albahaca pueden quemarse con sol directo intenso de la tarde.
 5. **No rotar siembras**: siembra nueva cada 2-3 semanas para tener cosecha continua.
 
-Si ves que tus hierbas tienen problemas con plagas, consulta nuestra guía sobre [las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) y cómo eliminarlas sin químicos.
+Si ves que tus hierbas tienen problemas con plagas, consulta nuestra guía sobre [las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) y cómo eliminarlas sin químicos.
 
 ---
 

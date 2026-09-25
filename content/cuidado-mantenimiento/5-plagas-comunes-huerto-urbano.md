@@ -12,6 +12,8 @@ cover:
 featured_image: "/images/plagas-huerto-urbano-hero.webp"
 tag: ["plagas", "control-biologico", "pulgones", "mosca-blanca", "prevencion"]
 slug: "5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos"
+aliases:
+    - /cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/
 ---
 
 ## Tus plantas tienen invasores. No entrés en pánico 🌱

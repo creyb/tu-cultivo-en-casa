@@ -193,7 +193,7 @@ Agosto es el pico de plagas en el huerto urbano. Calor, sequedad y plantas estre
 - **Oídio**: El hongo estrella de agosto. Tienes el protocolo en [oidio y mildiu: cómo prevenirlos](/cuidado-mantenimiento/oidio-mildiu-hongos-huerto-como-prevenir/).
 - **Babosas y caracoles**: Más activas tras los riegos.
 
-Para una visión completa, consulta la guía de [5 plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+Para una visión completa, consulta la guía de [5 plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 ## Calendario rápido: qué plantar según tu zona
 

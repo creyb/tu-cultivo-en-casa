@@ -21,6 +21,10 @@ faq:
     a: "Sí, pero no siempre lo mismo. En invierno manda el cultivo resistente; en primavera-verano, los cultivos de fruto."
   - q: "¿Qué cultivos son más seguros para principiantes?"
     a: "Rábanos, lechugas, rúcula, acelgas, perejil, albahaca, tomate cherry y pimiento pequeño son buenas opciones para empezar."
+aliases:
+    - /calendario-de-siembra/
+    - /calendario-de-siembra/marzo/
+    - /huerto-urbano/calendario-siembra-huerto/
 ---
 
 # Calendario de siembra anual para huerto urbano en España

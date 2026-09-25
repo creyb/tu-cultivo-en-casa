@@ -154,7 +154,7 @@ Plantar una especie que las plagas prefieren más que tu cultivo principal, para
 
 ![Primer plano de tagetes (clavel de India) creciendo en una maceta al pie de una tomatera, asociación defensiva clásica del huerto urbano](/images/asociaciones-tagete-maceta.webp)
 
-Para problemas concretos, consulta nuestras guías específicas: [5 plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/), [cómo eliminar pulgones en huerto ecológico](/cuidado-mantenimiento/como-eliminar-pulgones-huerto-ecologico/), [mosca blanca: tratamiento natural](/cuidado-mantenimiento/mosca-blanca-tratamiento-natural-huerto/) y [oídio y mildiu: cómo prevenirlos](/cuidado-mantenimiento/oidio-mildiu-hongos-huerto-como-prevenir/).
+Para problemas concretos, consulta nuestras guías específicas: [5 plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/), [cómo eliminar pulgones en huerto ecológico](/cuidado-mantenimiento/como-eliminar-pulgones-huerto-ecologico/), [mosca blanca: tratamiento natural](/cuidado-mantenimiento/mosca-blanca-tratamiento-natural-huerto/) y [oídio y mildiu: cómo prevenirlos](/cuidado-mantenimiento/oidio-mildiu-hongos-huerto-como-prevenir/).
 
 ## Plan práctico: un huerto de 3 macetas con asociaciones
 

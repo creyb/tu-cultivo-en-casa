@@ -63,7 +63,7 @@ La maceta no es solo un contenedor decorativo. Es el microclima donde vivirán l
 
 - **Pudrición de raíces** por mal drenaje
 - **Deshidratación constante** si la maceta es muy porosa o pequeña
-- **Plagas** que aprovechan los excesos de humedad ([cómo combatirlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/))
+- **Plagas** que aprovechan los excesos de humedad ([cómo combatirlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/))
 - **Espacio desperdiciado** en balcones o terrazas reducidos
 - **Sobrecarga estructural** si usas materiales muy pesados
 

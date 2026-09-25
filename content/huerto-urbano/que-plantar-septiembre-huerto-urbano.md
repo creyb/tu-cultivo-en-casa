@@ -21,6 +21,11 @@ faq:
     a: "Rábanos, rúcula, espinacas, acelgas y canónigos pueden sembrarse directamente en maceta. Las coles suelen ir mejor desde plantel."
   - q: "¿Cuánto hay que regar en septiembre?"
     a: "Menos que en agosto, pero sin descuidarse. Revisa el sustrato con el dedo: si está seco a 3-4 cm, riega."
+aliases:
+    - /que-plantar-septiembre-huerto-urbano/
+    - /huerto-urbano/que-plantar-en-septiembre-huerto-urbano/
+    - /huerto-urbano/que-plantar-septiembre-huerto-huerto-urbano/
+    - /huerto-urbano/septiembre-plantar-sembrar/
 ---
 
 # Qué plantar en septiembre en el huerto urbano: guía para alargar la cosecha
@@ -114,13 +119,13 @@ No arranques todo de golpe. En septiembre muchas tomateras, pimientos y berenjen
 - **Calabacines**: si están agotados o con oídio, mejor retirarlos y liberar espacio.
 - **Aromáticas de verano**: la albahaca puede seguir, pero empieza a preparar perejil, cilantro y cebollino.
 
-Si ves problemas de hojas amarillas o flores que caen, revisa las guías de [hojas amarillas](/cuidado-mantenimiento/hojas-amarillas-huerto-urbano-causas-solucion/) y [caída de flores en tomate y pimiento](/cuidado-mantenimiento/caida-flores-tomate-pimiento-maceta/).
+Si ves problemas de hojas amarillas o flores que caen, revisa las guías de [hojas amarillas](/cuidado-mantenimiento/hojas-amarillas-huerto-urbano-causas-solucion/) y [caída de flores en tomate y pimiento](/cuidado-mantenimiento/por-que-se-caen-flores-tomate-pimiento-maceta/).
 
 ## Tareas clave de septiembre
 
 1. **Renovar sustrato agotado**: quita raíces viejas, añade compost y mezcla perlita si está compactado. La guía de [sustrato compactado](/cuidado-mantenimiento/sustrato-compactado-maceta-no-drena-solucion/) te ayuda a decidir si reutilizar o cambiar.
 2. **Reducir riego progresivamente**: ya no riegues por inercia de agosto. Haz prueba del dedo.
-3. **Revisar plagas**: mosca blanca y pulgón siguen activos con temperaturas suaves. La guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) cubre identificación y tratamiento.
+3. **Revisar plagas**: mosca blanca y pulgón siguen activos con temperaturas suaves. La guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) cubre identificación y tratamiento.
 4. **Sembrar escalonado**: cada 10-15 días, una pequeña tanda de hojas o rábanos.
 
 ## Errores típicos de septiembre

@@ -30,7 +30,7 @@ faq:
 
 Si las plagas de insectos son un problema, los hongos lo son todavía más. Son silenciosos, aparecen de la noche a la mañana y, cuando los detectas, el daño ya está hecho. El oídio y el mildiú son los dos hongos más comunes en el huerto urbano español, y aunque comparten nombre y cierta apariencia, tienen comportamientos muy distintos y requieren tratamientos diferentes.
 
-En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) hablamos brevemente de cómo la humedad y el calor favorecen estos hongos. En este artículo vamos a fondo: cómo diferenciarlos, cómo prevenirlos y, sobre todo, qué hacer cuando ya han aparecido.
+En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) hablamos brevemente de cómo la humedad y el calor favorecen estos hongos. En este artículo vamos a fondo: cómo diferenciarlos, cómo prevenirlos y, sobre todo, qué hacer cuando ya han aparecido.
 
 ![Hojas de planta de huerto con manchas blancas de oídio y zonas amarillentas](/images/oidio-mildiu-huerto-hero.webp)
 

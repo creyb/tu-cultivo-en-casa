@@ -26,7 +26,7 @@ faq:
 
 ## El pulgón: el enemigo número uno de tu huerto urbano 🐛
 
-Si hay una plaga que nos ha quitado el sueño más de una vez en la terraza, esa es la del pulgón. Son diminutos —de 1 a 3 mm— pero su capacidad de reproducción es tan brutal que, si no actúas a tiempo, pueden convertir una planta sana en un desastre pegajoso en cuestión de días. En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) ya te contamos por qué son tan problemáticos; en este artículo vamos a fondo con ellos.
+Si hay una plaga que nos ha quitado el sueño más de una vez en la terraza, esa es la del pulgón. Son diminutos —de 1 a 3 mm— pero su capacidad de reproducción es tan brutal que, si no actúas a tiempo, pueden convertir una planta sana en un desastre pegajoso en cuestión de días. En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) ya te contamos por qué son tan problemáticos; en este artículo vamos a fondo con ellos.
 
 La buena noticia es que, una vez entiendes cómo viven y se reproducen, eliminarlos se vuelve mucho más fácil —y sin necesidad de insecticidas químicos.
 

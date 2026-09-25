@@ -23,6 +23,13 @@ faq:
   - q: "¿Cuánto compost se genera al mes en un piso de 2 personas?"
     a: "Aproximadamente 5-8 kg de compost maduro al mes por persona. Una pareja durante un año genera unos 100-150 kg."
 slug: "compostaje-en-maceta-como-hacer-abono-organico"
+aliases:
+    - /blog/tecnicas-cultivo/fertilizante-casero/
+    - /cuidado-mantenimiento/compostaje-en-maceta-como-como-hacer-abono-organico/
+    - /cuidado-mantenimiento/compostaje-en-maceta-como-abono-organico/
+    - /cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico-en-tu-casa/
+    - /cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organyl/
+    - /cuidado-mantenimiento/compostaje-en-maceta-como-hacon-organico/
 ---
 
 Cada semana, la familia media española tira a la basura casi 1,5 kg de restos orgánicos por persona que podrían convertirse en el mejor abono para sus plantas: cáscaras, posos de café, peladuras, hojas marchitas. Con una compostera de balcón o un vermicompostador de cocina, hasta un piso de 50 m² puede cerrar el ciclo de sus residuos.
@@ -39,7 +46,7 @@ El compost no es solo un "abono gratis": es **un cambio completo en cómo funcio
 
 - **Mejora la estructura del sustrato.** El compost airea la tierra, retiene agua y evita que se compacte. En macetas pequeñas, esto marca la diferencia entre un tomate que pasa sed y uno que aguanta tres días sin riego. Si te interesa este punto, nuestra [guía de riego en huertos urbanos en verano](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) explica cómo un buen sustrato reduce la frecuencia de riego a la mitad.
 - **Aporta nutrientes de liberación lenta.** Libera nitrógeno, fósforo y potasio poco a poco, durante semanas. Tus plantas comen cuando necesitan, no cuando tú las abonas.
-- **Reduce plagas y enfermedades.** Un suelo vivo (microorganismos, hongos beneficiosos, lombrices) compite con los patógenos. Las plantas bien alimentadas con compost son más resistentes a pulgones y hongos, como contamos en [5 plagas comunes del huerto urbano y cómo combatirlas](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+- **Reduce plagas y enfermedades.** Un suelo vivo (microorganismos, hongos beneficiosos, lombrices) compite con los patógenos. Las plantas bien alimentadas con compost son más resistentes a pulgones y hongos, como contamos en [5 plagas comunes del huerto urbano y cómo combatirlas](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 - **Cierra el círculo de residuos.** Tú produces la "basura", tus plantas la comen, la compostera la transforma, y vuelve a tus macetas.
 - **Ahorra dinero.** Un saco de sustrato de calidad cuesta 5-8 €; un kilo de compost casero te sale prácticamente gratis.
 

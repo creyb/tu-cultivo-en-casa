@@ -334,7 +334,7 @@ Un kit de goteo bien mantenido dura 5-7 años sin problemas. Estos son los cuida
 - **En zonas de heladas, vacía las tuberías** en octubre-noviembre: el agua congelada las revienta.
 - **Nada de fertilizantes granulados en el goteo**: taponan goteros. Aplica el abono al sustrato, no al agua.
 
-Un apunte importante: el goteo reduce los hongos y las plagas de humedad, pero no las elimina del todo. Revisa nuestra [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) para prevenirlas y tratarlas a tiempo. Y si te interesa cerrar el círculo del huerto sostenible, en [cómo hacer compostaje en maceta](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) te explicamos cómo aprovechar los restos para alimentar tus plantas.
+Un apunte importante: el goteo reduce los hongos y las plagas de humedad, pero no las elimina del todo. Revisa nuestra [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) para prevenirlas y tratarlas a tiempo. Y si te interesa cerrar el círculo del huerto sostenible, en [cómo hacer compostaje en maceta](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) te explicamos cómo aprovechar los restos para alimentar tus plantas.
 
 ---
 

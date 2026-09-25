@@ -21,6 +21,11 @@ faq:
     a: "Acércalas a una pared, elévalas del suelo, cubre con velo antiheladas por la noche y evita regar al atardecer."
   - q: "¿Cada cuánto se riega en invierno?"
     a: "Mucho menos que en verano. Riega solo cuando el sustrato esté seco a 3-4 cm y evita dejar agua en platos."
+aliases:
+    - /calendario-de-siembra/diciembre/
+    - /calendario-de-siembra/enero/
+    - /calendario-de-siembra/febrero/
+    - /huerto-urbano/huerto-urbano-invierno-que-sembrar/
 ---
 
 # Huerto urbano en invierno: qué hacer, qué sembrar y cómo proteger tus macetas
@@ -94,7 +99,7 @@ Reglas útiles:
 - Comprueba humedad con el dedo.
 - Reduce aún más si hay lluvia o niebla.
 
-Si ves hojas amarillas con sustrato húmedo, probablemente sea [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar/).
+Si ves hojas amarillas con sustrato húmedo, probablemente sea [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar-plantas/).
 
 ## Tareas de mantenimiento de invierno
 

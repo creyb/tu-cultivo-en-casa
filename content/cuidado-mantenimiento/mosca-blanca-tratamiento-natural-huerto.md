@@ -28,7 +28,7 @@ faq:
 
 De todas las plagas que hemos combatido en el huerto urbano, la mosca blanca es la que más paciencia exige. No es la más destructiva —eso se lo dejamos a los pulgones y al mildiú—, pero sí la más persistente. Una colonia bien establecida puede sobrevivir año tras año en una misma terraza, y si no la controlas a tiempo, se convierte en una pesadilla recurrente.
 
-En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) ya te dimos un protocolo básico contra ella; en este artículo vamos a fondo. Vamos a explicarte por qué la mosca blanca es tan difícil de eliminar, cómo saber si la tienes aunque no la veas, y sobre todo, qué hacer para que no vuelva el año que viene.
+En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) ya te dimos un protocolo básico contra ella; en este artículo vamos a fondo. Vamos a explicarte por qué la mosca blanca es tan difícil de eliminar, cómo saber si la tienes aunque no la veas, y sobre todo, qué hacer para que no vuelva el año que viene.
 
 ![Planta de huerto urbano con hojas afectadas por mosca blanca](/images/mosca-blanca-huerto-hero.webp)
 

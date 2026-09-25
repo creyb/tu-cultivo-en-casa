@@ -21,6 +21,8 @@ faq:
     a: "Por encima de 35°C el polen se vuelve estéril y las flores caen sin cuajar. Por debajo de 12°C nocturnas, el cuajado también se resiente."
   - q: "¿El exceso de nitrógeno hace caer las flores?"
     a: "Sí. Demasiado nitrógeno produce mucha hoja verde y pocas flores, y las que salen se caen fácilmente. Equilibra con fósforo y potasio."
+aliases:
+    - /cuidado-mantenimiento/caida-flores-tomate-pimiento-maceta/
 ---
 
 ## Flores que caen sin dar fruto: el drama del verano 🌸

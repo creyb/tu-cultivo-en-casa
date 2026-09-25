@@ -21,6 +21,8 @@ faq:
     a: "Sí, si no tiene enfermedades ni plagas. Mézclalo con un 30% de sustrato nuevo, añade compost o humus de lombriz, y airealo bien antes de replantar."
   - q: "¿Cómo sé si mi sustrato está compactado?"
     a: "Si el agua tarda más de 30 segundos en empezar a drenar por abajo, o si se escurre por los laterales sin empapar el centro, el sustrato está compactado."
+aliases:
+    - /cuidado-mantenimiento/suelo-compactado-en-maceta-no-drena-solucion/
 ---
 
 ## Cuando la tierra se convierte en ladrillo: el sustrato compactado 🧱

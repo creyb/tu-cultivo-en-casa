@@ -116,7 +116,7 @@ Empieza por lo básico y ve ampliando según vayas necesitando. Para un kit de i
 - **Sustrato universal de calidad** con perlita. Tienes la [comparativa de sustratos para huerto urbano](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/) para elegir sin ir a ciegas.
 - **Una regadera de 5-10 L** con roseta fina para no aplastar las plántulas.
 - **Tijeras de podar pequeñas** para cosechar y podar.
-- **Un pulverizador** para tratamientos de plagas ([5 plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/)) y para humidificar hojas en días calurosos.
+- **Un pulverizador** para tratamientos de plagas ([5 plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/)) y para humidificar hojas en días calurosos.
 
 Con eso tienes para una temporada entera. El [riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) y el [compostaje](/cuidado-mantenimiento/compostaje-en-maceta-como-hacer-abono-organico/) vienen en la segunda o tercera temporada, cuando ya sepas qué cultivo quieres mantener.
 

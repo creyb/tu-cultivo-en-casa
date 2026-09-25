@@ -28,7 +28,7 @@ faq:
 
 Después de años cultivando en macetas, hemos llegado a una conclusión: el mejor insecticida del mundo ya vive en tu huerto. Solo necesitas darle la bienvenida. Mariquitas, crisopas, sírfidos, avispas parasitoides... son los aliados invisibles que mantienen a raya a pulgones, mosca blanca, cochinilla y otras plagas sin que te des cuenta.
 
-En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/) hablamos brevemente del control biológico como estrategia. En este artículo vamos mucho más allá: vamos a presentarte a cada uno de estos aliados, explicarte cómo atraerlos, conservarlos y, si hace falta, comprarlos e introducirlos en tu terraza.
+En nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) hablamos brevemente del control biológico como estrategia. En este artículo vamos mucho más allá: vamos a presentarte a cada uno de estos aliados, explicarte cómo atraerlos, conservarlos y, si hace falta, comprarlos e introducirlos en tu terraza.
 
 ![Mariquita sobre una hoja de huerto urbano buscando pulgones](/images/control-biologico-huerto-hero.webp)
 
@@ -153,7 +153,7 @@ El control biológico te obliga a cambiar el chip: de pensar en "eliminar la pla
 - [Cómo eliminar pulgones del huerto urbano](/cuidado-mantenimiento/como-eliminar-pulgones-huerto-ecologico/)
 - [Mosca blanca: cómo identificarla y eliminarla para siempre](/cuidado-mantenimiento/mosca-blanca-tratamiento-natural-huerto/)
 
-Y si quieres identificar antes de combatir, echa un vistazo a nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+Y si quieres identificar antes de combatir, echa un vistazo a nuestra [guía de las 5 plagas más comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 ¿Tienes un insecto beneficioso en tu huerto y no sabes qué es? Cuéntanos en los comentarios —te ayudamos a identificarlo. 🌿
 

@@ -70,7 +70,7 @@ El sustrato debe retener humedad pero drenar bien. Una mezcla sencilla:
 - 20% humus de lombriz o compost maduro.
 - 10% perlita para aireación.
 
-Evita tierra de jardín directa. En maceta se compacta, drena mal y puede provocar [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar/) aunque riegues poco.
+Evita tierra de jardín directa. En maceta se compacta, drena mal y puede provocar [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar-plantas/) aunque riegues poco.
 
 ## Cuándo sembrar lechuga 📅
 
@@ -138,7 +138,7 @@ Truco: haz siembras pequeñas cada 2 semanas. Así tendrás hojas constantes sin
 
 - **Hojas amargas**: calor, falta de agua o planta espigada.
 - **Hojas amarillas**: exceso de riego, falta de nitrógeno o envejecimiento. Revisa la guía de [hojas amarillas](/cuidado-mantenimiento/hojas-amarillas-huerto-urbano-causas-solucion/).
-- **Babosas o caracoles**: más comunes en otoño. Mira la guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+- **Babosas o caracoles**: más comunes en otoño. Mira la guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 - **Crecimiento lento**: poca luz, frío o sustrato pobre.
 
 ## Preguntas frecuentes

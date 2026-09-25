@@ -177,7 +177,7 @@ Las más habituales pueden ser pulgones o algunos insectos del suelo. En huerto 
 - Evita excesos de humedad
 - Revisa las hojas con frecuencia
 
-Para un tratamiento detallado sin químicos, consulta nuestra [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+Para un tratamiento detallado sin químicos, consulta nuestra [guía de las 5 plagas más comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 ## Cuándo cosechar las zanahorias sembradas en mayo
 

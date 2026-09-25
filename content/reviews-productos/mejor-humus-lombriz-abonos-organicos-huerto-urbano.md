@@ -228,7 +228,7 @@ El guano es más potente que el humus. No lo usaríamos como base de sustrato, s
 
 **Para quién lo elegiríamos**
 
-Para quien ya tiene plantas de fruto y quiere algo más orientado a producción que el humus. Si tus tomates echan mucha hoja pero poca flor, revisa también la guía sobre [caída de flores en tomate y pimiento](/cuidado-mantenimiento/caida-flores-tomate-pimiento-maceta/), porque no todo se arregla abonando.
+Para quien ya tiene plantas de fruto y quiere algo más orientado a producción que el humus. Si tus tomates echan mucha hoja pero poca flor, revisa también la guía sobre [caída de flores en tomate y pimiento](/cuidado-mantenimiento/por-que-se-caen-flores-tomate-pimiento-maceta/), porque no todo se arregla abonando.
 
 **Pros**
 

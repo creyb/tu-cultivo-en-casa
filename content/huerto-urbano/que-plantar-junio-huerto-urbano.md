@@ -128,7 +128,7 @@ Aunque mayo es el mes estrella, junio sigue siendo viable para sembrar zanahoria
 
 ### Aromáticas: albahaca, perejil y cilantro
 
-Las aromáticas son compañeras perfectas del huerto urbano en junio. Además de uso culinario, muchas ayudan a [repeler plagas de forma natural](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/). Te explicamos cómo cultivarlas en nuestra [guía de hierbas aromáticas en casa](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/).
+Las aromáticas son compañeras perfectas del huerto urbano en junio. Además de uso culinario, muchas ayudan a [repeler plagas de forma natural](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/). Te explicamos cómo cultivarlas en nuestra [guía de hierbas aromáticas en casa](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/).
 
 - **Albahaca**: Le encanta el calor. Ideal junto a tomates.
 - **Perejil**: Aguanta bien el verano, aunque crece más lento con calor extremo.
@@ -259,7 +259,7 @@ Con el calor y el crecimiento acelerado, las plantas consumen más nutrientes.
 
 ### Control de plagas
 
-Junio trae más plagas que la primavera. El protocolo completo está en [5 plagas comunes del huerto urbano y cómo eliminarlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano/).
+Junio trae más plagas que la primavera. El protocolo completo está en [5 plagas comunes del huerto urbano y cómo eliminarlas sin químicos](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
 - **Pulgón**: Revisa el envés de las hojas; jabón potásico como prevención
 - **Mosca blanca**: Trampas cromáticas amarillas y jabón potásico

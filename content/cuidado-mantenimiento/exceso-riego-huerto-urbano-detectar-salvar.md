@@ -21,6 +21,8 @@ faq:
     a: "Sí. La arcilla es porosa y permite que el agua se evapore por las paredes. Las macetas de plástico retienen toda la humedad dentro, así que hay que regar con más cuidado."
   - q: "¿Cómo sé si la raíz se ha podrido?"
     a: "Saca la planta con cuidado de la maceta. Las raíces sanas son blancas o cremas y firmes. Las podridas son marrones, blandas y se deshacen al tocarlas."
+aliases:
+    - /cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar/
 ---
 
 ## Ahogar plantas por cariño: el error más común del huerto urbano 💧
