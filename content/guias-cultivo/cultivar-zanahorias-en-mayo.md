@@ -1,16 +1,21 @@
 ---
-title: "Cultivar zanahorias en mayo: guía completa para huerto urbano"
+title: "Cuándo sembrar zanahorias en España: calendario por zonas y guía en maceta"
 date: 2026-05-07
+lastmod: 2026-09-26
 draft: false
-summary: "Descubre los secretos para cultivar zanahorias perfectas en mayo. Te explicamos el sustrato ideal, la siembra correcta y los cuidados necesarios para un huerto urbano productivo."
+summary: "Cuándo sembrar zanahorias en España según tu zona (norte, centro, Mediterráneo, sur y Canarias), con calendario mes a mes y la guía completa para cultivarlas en maceta."
 categoria: ["guias-cultivo"]
 cover:
     image: "/images/zanahorias-mayo-hero.webp"
-    title: "Cultivar zanahorias en mayo: guía completa para huerto urbano"
+    title: "Cuándo sembrar zanahorias en España"
     alt: "Sembrar zanahorias en mayo en un huerto urbano"
 featured_image: "/images/zanahorias-mayo-hero.webp"
-tag: ["zanahorias", "calendario-siembra", "mayo", "hortalizas-raices"]
+tag: ["zanahorias", "calendario-siembra", "cuando-sembrar", "mayo", "hortalizas-raices"]
 faq:
+  - q: "¿Cuándo se siembran las zanahorias en España?"
+    a: "En casi toda España hay dos ventanas: primavera (febrero-marzo a junio) y finales de verano-otoño (agosto a octubre). En el sur, el Mediterráneo y Canarias se pueden sembrar casi todo el año salvo en pleno verano; en el interior hay que evitar los meses de heladas."
+  - q: "¿Se pueden sembrar zanahorias en invierno?"
+    a: "Solo donde no hiela: costa mediterránea, sur y Canarias. En el interior y el norte es mejor esperar a marzo o sembrar bajo protección (túnel o invernadero de balcón)."
   - q: "¿Puedo sembrar zanahorias en maceta en mayo?"
     a: "Sí, siempre que la maceta tenga buena profundidad y un sustrato fino."
   - q: "¿Necesitan mucho sol?"
@@ -19,19 +24,41 @@ faq:
     a: "Normalmente entre 10 y 20 días, según temperatura y humedad."
   - q: "¿Se pueden cultivar junto a otras hortalizas?"
     a: "Sí, funcionan bien en asociaciones sencillas, siempre que no compitan demasiado por espacio."
-description: "Aprende cuándo y cómo cultivar zanahorias en mayo en España, con consejos de siembra, riego, sustrato y cosecha en huerto urbano."
+description: "Cuándo sembrar zanahorias en España: calendario por zonas y meses, siembra de primavera y de otoño, y cómo cultivarlas en maceta paso a paso (sustrato, riego, aclareo y cosecha)."
 aliases:
     - /huerto-urbano/cultivar-zanahorias-en-mayo/
     - /huerto-urbano/zanahorias-mayo/
 ---
 
-# Cultivar zanahorias en mayo: guía completa para huerto urbano
+**Respuesta rápida:** en España las zanahorias se siembran en **dos ventanas**: en **primavera** (de febrero-marzo a junio) y a **finales de verano y otoño** (de agosto a octubre). En el sur, la costa mediterránea y Canarias puedes sembrar casi todo el año salvo en pleno julio; en el interior y el norte, evita los meses de heladas. La temperatura de suelo ideal para que germinen está entre **10 y 25 °C** 🥕.
 
-Mayo es un mes muy interesante para **cultivar zanahorias** en el huerto urbano. En muchas zonas de España, la temperatura ya acompaña, los días son más largos y el crecimiento se acelera. Eso sí, la zanahoria tiene sus manías: necesita un sustrato fino, profundo y sin piedras, [riegos constantes y bien planificados](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) y una siembra bien hecha desde el principio.
+La zanahoria tiene sus manías: necesita un sustrato fino, profundo y sin piedras, [riegos constantes y bien planificados](/cuidado-mantenimiento/como-regar-huerto-urbano-verano/) y una siembra bien hecha desde el principio. En esta guía te contamos primero **cuándo sembrar según tu zona** y después cómo cultivarlas paso a paso en maceta o mesa de cultivo, con el ejemplo de la siembra de mayo, que es la que más hemos repetido.
 
-Si quieres lograr zanahorias rectas, dulces y tiernas, este artículo te ayudará a planificar la siembra de mayo con buen criterio. Verás qué variedad elegir, cómo preparar la maceta o mesa de cultivo, cuándo sembrar, cómo aclarar plantones y qué errores evitar.
+![Sembrar zanahorias en un huerto urbano en maceta](/images/zanahorias-mayo-hero.webp)
 
-![Sembrar zanahorias en mayo en un huerto urbano](/images/zanahorias-mayo-hero.webp)
+## Cuándo sembrar zanahorias en España según tu zona 🗺️
+
+España no es un solo clima, así que no hay una única fecha. Esta tabla resume lo que nos funciona en cada zona:
+
+| Zona | Siembra de primavera | Siembra de verano-otoño | Evitar |
+|---|---|---|---|
+| **Norte** (Galicia, Asturias, Cantabria, País Vasco) | Marzo a julio | Agosto a septiembre (costa) | Noviembre a febrero |
+| **Centro e interior** (Madrid, Castilla, Aragón, Extremadura) | Marzo a junio | Agosto a mediados de septiembre | Diciembre a febrero (heladas) y julio en zonas muy calurosas |
+| **Mediterráneo** (Cataluña, Valencia, Murcia, Baleares) | Febrero a mayo | Agosto a noviembre | Julio (el calor seca la semilla antes de germinar) |
+| **Sur** (Andalucía) | Enero a abril | Septiembre a diciembre | Junio a agosto en el interior |
+| **Canarias** | Todo el año, mejor de octubre a abril | — | Semanas de calima o mucho calor |
+
+### Mes a mes, en resumen
+
+- **Enero-febrero**: solo en el sur, la costa mediterránea y Canarias. En el resto, planifica y prepara el sustrato.
+- **Marzo-abril**: arranca la siembra de primavera en casi toda la península.
+- **Mayo-junio**: buena época en el norte y el interior; en el sur, siembra en semisombra o espera al otoño.
+- **Julio**: el mes más difícil. Solo en el norte o con sombreo y riego diario.
+- **Agosto-septiembre**: siembra para cosechar en otoño e invierno. De las mejores ventanas en el Mediterráneo y el sur.
+- **Octubre-noviembre**: todavía vale en el sur, el Mediterráneo y Canarias. Mira qué más puedes sembrar en nuestra guía de [qué plantar en octubre](/huerto-urbano/que-plantar-octubre-huerto-urbano/).
+- **Diciembre**: solo en zonas sin heladas o bajo protección.
+
+💡 Si dudas, fíjate en la temperatura: por debajo de 7-8 °C la semilla apenas germina y por encima de 30 °C se seca antes de nacer. Para ver el resto de cultivos, tienes el [calendario de siembra anual](/huerto-urbano/calendario-siembra-anual-huerto-urbano/).
 
 ## ¿Se pueden sembrar zanahorias en mayo?
 

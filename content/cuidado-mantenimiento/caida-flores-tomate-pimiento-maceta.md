@@ -1,9 +1,10 @@
 ---
-title: "Por qué se caen las flores del tomate y del pimiento en maceta (y cómo evitarlo)"
+title: "Por qué se caen las flores del tomate (y del pimiento): 6 causas y solución"
 date: 2026-07-13
+lastmod: 2026-09-26
 draft: false
-summary: "Las flores del tomate y el pimiento se caen sin cuajar fruto. Te explico las 6 causas principales y qué hacer para que cada flor se convierta en un tomate o pimiento."
-description: "Causas de la caída de flores en tomates y pimientos cultivados en maceta. Temperatura, polinización, riego, nutrientes, estrés y cómo solucionar cada problema."
+summary: "¿Se caen las flores de tu tomatera sin dar fruto? Calor, falta de polinización, exceso de nitrógeno o riego irregular. Las 6 causas y qué hacer con cada una, también en pimientos."
+description: "Por qué se caen las flores del tomate antes de cuajar: calor por encima de 32-35 °C, noches frías, falta de polinización, exceso de nitrógeno o riego irregular. Cómo evitarlo en maceta y en huerto, también en pimientos."
 categoria: ["cuidado-mantenimiento"]
 cover:
     image: "/images/flores-caidas-tomate-pimiento.webp"
@@ -31,7 +32,9 @@ Hay un momento en la vida de todo cultivador de tomates y pimientos en maceta qu
 
 Nos pasó la primera temporada con nuestras tomateras cherry. Flores amarillas preciosas por todas partes, y cero tomates. Durante semanas. Hasta que entendimos que **tener flores no es lo mismo que cuajar fruto**, y que hay varias cosas que pueden impedir que una flor se convierta en tomate o pimiento.
 
-La buena noticia es que casi todas las causas tienen solución. Y una vez que las identificas, el problema desaparece. En esta guía te cuento las 6 razones por las que las flores se caen y qué hacer con cada una.
+La buena noticia es que casi todas las causas tienen solución. Y una vez que las identificas, el problema desaparece. **Respuesta rápida:** las flores del tomate se caen sin cuajar sobre todo por **calor** (más de 32-35 °C de día o noches por encima de 24 °C), **frío nocturno** (menos de 12-13 °C), **falta de polinización**, **exceso de nitrógeno** o **riego irregular**. Perder un 20-30 % de flores es normal; si se caen casi todas, revisa estas causas en ese orden. En el pimiento pasa exactamente lo mismo.
+
+En esta guía te cuento las 6 razones por las que las flores se caen y qué hacer con cada una.
 
 ![Flores amarillas de tomate caídas sobre el sustrato de una maceta en terraza](/images/flores-caidas-tomate-pimiento.webp)
 

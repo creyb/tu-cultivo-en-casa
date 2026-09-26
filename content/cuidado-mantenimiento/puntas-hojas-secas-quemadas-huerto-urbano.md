@@ -1,16 +1,17 @@
 ---
-title: "Puntas de hojas secas o quemadas en el huerto urbano: causas y solución"
+title: "Puntas de las hojas secas o marrones en plantas: 5 causas y solución"
 date: 2026-07-13
+lastmod: 2026-09-26
 draft: false
-summary: "Las puntas de las hojas se secan y parecen quemadas. Te explico las 5 causas más comunes en el huerto urbano y cómo solucionar cada una."
-description: "Por qué se secan las puntas de las hojas en tomates, pimientos y aromáticas cultivados en maceta. Golpe de sol, acumulación de sales, baja humedad, falta de potasio y riego irregular."
+summary: "¿Tus plantas tienen las puntas de las hojas secas, marrones o quemadas? Estas son las 5 causas más comunes, en interior y en maceta, y cómo solucionar cada una."
+description: "Por qué se secan las puntas de las hojas de las plantas (de interior, en maceta o en el huerto): sales del agua del grifo, aire seco, golpe de sol, falta de potasio y riego irregular. Diagnóstico rápido y solución."
 categoria: ["cuidado-mantenimiento"]
 cover:
     image: "/images/puntas-hojas-secas-quemadas.webp"
-    title: "Hojas con puntas secas y quemadas en planta de huerto urbano"
+    title: "Hojas con puntas secas y marrones en una planta en maceta"
     alt: "Detalle de hojas de tomate con puntas marrones y secas en maceta de terraza"
 featured_image: "/images/puntas-hojas-secas-quemadas.webp"
-tag: ["hojas-secas", "puntas-quemadas", "golpe-sol", "sales", "potasio", "huerto-urbano"]
+tag: ["hojas-secas", "puntas-quemadas", "plantas-interior", "golpe-sol", "sales", "potasio", "huerto-urbano"]
 slug: "puntas-hojas-secas-quemadas-huerto-urbano-causas"
 faq:
   - q: "¿Las puntas secas significan que la planta tiene sed?"
@@ -33,7 +34,9 @@ La primera vez que vi puntas secas en mis plantas, pensé que era el sol de juli
 
 Las puntas secas son un síntoma engañoso porque tienen causas muy distintas y la solución de una puede empeorar otra. Por eso es importante diagnosticar bien antes de actuar.
 
-En esta guía te cuento las 5 causas más frecuentes de puntas secas en el huerto urbano y cómo resolver cada una.
+**Respuesta rápida:** si las puntas de las hojas se secan y se ponen marrones, casi siempre es por una de estas cinco cosas: **sales acumuladas** (agua del grifo dura o exceso de abono), **aire seco** (calefacción, aire acondicionado, viento), **golpe de sol**, **falta de potasio** o **riego irregular**. Vale igual para plantas de interior (cintas, calatheas, palmeras, espatifilos) que para tomates, pimientos o aromáticas en maceta.
+
+En esta guía te cuento cómo reconocer cada causa y cómo resolverla, y al final tienes un diagnóstico rápido en cinco preguntas.
 
 ![Detalle de hojas de tomate con puntas marrones y secas en maceta de terraza](/images/puntas-hojas-secas-quemadas.webp)
 
@@ -143,6 +146,19 @@ Si riegas de forma inconsistente — un día mucho, tres días nada, otro día p
 - Establece un **horario de riego regular**. La prueba del dedo (4-5 cm de profundidad) antes de cada riego es infalible.
 - Usa **acolchado** (paja, corteza, mantillo) sobre el sustrato para mantener la humedad estable. 3-5 cm de grosor son suficientes.
 - Si no puedes estar pendiente, un **sistema de riego por goteo** con programador te da la regularidad que la planta necesita. La [comparativa de kits de riego](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) tiene opciones para cada presupuesto.
+
+---
+
+## Puntas secas en plantas de interior 🪴
+
+En casa, el reparto de culpas cambia. Golpe de sol y falta de potasio son raros; lo habitual es esto:
+
+- **Aire seco por calefacción o aire acondicionado.** Es la causa número uno en invierno. Afecta sobre todo a calatheas, marantas, helechos, palmeras (kentia, areca) y cintas.
+- **Sales y cloro del agua del grifo.** Dracenas, cintas y espatifilos son muy sensibles. Si la costra blanca aparece en el borde de la maceta, es esto.
+- **Exceso de riego.** Parece contradictorio, pero raíces encharcadas no absorben agua y las puntas se secan igual. Si el sustrato siempre está húmedo, mira nuestra guía sobre el [exceso de riego](/cuidado-mantenimiento/exceso-riego-huerto-urbano-detectar-salvar-plantas/).
+- **Radiador o ventana con corriente al lado.** Mueve la planta al menos un metro.
+
+✅ Lo que mejor nos funciona en interior: regar con agua reposada o de lluvia, lavar el sustrato con abundante agua cada 2-3 meses y agrupar las plantas lejos de la calefacción.
 
 ---
 

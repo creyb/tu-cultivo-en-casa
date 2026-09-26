@@ -49,7 +49,7 @@ Las guías que tenemos publicadas ahora mismo son estas:
 
 - 🍅 [Cómo cultivar tomates cherry en maceta en tu terraza](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) — la guía más completa de la web para empezar con la familia de las solanáceas. Cubre sustrato, tutorado, riego, plagas y cosecha con experiencia de cuatro temporadas.
 - 🌶️ [Cómo cultivar pimientos en maceta paso a paso](/guias-cultivo/como-cultivar-pimientos-en-maceta/) — morrones, italianos, padrón y picantes. Incluye las variedades que mejor funcionan en maceta pequeña y los trucos para que no se caigan las flores con el calor.
-- 🥕 [Cultivar zanahorias en mayo: guía completa](/guias-cultivo/cultivar-zanahorias-en-mayo/) — la raíz más agradecida para macetas profundas. Si tienes una mesa de cultivo o un balde grande, las zanahorias son el cultivo perfecto para principiantes pacientes.
+- 🥕 [Cuándo sembrar zanahorias en España (y cómo cultivarlas en maceta)](/guias-cultivo/cultivar-zanahorias-en-mayo/) — la raíz más agradecida para macetas profundas. Si tienes una mesa de cultivo o un balde grande, las zanahorias son el cultivo perfecto para principiantes pacientes.
 - 🌿 [Cómo cultivar hierbas aromáticas en casa](/guias-cultivo/como-cultivar-hierbas-aromaticas-en-casa/) — albahaca, perejil y cilantro todo el año. La mejor puerta de entrada al huerto urbano: crecen rápido, ocupan poco y las usas a diario en la cocina.
 - 🥬 [Cómo cultivar lechuga en maceta](/guias-cultivo/como-cultivar-lechuga-en-maceta/) — cultivo fácil, rápido y perfecto para principiantes. Cubre siembra, riego, cosecha hoja a hoja y variedades para cada estación.
 - 🍓 [Cómo cultivar fresas en maceta](/guias-cultivo/como-cultivar-fresas-en-maceta/) — ideal para balcones y jardineras colgantes. Explica variedades remontantes, estolones, riego, sol y cosecha.
@@ -68,7 +68,7 @@ El error más caro del principiante es intentar demasiado a la vez. Tres macetas
 
 3. **Cuando domines el riego, experimenta con pimientos.** Comparten familia botánica con los tomates, así que la mitad del aprendizaje ya está hecho. Los pimientos son más tolerantes al calor y a los errores. Tienes la [guía específica aquí](/guias-cultivo/como-cultivar-pimientos-en-maceta/).
 
-4. **Más adelante, atrévete con raíces o con aromáticas perennes.** Las zanahorias necesitan un sustrato muy fino y maceta profunda, pero son increíblemente agradecidas. Mira la [guía de zanahorias en mayo](/guias-cultivo/cultivar-zanahorias-en-mayo/) para planificar tu primera siembra.
+4. **Más adelante, atrévete con raíces o con aromáticas perennes.** Las zanahorias necesitan un sustrato muy fino y maceta profunda, pero son increíblemente agradecidas. Mira la [guía de cuándo sembrar zanahorias](/guias-cultivo/cultivar-zanahorias-en-mayo/) para planificar tu primera siembra.
 
 ---
 
