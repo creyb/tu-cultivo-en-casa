@@ -128,6 +128,19 @@ Si ves problemas de hojas amarillas o flores que caen, revisa las guías de [hoj
 3. **Revisar plagas**: mosca blanca y pulgón siguen activos con temperaturas suaves. La guía de [plagas comunes](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/) cubre identificación y tratamiento.
 4. **Sembrar escalonado**: cada 10-15 días, una pequeña tanda de hojas o rábanos.
 
+## Lo que te hace falta en septiembre 🛒
+
+Para reiniciar el huerto en otoño basta con lo básico:
+
+- **Semillas de hoja de otoño**: <a href="https://www.amazon.es/s?k=semillas+huerto+oto%C3%B1o+lechuga+rucula+espinacas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Semillas hoja otoño">lechuga, rúcula, espinacas y canónigos</a>. Siembra poco y a menudo.
+- **Bandeja de semillero**: <a href="https://www.amazon.es/s?k=semillero+bandeja+con+tapa&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Bandeja semillero">semillero con tapa</a>. Te permite adelantar lechugas y coles mientras las macetas siguen ocupadas con el verano.
+- **Perlita**: <a href="https://www.amazon.es/s?k=perlita+sustrato+plantas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Perlita">perlita para sustrato</a>. Para airear el sustrato viejo antes de reutilizarlo.
+- **Trampas amarillas**: <a href="https://www.amazon.es/s?k=trampas+amarillas+adhesivas+mosca+blanca&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Trampas amarillas">trampas cromáticas adhesivas</a>. Detectan mosca blanca y pulgón alado antes de que se conviertan en plaga.
+
+Si vas a renovar el sustrato, en la [comparativa de sustratos](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/) y la de [humus de lombriz](/reviews-productos/mejor-humus-lombriz-abonos-organicos-huerto-urbano/) tienes las opciones que hemos analizado.
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
+
 ## Errores típicos de septiembre
 
 - Sembrar tomates o pimientos desde semilla demasiado tarde.

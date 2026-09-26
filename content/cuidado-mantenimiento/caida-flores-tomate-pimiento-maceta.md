@@ -192,6 +192,18 @@ Para más detalles sobre el cultivo de pimientos en maceta, la [guía completa d
 
 ---
 
+## Lo que te ayuda a que cuajen las flores 🛒
+
+Según la causa, estas son las herramientas que más marcan la diferencia:
+
+- **Calor**: <a href="https://www.amazon.es/s?k=malla+sombreo+50+por+ciento&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Malla de sombreo 50%">malla de sombreo del 50%</a>. Baja 3-5 °C la temperatura de la planta en las horas centrales.
+- **Polinización**: <a href="https://www.amazon.es/s?k=polinizador+electrico+tomate&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Polinizador eléctrico">polinizador eléctrico para tomates</a>. Vibra la flor como lo haría un abejorro. Si no quieres comprar nada, un cepillo de dientes eléctrico hace lo mismo.
+- **Exceso de nitrógeno**: <a href="https://www.amazon.es/s?k=abono+tomates+potasio&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Abono tomate alto en potasio">abono para tomates alto en potasio</a>. Cambia el abono de crecimiento por uno de floración y fruto.
+- **Frío nocturno**: <a href="https://www.amazon.es/s?k=manta+termica+proteccion+plantas+heladas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Manta térmica">manta térmica o TNT</a>. Para cubrir las plantas en noches por debajo de 12 °C.
+- **Podredumbre apical**: <a href="https://www.amazon.es/s?k=calcio+foliar+tomate&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Calcio foliar">calcio foliar para tomate</a>. Previene el "culo negro" en los frutos nuevos.
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
+
 ## Preguntas frecuentes
 
 ### ¿Es normal que se caigan algunas flores del tomate?

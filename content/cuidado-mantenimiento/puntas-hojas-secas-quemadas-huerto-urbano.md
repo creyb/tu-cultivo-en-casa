@@ -158,6 +158,18 @@ Si no estás seguro de cuál es la causa, sigue este orden:
 
 ---
 
+## Lo que te ayuda a solucionarlo 🛒
+
+Según la causa que hayas identificado, esto es lo que más se usa:
+
+- **Golpe de sol**: <a href="https://www.amazon.es/s?k=malla+sombreo+50+por+ciento&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Malla de sombreo 50%">malla de sombreo del 50%</a>. Reduce la intensidad del sol en las horas centrales sin dejar a la planta a oscuras.
+- **Falta de potasio**: <a href="https://www.amazon.es/s?k=abono+potasio+plantas+huerto&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Abono rico en potasio">abono rico en potasio</a>. Busca en la etiqueta un NPK con la K (el último número) más alta que la N.
+- **Agua dura o sales**: <a href="https://www.amazon.es/s?k=medidor+tds+agua&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Medidor TDS">medidor TDS de agua</a>. Te dice en segundos cuántas sales lleva el agua del grifo. Por encima de 300-400 ppm, conviene lavar el sustrato con más frecuencia.
+- **Baja humedad**: <a href="https://www.amazon.es/s?k=pulverizador+plantas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Pulverizador">pulverizador de agua</a>. Para humedecer las hojas por la mañana en interior o en terrazas con viento.
+- **Riego irregular**: <a href="https://www.amazon.es/s?k=corteza+de+pino+acolchado&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Corteza de pino">corteza de pino para acolchado</a>. Una capa de 3-5 cm mantiene la humedad del sustrato mucho más estable.
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
+
 ## Qué hacer con las hojas con puntas secas ✂️
 
 - **Daño leve (solo la punta):** Puedes dejar la hoja. Sigue haciendo fotosíntesis con la parte verde.

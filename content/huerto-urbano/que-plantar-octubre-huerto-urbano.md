@@ -82,6 +82,20 @@ La estrategia es sencilla: cultivos de ciclo corto, macetas con buen drenaje y s
 
 Los tiempos son orientativos para maceta en otoño. En el sur y el mediterráneo irán más rápido; en el norte y el interior, más lento.
 
+## Lo que te hace falta en octubre 🛒
+
+No necesitas mucho para el huerto de otoño. Esto es lo que más se usa este mes:
+
+- **Semillas de hoja de invierno**: <a href="https://www.amazon.es/s?k=semillas+huerto+invierno+canonigos+espinacas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Semillas hoja invierno">canónigos, espinacas y lechuga de invierno</a>. Sobres pequeños: con uno tienes para varias siembras escalonadas.
+- **Ajos para plantar**: <a href="https://www.amazon.es/s?k=ajos+para+plantar+huerto&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Ajos para plantar">ajo morado o blanco para siembra</a>. Mejor que los del súper, que a veces vienen tratados para que no broten.
+- **Manta térmica**: <a href="https://www.amazon.es/s?k=manta+termica+proteccion+plantas+heladas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Manta térmica">manta térmica o tela de cultivo</a>. Imprescindible en el centro y en el norte de interior para las primeras heladas.
+- **Pies para macetas**: <a href="https://www.amazon.es/s?k=pies+para+macetas+elevar&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Pies para macetas">pies o tacos para elevar macetas</a>. Evitan que las macetas se encharquen con las lluvias de otoño.
+- **Jabón potásico**: <a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Jabón potásico">jabón potásico ecológico</a>. Para el pulgón de otoño en lechugas, coles y habas.
+
+Para abonar, en la [comparativa de humus de lombriz](/reviews-productos/mejor-humus-lombriz-abonos-organicos-huerto-urbano/) tienes las opciones que hemos analizado.
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
+
 ## Qué sembrar en octubre
 
 ### Rúcula
