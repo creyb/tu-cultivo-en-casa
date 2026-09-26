@@ -1,8 +1,9 @@
 ---
-title: "Qué plantar en julio en el huerto urbano: guía completa para España"
+title: "Qué plantar en julio en el huerto urbano: guía por zonas de España"
 date: 2026-05-27
+lastmod: 2026-09-26
 draft: false
-summary: "Descubre qué hortalizas, verduras y aromáticas puedes plantar en julio en tu huerto urbano. Calendario de siembra adaptado al clima de España con consejos prácticos para el pico del verano."
+summary: "Qué sembrar y plantar en julio en maceta según tu zona de España (norte, centro, Mediterráneo, sur y Canarias), qué no plantar con el calor y cómo proteger el huerto."
 categoria: ["huerto-urbano"]
 cover:
     image: "/images/que-plantar-julio-hero.webp"
@@ -11,6 +12,14 @@ cover:
 featured_image: "/images/que-plantar-julio-hero.webp"
 tag: ["calendario-siembra", "julio", "verano", "hortalizas-verano", "riego"]
 faq:
+  - q: "¿Qué plantar en julio en Galicia y el norte?"
+    a: "Julio es de los mejores meses en el norte: judías verdes, calabacín, pepino, lechugas a pleno sol, rábanos, acelgas, remolacha y zanahorias. Todavía puedes poner tomates de vivero en la primera quincena. Vigila el mildiu y el oídio por la humedad."
+  - q: "¿Qué plantar en julio en Madrid y el centro?"
+    a: "Judías verdes, calabacín, pepino y berenjena de vivero, y lechugas o rábanos solo con sombra. Es buen momento para hacer semilleros de coles y lechugas de invierno a la sombra. Riega al amanecer y acolcha el sustrato."
+  - q: "¿Qué plantar en julio en Cataluña, Valencia o Murcia?"
+    a: "Judías verdes, calabacín, pepino, berenjena y albahaca. Deja lechugas y espinacas para finales de agosto o septiembre, porque espigan con el calor. Aprovecha para hacer semilleros de coles y brócoli."
+  - q: "¿Qué plantar en julio en Andalucía y el sur?"
+    a: "Muy poco al aire libre. Julio en el sur es de mantenimiento: riego, sombreo y cosecha. Haz semilleros de coles y lechugas de invierno a la sombra para trasplantar en septiembre. En la costa aún funcionan judías y calabacín."
   - q: "¿Es demasiado tarde para empezar un huerto urbano en julio?"
     a: "No. Aunque no puedes sembrar cultivos de ciclo largo como tomates desde semilla, sí puedes comprar plantas de vivero y tienes muchos cultivos rápidos: calabacines, pepinos, judías, lechugas con sombra, rábanos y aromáticas."
   - q: "¿Puedo sembrar semillas directamente en julio?"
@@ -23,7 +32,7 @@ faq:
     a: "Sí, pero necesitas macetas grandes (50 cm mínimo), sol directo y riego muy frecuente. Elige variedades enanas."
   - q: "¿Qué cultivos puedo plantar ahora para cosechar en otoño?"
     a: "Calabazas, judías verdes (siembras escalonadas en agosto), lechugas (siembra en septiembre) y rábanos (siembras continuas hasta octubre)."
-description: "Calendario de siembra para julio en huerto urbano en España. Qué plantar, cómo cuidarlo y qué esperar de cada cultivo en el mes más caluroso del verano."
+description: "Qué plantar en julio en España por zonas: Galicia y el norte, Madrid y el centro, Cataluña, Valencia y Murcia, Andalucía y Canarias. Calabacín, pepino, judías, lechugas con sombra, semilleros de coles y cuidados contra el calor."
 slug: "que-plantar-julio-huerto-urbano"
 aliases:
     - /calendario-de-siembra/julio/
@@ -34,6 +43,14 @@ aliases:
 Julio es el mes más duro del año para el huerto urbano en España. El calor aprieta, el sol dura 14-15 horas y el agua se evapora de las macetas en cuestión de horas. Pero también es un mes de grandes posibilidades: muchas hortalizas de verano están en su punto justo ahora, y si eliges bien qué sembrar, puedes tener cosecha hasta bien entrado el otoño.
 
 Hemos cultivado en terrazas con 40 °C y en balcones donde el sol pega de lleno desde las ocho de la mañana. Lo que hemos aprendido es que julio no es un mes para plantar cualquier cosa, sino para plantar lo correcto. En esta guía te contamos exactamente qué funciona en julio, qué no vale la pena intentar y cómo adaptar tu huerto urbano al calor más intenso del año, empezando por [elegir las macetas adecuadas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) para cada cultivo.
+
+> ✅ **Respuesta rápida: qué plantar en julio**
+>
+> - **Siembra directa**: judías verdes, calabacín, pepino, rábanos y lechugas (estas dos, con sombra).
+> - **Desde plantel de vivero**: tomate, pimiento, berenjena, albahaca y calabaza, mejor en la primera quincena.
+> - **En semillero, para el otoño**: coles, brócoli, coliflor, puerros y lechugas de invierno.
+> - **Qué NO plantar**: espinacas, guisantes, habas y ajos.
+> - **Por zonas**: en el norte, julio es casi como mayo y funciona casi todo. En el centro, el Mediterráneo y el sur, la prioridad es proteger del calor y preparar semilleros para agosto y septiembre. [Ver la guía por zonas](#qué-plantar-en-julio-según-tu-zona-).
 
 ## Antes de sembrar: resuelve el riego de julio
 
@@ -225,40 +242,49 @@ Julio trae más plagas que cualquier otro mes. La combinación de calor y sequed
 
 Para un tratamiento detallado, consulta nuestra guía de [plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
-## Calendario rápido: qué plantar según tu zona
+## Qué plantar en julio según tu zona 🗺️
 
-### Zona mediterránea (Cataluña, Comunidad Valenciana, Baleares, Murcia)
+En julio la diferencia entre zonas es enorme. Mientras en A Coruña rondan los 23 °C, en Córdoba se pasan de 40 °C. Esto es lo que nos funciona en cada una; ajústalo a la orientación de tu balcón.
 
-El calor es intenso y la humedad ambiental puede ser baja. Prioriza cultivos resistentes y protege los sensibles.
+### Zona norte: Galicia, Asturias, Cantabria, País Vasco y Navarra
 
-- **Sí**: Calabacines, pepinos, berenjenas, tomates, judías, albahaca
-- **Con protección**: Lechugas (con sombra), rábanos
-- **Riego**: Muy frecuente, dos veces al día en macetas pequeñas
+Julio en el norte es el mes más agradecido del año. Temperaturas suaves, mucha luz y bastante humedad.
 
-### Zona centro (Madrid, Castilla-La Mancha, Castilla y León sur)
+- **Sí**: judías verdes, calabacín, pepino, lechugas a pleno sol, rábanos, acelgas, remolacha y [zanahorias](/guias-cultivo/cultivar-zanahorias-en-mayo/).
+- **Todavía a tiempo**: tomates, pimientos y berenjenas de vivero en la primera quincena, sobre todo en la costa.
+- **Semilleros para otoño**: coles, brócoli, kale y puerros, para trasplantarlos en agosto y septiembre.
+- **Clave**: los hongos. Mildiu en tomates y oídio en calabacines aparecen con la humedad; riega al pie, nunca sobre las hojas, y deja aire entre macetas. En el interior de Ourense y el valle del Ebro el calor ya se parece al del centro.
 
-Gran amplitud térmica: noches frescas, días muy calurosos. El sol pega fuerte.
+### Zona centro: Madrid, Castilla y León, Castilla-La Mancha, Aragón y La Rioja
 
-- **Sí**: Todos los cultivos de verano funcionan bien
-- **Atención**: El riego nocturno aprovecha las noches más frescas
-- **Consejo**: Acolchado obligatorio para evitar que el sustrato se seque
+Días de 35-40 °C y noches frescas. La amplitud térmica ayuda a las plantas a recuperarse cada noche, pero el sustrato se seca en horas.
 
-### Zona norte (Galicia, Asturias, Cantabria, País Vasco, Navarra)
+- **Sí**: judías verdes, calabacín, pepino y berenjena de vivero.
+- **Con sombra**: lechugas y rábanos, con malla del 30-40 % o en el rincón donde da el sol solo por la mañana.
+- **Semilleros para otoño**: coles y lechugas de invierno en un sitio sombreado, para trasplantar a finales de agosto.
+- **Clave**: riega al amanecer y pon acolchado sí o sí. En zonas altas (Soria, Ávila, León, Teruel), julio es como junio en la costa: todavía puedes poner tomates de vivero a principios de mes.
 
-Clima más suave y húmedo. Julio es excelente para casi todo, incluso cultivos que en el sur no funcionarían.
+### Zona mediterránea: Cataluña, Comunidad Valenciana, Murcia y Baleares
 
-- **Sí**: Prácticamente todos los cultivos mencionados
-- **Ventaja**: Lechugas y rábanos aguantan mejor sin sombra
-- **Atención**: Vigila los hongos por la humedad; ventila bien las plantas
+Calor húmedo y noches tropicales, a menudo por encima de 22-24 °C. Es el clima que más cuesta a los tomates.
 
-### Zona sur (Andalucía, Extremadura)
+- **Sí**: judías verdes, calabacín, pepino, berenjena y albahaca.
+- **Espera**: lechugas y espinacas. Espigan enseguida; mejor sembrarlas a finales de agosto o en septiembre.
+- **Semilleros para otoño**: coles, brócoli y coliflor, en interior o a la sombra.
+- **Clave**: con noches tan cálidas es normal que la tomatera deje de cuajar durante unas semanas. Es un problema de temperatura, no de cuidados; lo explicamos en [por qué se caen las flores del tomate](/cuidado-mantenimiento/por-que-se-caen-flores-tomate-pimiento-maceta/). En Murcia y el sur de Alicante el calor es ya como el de Andalucía.
 
-El calor más intenso de España. Necesitas estrategia y protección.
+### Zona sur: Andalucía y Extremadura
 
-- **Sí**: Calabacines, pepinos, berenjenas (les va bien el calor), tomates (con sombra parcial)
-- **Con protección obligatoria**: Lechugas, rábanos, cilantro
-- **Riego**: Dos veces al día en macetas pequeñas; malla de sombreo del 50%
-- **Consejo**: Si puedes, coloca las macetas en un rincón que reciba sol por la mañana y sombra por la tarde
+El mes más duro del año, con máximas de 40-44 °C en Sevilla, Córdoba, Jaén o Badajoz. Julio aquí es de mantenimiento, no de siembra.
+
+- **Sí**: poco al aire libre. Judías y calabacín solo en la costa (Málaga, Cádiz, Almería) y con riego diario.
+- **Semilleros para otoño**: coles, brócoli y lechugas de invierno bajo sombra, para trasplantar en septiembre.
+- **Evita**: sembrar hoja al sol, trasplantar en las horas centrales y abonar con calor extremo.
+- **Clave**: malla de sombreo del 50 %, riego dos veces al día en macetas pequeñas y macetas claras o forradas para que el sol no cueza las raíces.
+
+### Canarias
+
+En Canarias julio es mucho más llevadero. En la costa norte y las medianías puedes seguir sembrando casi de todo, incluidas lechugas. En el sur de las islas manda el calor y el viento: sombreo y cortavientos.
 
 ## Asociaciones favorables para julio
 
@@ -291,6 +317,22 @@ Evita plantar juntas:
 8. **Olvadar el riego en vacaciones**: Un huerto sin riego en julio no sobrevive
 
 ## Preguntas frecuentes
+
+### ¿Qué plantar en julio en Galicia y el norte?
+
+Julio es de los mejores meses en el norte: judías verdes, calabacín, pepino, lechugas a pleno sol, rábanos, acelgas, remolacha y zanahorias. Todavía puedes poner tomates de vivero en la primera quincena. Vigila el mildiu y el oídio por la humedad.
+
+### ¿Qué plantar en julio en Madrid y el centro?
+
+Judías verdes, calabacín, pepino y berenjena de vivero, y lechugas o rábanos solo con sombra. Es buen momento para hacer semilleros de coles y lechugas de invierno a la sombra. Riega al amanecer y acolcha el sustrato.
+
+### ¿Qué plantar en julio en Cataluña, Valencia o Murcia?
+
+Judías verdes, calabacín, pepino, berenjena y albahaca. Deja lechugas y espinacas para finales de agosto o septiembre, porque espigan con el calor. Aprovecha para hacer semilleros de coles y brócoli.
+
+### ¿Qué plantar en julio en Andalucía y el sur?
+
+Muy poco al aire libre. Julio en el sur es de mantenimiento: riego, sombreo y cosecha. Haz semilleros de coles y lechugas de invierno a la sombra para trasplantar en septiembre. En la costa aún funcionan judías y calabacín.
 
 ### ¿Es demasiado tarde para empezar un huerto urbano en julio?
 

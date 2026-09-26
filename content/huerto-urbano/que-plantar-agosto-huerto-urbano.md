@@ -1,8 +1,9 @@
 ---
-title: "Qué plantar en agosto en el huerto urbano: guía completa para España"
+title: "Qué plantar en agosto en el huerto urbano: guía por zonas de España"
 date: 2026-06-27
+lastmod: 2026-09-26
 draft: false
-summary: "Descubre qué hortalizas, verduras y aromáticas plantar en agosto en tu huerto urbano. Calendario de siembra de finales de verano y planificación de otoño adaptado al clima de España."
+summary: "Qué sembrar en agosto en maceta según tu zona de España (norte, centro, Mediterráneo, sur y Canarias) para tener huerto en otoño e invierno, y cómo cuidar lo que está en producción."
 categoria: ["huerto-urbano"]
 cover:
     image: "/images/que-plantar-agosto-hero.webp"
@@ -11,6 +12,14 @@ cover:
 featured_image: "/images/que-plantar-agosto-hero.webp"
 tag: ["calendario-siembra", "agosto", "verano", "hortalizas-verano", "planificacion"]
 faq:
+  - q: "¿Qué plantar en agosto en Galicia y el norte?"
+    a: "Agosto es el mes clave en el norte: lechugas de invierno, acelgas, rábanos, remolacha, zanahorias y judías hasta el día 10, y trasplante de coles, brócoli, kale y puerros. A finales de mes, espinacas y canónigos."
+  - q: "¿Qué plantar en agosto en Madrid y el centro?"
+    a: "Semilleros de lechugas, coles y acelgas a la sombra, y rábanos y zanahorias en siembra directa. A finales de mes, espinacas y trasplante de coles. En zonas altas es la última ventana antes de las heladas de octubre."
+  - q: "¿Qué plantar en agosto en Cataluña, Valencia o Murcia?"
+    a: "Semilleros de coles, brócoli y coliflor, acelgas, judías hasta mediados de mes y rábanos con sombra. Lechugas y zanahorias a finales de agosto; espinacas y canónigos, mejor en septiembre."
+  - q: "¿Qué plantar en agosto en Andalucía y el sur?"
+    a: "Sobre todo semilleros a la sombra de coles, brócoli y lechugas de invierno para trasplantar en septiembre u octubre. La siembra directa de hoja sale mejor cuando las máximas bajan de 30 °C."
   - q: "¿Es demasiado tarde para empezar un huerto en agosto?"
     a: "No. Agosto es un mes perfecto para empezar, sobre todo si buscas cosecha de otoño e invierno."
   - q: "¿Puedo sembrar semillas directamente en agosto?"
@@ -23,7 +32,7 @@ faq:
     a: "A lo largo de agosto. Las coles estarán listas para trasplante; las lechugas de invierno, hacia finales de mes."
   - q: "¿Es buen mes para empezar a cultivar aromáticas?"
     a: "Sí, sobre todo perejil y cilantro, que prefieren temperaturas más suaves. La albahaca se resiente en pleno agosto."
-description: "Calendario de siembra para agosto en huerto urbano en España. Qué plantar en el mes de transición entre verano y otoño, con siembra de coles, lechugas de invierno y últimas cosechas de verano."
+description: "Qué plantar en agosto en España por zonas: Galicia y el norte, Madrid y el centro, Cataluña, Valencia y Murcia, Andalucía y Canarias. Lechugas de invierno, coles, acelgas, espinacas y rábanos, con cuidados para el calor."
 slug: "que-plantar-agosto-huerto-urbano"
 ---
 
@@ -34,6 +43,14 @@ Agosto es el mes de las dos caras del huerto urbano. Por un lado, recoges los to
 La mayoría de la gente llega a agosto agotada — del calor, de las vacaciones, del riego constante — y se olvida de sembrar. Es un error que cometimos los primeros años. Ahora sabemos que agosto es, junto con [junio](/huerto-urbano/que-plantar-junio-huerto-urbano/) y [julio](/huerto-urbano/que-plantar-julio-huerto-urbano/), uno de los tres meses clave del verano para planificar el huerto de los meses siguientes. Si lo haces bien, en septiembre tendrás plántulas listas para transplantar y un [calendario de cosecha](/huerto-urbano/calendario-siembra-anual-huerto-urbano/) que se extiende hasta bien entrado el invierno.
 
 En esta guía te contamos qué sembrar en maceta durante agosto, qué trasplantar para el otoño, qué hacer con lo que ya está en producción y cómo preparar el huerto para los meses más suaves que están al llegar. Y si todavía no tienes claras las macetas en las que sembrar, echa un vistazo a nuestra [comparativa de las mejores macetas para huerto urbano](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/).
+
+> ✅ **Respuesta rápida: qué plantar en agosto**
+>
+> - **Siembra directa**: rábanos, acelgas, zanahorias, remolacha, judías verdes (hasta mediados de mes) y lechugas con sombra.
+> - **Desde plantel o semillero**: coles, brócoli, coliflor, kale, puerros y lechugas de invierno.
+> - **A finales de mes**: espinacas y canónigos, cuando refresquen las noches.
+> - **Qué NO plantar**: tomate, pimiento, berenjena, sandía o melón desde cero.
+> - **Por zonas**: en el norte y en las zonas altas del centro, agosto es la última gran ventana para el huerto de invierno. En el Mediterráneo y el sur, haz semilleros ahora y siembra en septiembre. [Ver la guía por zonas](#qué-plantar-en-agosto-según-tu-zona-).
 
 ## Dos decisiones que evitan perder el huerto en agosto
 
@@ -195,32 +212,49 @@ Agosto es el pico de plagas en el huerto urbano. Calor, sequedad y plantas estre
 
 Para una visión completa, consulta la guía de [5 plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
-## Calendario rápido: qué plantar según tu zona
+## Qué plantar en agosto según tu zona 🗺️
 
-### Zona mediterránea (Cataluña, C. Valenciana, Baleares, Murcia)
+En agosto el reloj de cada zona va a un ritmo distinto. En el norte ya toca sembrar el invierno; en el sur, todavía toca proteger del calor. Así lo organizamos nosotros.
 
-- **Sí**: Lechugas de invierno (con sombra), acelgas, espinacas (a finales de mes), rábanos, judías (hasta el 15 de agosto), coles (trasplante).
-- **No**: Sandía, melón, espinacas durante la primera quincena.
-- **Riego**: Dos veces al día en macetas pequeñas, sin falta.
+### Zona norte: Galicia, Asturias, Cantabria, País Vasco y Navarra
 
-### Zona centro (Madrid, C. La Mancha, sur de C. y León)
+Para el norte, agosto es el mes clave del huerto de otoño. Lo que no siembres ahora crecerá muy despacio con la poca luz de noviembre.
 
-- **Sí**: Prácticamente todo lo de la lista.
-- **Ventaja**: Las noches refrescan antes que en la costa, así que los semilleros germinan mejor.
-- **Riego**: Diario, aprovechando las horas frescas.
+- **Sí**: lechugas de invierno, acelgas, rábanos, remolacha, [zanahorias](/guias-cultivo/cultivar-zanahorias-en-mayo/) (primera quincena) y judías verdes hasta el día 10 más o menos.
+- **Trasplanta**: coles, brócoli, kale y puerros de semillero o de vivero.
+- **A finales de mes**: espinacas y canónigos.
+- **Clave**: la humedad. Es el mes del mildiu en las tomateras; retira las hojas bajas con manchas y no mojes el follaje. Vigila también las babosas en los semilleros.
 
-### Zona norte (Galicia, Asturias, Cantabria, País Vasco, Navarra)
+### Zona centro: Madrid, Castilla y León, Castilla-La Mancha, Aragón y La Rioja
 
-- **Sí**: Toda la lista, incluida espinacas y lechugas a pleno sol.
-- **Ventaja**: El calor no es extremo, así que los semilleros no necesitan tanta protección.
-- **Atención**: Vigila los hongos por la humedad ambiental.
+La primera quincena sigue siendo de calor fuerte, pero las noches empiezan a refrescar antes que en la costa.
 
-### Zona sur (Andalucía, Extremadura)
+- **Sí**: semilleros de lechugas, coles y acelgas a la sombra; rábanos y zanahorias en siembra directa.
+- **A finales de mes**: espinacas, canónigos y trasplante de coles.
+- **Zonas altas** (Burgos, Soria, León, Ávila, Teruel): agosto es la última oportunidad para coles y lechugas de invierno, porque las heladas pueden llegar a mediados de octubre.
+- **Clave**: semillero a la sombra y riego de madrugada. Una bandeja con tapa en un rincón fresco de casa adelanta las lechugas mientras fuera hace 38 °C.
 
-- **Sí**: Lechugas con malla de sombreo, acelgas, rábanos, coles (trasplante).
-- **Con protección obligatoria**: Espinacas (espera a septiembre), lechugas.
-- **Riego**: Dos veces al día sin falta. Acolchado imprescindible.
-- **Consejo**: Siembra a finales de mes, cuando empiecen a bajar las temperaturas.
+### Zona mediterránea: Cataluña, Comunidad Valenciana, Murcia y Baleares
+
+Noches todavía cálidas y mucha humedad. Aquí el huerto de otoño se prepara en agosto y se siembra en septiembre.
+
+- **Sí**: semilleros de coles, brócoli y coliflor; acelgas; judías hasta el día 15; rábanos con algo de sombra.
+- **A finales de mes**: lechugas y zanahorias.
+- **Espera a septiembre**: espinacas y canónigos.
+- **Clave**: la mosca blanca está en su pico con este calor húmedo; pon trampas amarillas. Y revisa el drenaje antes de las primeras tormentas de finales de verano.
+
+### Zona sur: Andalucía y Extremadura
+
+Agosto sigue siendo pleno verano. La siembra directa casi siempre sale mejor en septiembre.
+
+- **Sí**: semilleros de coles, brócoli y lechugas de invierno bajo sombra, para trasplantar en septiembre-octubre.
+- **Con protección**: rábanos y acelgas, con malla de sombreo.
+- **Espera**: espinacas, canónigos y lechugas al aire libre, hasta que las máximas bajen de 30 °C.
+- **Clave**: en la costa (Málaga, Cádiz, Almería, Huelva) puedes adelantarte un par de semanas respecto al interior.
+
+### Canarias
+
+En Canarias agosto es un buen mes para empezar hoja y raíz en la costa norte y en las medianías: lechugas, acelgas, zanahorias, remolacha y coles. En el sur, espera a septiembre o siembra con sombra.
 
 ## Errores frecuentes en agosto
 
@@ -232,6 +266,22 @@ Para una visión completa, consulta la guía de [5 plagas comunes del huerto urb
 6. **No cosechar los cultivos de verano**: Si dejas tomates y calabacines madurarse demasiado, la planta frena la producción.
 
 ## Preguntas frecuentes
+
+### ¿Qué plantar en agosto en Galicia y el norte?
+
+Agosto es el mes clave en el norte: lechugas de invierno, acelgas, rábanos, remolacha, zanahorias y judías hasta el día 10, y trasplante de coles, brócoli, kale y puerros. A finales de mes, espinacas y canónigos.
+
+### ¿Qué plantar en agosto en Madrid y el centro?
+
+Semilleros de lechugas, coles y acelgas a la sombra, y rábanos y zanahorias en siembra directa. A finales de mes, espinacas y trasplante de coles. En zonas altas es la última ventana antes de las heladas de octubre.
+
+### ¿Qué plantar en agosto en Cataluña, Valencia o Murcia?
+
+Semilleros de coles, brócoli y coliflor, acelgas, judías hasta mediados de mes y rábanos con sombra. Lechugas y zanahorias a finales de agosto; espinacas y canónigos, mejor en septiembre.
+
+### ¿Qué plantar en agosto en Andalucía y el sur?
+
+Sobre todo semilleros a la sombra de coles, brócoli y lechugas de invierno para trasplantar en septiembre u octubre. La siembra directa de hoja sale mejor cuando las máximas bajan de 30 °C.
 
 ### ¿Es demasiado tarde para empezar un huerto en agosto?
 
