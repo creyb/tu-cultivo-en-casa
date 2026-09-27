@@ -1,9 +1,10 @@
 ---
 title: "Mejor sustrato para huerto urbano 2026: comparativa con 4 opciones según datos de Amazon"
 date: 2026-07-04
+lastmod: 2026-09-27
 draft: false
-summary: "Comparativa de 4 sustratos para huerto urbano en maceta según precio actual, composición declarada, rating y número de reviews en Amazon España. COMPO SANA, Flower, GREENGOF coco y COMPO BIO."
-description: "Análisis comparativo de 4 sustratos populares para huerto urbano en maceta según precio, composición, rating y reviews visibles en Amazon España. Datos actualizados julio 2026."
+summary: "Comparativa de 4 sustratos para huerto urbano en maceta según composición declarada, formato, gama de precio y uso en maceta. COMPO SANA, Flower, GREENGOF coco y COMPO BIO."
+description: "Análisis comparativo de 4 sustratos populares para huerto urbano en maceta según composición, formato, precio por litro y uso real en maceta."
 categoria: ["reviews-productos"]
 cover:
     image: "/images/sustrato-huerto-hero.webp"
@@ -36,9 +37,9 @@ slug: "mejor-sustrato-huerto-urbano-comparativa"
 
 ﻿El error más común al empezar un huerto urbano es elegir el **sustrato** solo por precio. Se va a lo más barato, se llena la maceta, se planta, y a las pocas semanas la planta lo pasa mal: agua que no drena, raíces que se compactan, nutrientes que se agotan rápido. En maceta, el sustrato no es un complemento, es prácticamente todo.
 
-En esta comparativa **he analizado 4 sustratos populares del mercado español** disponibles en Amazon España. Para cada uno revisé cuatro cosas: composición declarada por el fabricante, precio actual, rating y número de reviews visibles. Los datos están actualizados a 4 de julio de 2026. Los precios y la disponibilidad pueden variar; te recomiendo revisarlos en el momento de comprar.
+En esta comparativa **he analizado 4 sustratos populares del mercado español** disponibles en Amazon España. Para cada uno revisé la composición declarada por el fabricante, el formato y el precio por litro, a 4 de julio de 2026. Precio y disponibilidad cambian: revísalos en el momento de comprar.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, composición declarada, rating y reviews visibles), **no en pruebas propias**. No hemos comprado ni testado estos productos; el análisis es informativo, no experimental.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en la ficha de producto y la composición declarada, **no en pruebas propias**. No hemos comprado ni testado estos productos; el análisis es informativo, no experimental.
 
 ![Trasiego de sustrato desde saco a maceta de terracota](/images/sustrato-huerto-hero.webp)
 
@@ -83,120 +84,86 @@ He seleccionado 4 productos representativos de las categorías más habituales: 
 
 ### 1. COMPO SANA Universal 10 L: el universal más vendido 🏆
 
-- **Precio**: 4,79 € (10 L) → 0,48 €/L
-- **Rating**: 4,6 / 5
-- **Reviews visibles**: 3.133
-- **Composición declarada**: turba, perlita, fertilizante de arranque con suministro de nutrientes para 8 semanas; pH 5,0-6,5.
-- **Ecológico**: no
-- **Categoría**: universal polivalente
+COMPO es una marca alemana con décadas en el sector. Su SANA Universal es uno de los sustratos más vendidos y fáciles de encontrar en España.
 
-COMPO es una marca alemana con décadas en el sector. Su SANA Universal es, con mucha diferencia, el sustrato con más reviews positivas de Amazon España en la categoría, y aparece como **"Opción Amazon"** para "sustrato huerto urbano", lo que indica alta rotación y buena satisfacción.
-
-**A favor (según reviews y ficha):**
-- Precio por litro muy bajo y disponibilidad inmediata
-- Fertilizante de arranque que cubre las primeras 8 semanas
-- pH en el rango óptimo para la mayoría de hortalizas (5,0-6,5)
-- Más de 3.000 reviews visibles y un rating agregado alto
-
-**En contra (según reviews y composición):**
-- No es apto para plantas pantanosas, semillas ni orquídeas (lo dice el propio fabricante)
-- Lleva turba como base, no es la opción más sostenible
-- A partir de la semana 8 hay que complementar abonado en cultivos productivos (tomate, pimiento, calabacín)
-
-> 🔍 **Nuestra recomendación**: <a href="https://www.amazon.es/dp/B00UCCLC1W?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver COMPO SANA Universal 10 L en Amazon</a>
+{{< producto
+    nombre="COMPO SANA Universal 10 L"
+    url="https://www.amazon.es/dp/B00UCCLC1W?tag=tucultivo-21"
+    etiqueta="El universal de confianza"
+    emoji="🏆"
+    resumen="Para empezar sin complicarse: un universal polivalente, fácil de encontrar, que sirve para casi todo lo que vas a cultivar en maceta."
+    datos="Saco de 10 L|Turba y perlita|Abono de arranque para 8 semanas|pH 5,0-6,5"
+    precio="€€ / litro"
+    pros="Barato y fácil de encontrar|Fertilizante de arranque para las primeras 8 semanas|pH en el rango óptimo para la mayoría de hortalizas|Marca con décadas en el sector"
+    contras="No apto para plantas pantanosas, semillas ni orquídeas (lo dice el fabricante)|Lleva turba: no es la opción más sostenible|A partir de la semana 8 hay que abonar los cultivos productivos"
+    boton="Ver COMPO SANA 10 L en Amazon" >}}
 
 ---
 
 ### 2. Flower Sustrato Huerto Urbano Ecológico 20 L: el específico para huerto
 
-- **Precio**: 6,95 € (20 L) → 0,35 €/L
-- **Rating**: 4,5 / 5
-- **Reviews visibles**: 687
-- **Composición declarada**: guano, materia orgánica, fibra de coco, compost vegetal, perlita.
-- **Ecológico**: sí (enriquecido con guano y materia orgánica, sin abonos químicos de síntesis)
-- **Categoría**: específico para huerto
-
 Flower es una marca española con buen catálogo de jardinería. Este sustrato es de los pocos formulados explícitamente para cultivar hortalizas en maceta. Lleva guano (abono natural fuerte) y fibra de coco, lo que le da un plus de nutrientes y mejor drenaje que un universal genérico.
 
-**A favor (según reviews y ficha):**
-- Mejor precio por litro de los 4 (0,35 €/L)
-- Formulación específica para hortícolas en maceta
-- Lleva guano: arranque con más nutrientes que un universal estándar
-- 200+ unidades compradas el mes pasado en Amazon (alta rotación)
-
-**En contra (según reviews y composición):**
-- Aunque se llama "ecológico", no siempre está certificado para agricultura ecológica bajo el Reglamento CE 834/2007 (el guano sí lo es, pero depende del resto de componentes)
-- El saco de 20 L es voluminoso y no cabe en todos los ascensores
-- Por el guano, puede oler fuerte las primeras semanas (mejora con el riego)
-
-> 🔍 **Nuestra recomendación**: <a href="https://www.amazon.es/dp/B01HTVOYLI?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver Flower Sustrato Huerto Urbano 20 L en Amazon</a>
+{{< producto
+    nombre="Flower Sustrato Huerto Urbano Ecológico 20 L"
+    url="https://www.amazon.es/dp/B01HTVOYLI?tag=tucultivo-21"
+    etiqueta="El específico para huerto"
+    emoji="🍅"
+    resumen="Para quien cultiva hortalizas en maceta y quiere un sustrato formulado para ello, con más nutrientes y mejor drenaje que un universal."
+    datos="Saco de 20 L|Guano, coco, compost y perlita|Sin abonos químicos de síntesis"
+    precio="€ / litro"
+    pros="El más barato por litro de los sustratos completos|Formulado para hortícolas en maceta|El guano da un arranque con más nutrientes"
+    contras="Se llama ecológico, pero no siempre tiene certificación completa|El saco de 20 L es voluminoso|Por el guano puede oler fuerte las primeras semanas"
+    boton="Ver Flower Huerto Urbano 20 L en Amazon" >}}
 
 ---
 
 ### 3. GREENGOF Fibra de Coco 5 Kg (70 L): el complemento sostenible
 
-- **Precio**: 18,99 € (bloque 5 kg → 70 L una vez hidratado) → 0,27 €/L
-- **Rating**: 4,8 / 5
-- **Reviews visibles**: 22
-- **Composición declarada**: 100% fibra de coco orgánica, pH ligeramente ácido, baja salinidad.
-- **Ecológico**: sí (100% natural, sin aditivos químicos)
-- **Categoría**: componente / complemento
+La fibra de coco no es un sustrato "completo" en sí mismo: es un componente. Un bloque de 5 kg se hidrata y se convierte en 70 litros de coco suelto, listo para mezclar con otros sustratos o usar como base para semilleros. GREENGOF es una de las marcas de coco puro más fáciles de encontrar en Amazon España.
 
-La fibra de coco no es un sustrato "completo" en sí mismo: es un componente. Un bloque de 5 kg se hidrata y se convierte en 70 litros de coco suelto, listo para mezclar con otros sustratos o usar como base para semilleros. GREENGOF es la marca con mejor rating entre las opciones de coco puro en Amazon España.
-
-**A favor (según reviews y ficha):**
-- Producto más sostenible: subproducto de la industria del coco, no usa turba
-- Excelente retención de agua sin encharcar
-- Una vez hidratado, el rendimiento es muy alto (5 kg → 70 L)
-- pH ligeramente ácido, ideal para plantas acidófilas (fresas, arándanos, hortensias)
-- Sin riesgo de patógenos o semillas de adventicias (la fibra de coco se procesa a alta temperatura)
-
-**En contra (según reviews y composición):**
-- Solo, no sirve: carece de nutrientes, hay que añadir compost o fertilizante
-- Requiere hidratación previa (30-60 min en agua) antes de usar
-- El bloque comprimido es pesado (5 kg), y al hidratarlo se necesita un cubo grande
-- Pocas reviews todavía (22), así que hay menos opiniones para contrastar que en los otros tres
-
-> 🔍 **Nuestra recomendación**: <a href="https://www.amazon.es/dp/B0CJZ2MNB2?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver GREENGOF Fibra de Coco 5 Kg en Amazon</a>
+{{< producto
+    nombre="GREENGOF Fibra de Coco 5 kg (70 L)"
+    url="https://www.amazon.es/dp/B0CJZ2MNB2?tag=tucultivo-21"
+    etiqueta="El complemento sostenible"
+    emoji="🥥"
+    resumen="Para mezclar con otros sustratos o usar en semilleros. No es un sustrato completo: es un componente que aligera y retiene agua sin encharcar."
+    datos="Bloque de 5 kg → 70 L|100 % fibra de coco|pH ligeramente ácido"
+    precio="€ / litro"
+    pros="Sin turba: subproducto de la industria del coco|Retiene agua sin encharcar|Rinde mucho: 5 kg se convierten en 70 L|Ideal para acidófilas como fresas o arándanos"
+    contras="Solo no sirve: no tiene nutrientes|Hay que hidratarlo 30-60 minutos antes de usarlo|El bloque pesa y necesitas un cubo grande para hidratarlo"
+    boton="Ver GREENGOF Fibra de Coco en Amazon" >}}
 
 ---
 
 ### 4. COMPO BIO Huerto Urbano 5 L: el ecológico certificado
 
-- **Precio**: 2,99 € (5 L) → 0,60 €/L
-- **Rating**: 4,6 / 5
-- **Reviews visibles**: 519
-- **Composición declarada**: compost vegetal, fibra de madera, corteza compostada, fibra de coco, guano, harina de cuerno. **Sin turba. Apto para agricultura ecológica (Reglamento CE 834/2007 y 889/2008).**
-- **Ecológico**: sí (certificado)
-- **Categoría**: premium ecológico
-
 El COMPO BIO es, junto con el Flower, la mejor opción si buscas un sustrato formulado específicamente para huerto. La diferencia clave es que **el COMPO BIO está certificado para agricultura ecológica**, mientras que el Flower lleva guano pero no siempre certificación completa. También **no lleva turba**, lo que lo hace más sostenible.
 
-**A favor (según reviews y ficha):**
-- **Certificado para agricultura ecológica** (poco habitual en Amazon España)
-- Sin turba, 100% materiales vegetales compostados
-- Suministro de nutrientes declarado: 3 semanas en tomateras, 6-8 semanas en aromáticas, 4-6 semanas en frutales
-- Marca de confianza (COMPO) con cientos de reviews
-
-**En contra (según reviews y composición):**
-- Formato pequeño (5 L) a un precio por litro alto (0,60 €/L); para llenar varias macetas grandes sale caro
-- Apto para todo el año, pero los nutrientes se agotan antes en plantas muy productivas (calabacín, sandía)
-- Al ser sin turba, la retención de agua es algo menor: hay que vigilar el riego en pleno julio
-
-> 🔍 **Nuestra recomendación**: <a href="https://www.amazon.es/dp/B0C4LBCRKG?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver COMPO BIO Huerto Urbano 5 L en Amazon</a>
+{{< producto
+    nombre="COMPO BIO Huerto Urbano 5 L"
+    url="https://www.amazon.es/dp/B0C4LBCRKG?tag=tucultivo-21"
+    etiqueta="Ecológico certificado"
+    emoji="🌿"
+    resumen="Para quien quiere un sustrato de huerto certificado para agricultura ecológica y sin turba, y no le importa pagar algo más por litro."
+    datos="Bolsa de 5 L|Compost, coco, guano y harina de cuerno|Sin turba|Certificado ecológico"
+    precio="€€€ / litro"
+    pros="Certificado para agricultura ecológica|Sin turba, 100 % materiales vegetales compostados|Nutrientes para 3-8 semanas según cultivo"
+    contras="Formato pequeño y el más caro por litro: para macetas grandes sale caro|Los nutrientes se agotan antes en plantas muy productivas|Retiene algo menos de agua: vigila el riego en julio"
+    boton="Ver COMPO BIO 5 L en Amazon" >}}
 
 ---
 
 ## Tabla resumen: comparativa rápida
 
-| Producto | Precio | €/L | Rating | Reviews | Composición clave | Mejor para | Ecológico |
-|---|---|---|---|---|---|---|---|
-| COMPO SANA Universal 10 L | 4,79 € | 0,48 | 4,6 ⭐ | 3.133 | Turba, perlita, fertilizante 8 sem. | Empezar, polivalente | ❌ |
-| Flower Huerto Urbano 20 L | 6,95 € | **0,35** | 4,5 ⭐ | 687 | Guano, coco, compost, perlita | Producción en maceta | Parcial |
-| GREENGOF Coco 5 Kg (70 L) | 18,99 € | 0,27 | **4,8 ⭐** | 22 | 100% coco orgánico | Mezclar, semilleros | ✅ |
-| COMPO BIO Huerto 5 L | 2,99 € | 0,60 | 4,6 ⭐ | 519 | Compost, guano, harina de cuerno. Sin turba | Ecológico certificado | ✅ certificado |
+| Producto | Precio por litro | Composición clave | Mejor para | Ecológico |
+|---|:---:|---|---|---|
+| COMPO SANA Universal 10 L | €€ | Turba, perlita, fertilizante 8 sem. | Empezar, polivalente | ❌ |
+| Flower Huerto Urbano 20 L | € | Guano, coco, compost, perlita | Producción en maceta | Parcial |
+| GREENGOF Coco 5 kg (70 L) | € | 100% coco orgánico | Mezclar, semilleros | ✅ |
+| COMPO BIO Huerto 5 L | €€€ | Compost, guano, harina de cuerno. Sin turba | Ecológico certificado | ✅ certificado |
 
-**Datos revisados en Amazon España el 4 de julio de 2026.** Los precios y la disponibilidad pueden cambiar.
+**Precio por litro orientativo:** € menos de 0,40 €/L, €€ entre 0,40 y 0,55 €/L, €€€ más de 0,55 €/L. Consulta el precio actual en Amazon.
 
 ---
 
@@ -255,14 +222,14 @@ Al compostador o al contenedor de residuos orgánicos (si tu municipio tiene rec
 
 ## Conclusión: cómo elegir según tu caso
 
-Esta comparativa se basa en datos públicos de Amazon (precio, composición declarada por el fabricante, rating y número de reviews visibles). **No he probado los productos en persona**, así que te recomiendo que compres una cantidad pequeña primero y valides tú mismo el resultado antes de hacer un pedido grande.
+Esta comparativa se basa en la composición declarada por el fabricante y en criterios de cultivo en maceta. **No he probado los productos en persona**, así que te recomiendo que compres una cantidad pequeña primero y valides tú mismo el resultado antes de hacer un pedido grande.
 
-Dicho esto, por los datos disponibles:
+Dicho esto, según lo que ofrece cada sustrato:
 
-- **Si quieres lo más vendido y barato por litro**, el **COMPO SANA Universal 10 L** (4,79 €, 4,6 ⭐, 3.133 reviews) es la apuesta segura. Lleva décadas en el mercado y tiene muchas opiniones visibles.
-- **Si cultivas hortícolas en maceta y buscas buena relación calidad-precio**, el **Flower Huerto Urbano 20 L** (6,95 €, 4,5 ⭐, 687 reviews) es el más barato por litro y está formulado específicamente para huerto.
-- **Si buscas ecológico certificado y sin turba**, el **COMPO BIO Huerto Urbano 5 L** (2,99 €, 4,6 ⭐, 519 reviews) es la única opción de las cuatro con certificación oficial para agricultura ecológica.
-- **Si quieres un complemento sostenible para mezclar o hacer semilleros**, el **GREENGOF Fibra de Coco 5 Kg** (18,99 €, 4,8 ⭐) rinde 70 L una vez hidratado y es 100% orgánico.
+- **Si quieres lo más sencillo y fácil de encontrar**, el **COMPO SANA Universal 10 L** es la apuesta segura. Lleva décadas en el mercado y lo encuentras en cualquier sitio.
+- **Si cultivas hortícolas en maceta y buscas buena relación calidad-precio**, el **Flower Huerto Urbano 20 L** es el más barato por litro de los sustratos completos y está formulado específicamente para huerto.
+- **Si buscas ecológico certificado y sin turba**, el **COMPO BIO Huerto Urbano 5 L** es la única opción de las cuatro con certificación oficial para agricultura ecológica.
+- **Si quieres un complemento sostenible para mezclar o hacer semilleros**, el **GREENGOF Fibra de Coco 5 Kg** rinde 70 L una vez hidratado y es 100% orgánico.
 
 Y si te animas con las mezclas caseras, más rentable aún. Un COMPO SANA + un bloque de GREENGOF coco + una bolsa de perlita te da para todo el año y sale más barato que comprar dos sustratos premium.
 

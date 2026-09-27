@@ -1,8 +1,9 @@
 ---
 title: "Mejor humus de lombriz y abonos orgánicos para huerto urbano 2026"
 date: 2026-08-03
+lastmod: 2026-09-27
 draft: false
-summary: "Comparativa de humus de lombriz y abonos orgánicos para huerto urbano según precio, formato, rating, reviews y uso realista en macetas."
+summary: "Comparativa de humus de lombriz y abonos orgánicos para huerto urbano según formato, tipo de abono, gama de precio y uso realista en macetas."
 description: "Comparativa de humus de lombriz y abonos orgánicos para huerto urbano: sólidos, guano y líquidos para tomates, fresas y macetas."
 categoria: ["reviews-productos"]
 cover:
@@ -44,24 +45,24 @@ Hay un momento muy típico en el huerto urbano: la planta está viva, tiene hoja
 
 En maceta, el sustrato se agota rápido. Cada riego arrastra nutrientes, cada cosecha se lleva minerales y cada planta consume lo que tiene a mano. Por eso conviene distinguir entre dos cosas que solemos mezclar: **humus de lombriz** y **abono orgánico**. El humus mejora el suelo; el abono empuja el crecimiento o la producción.
 
-En esta comparativa he analizado opciones disponibles en Amazon España el **3 de agosto de 2026**, priorizando productos con ficha concreta, envío Prime visible cuando aplica, rating razonable y formatos útiles para balcón o terraza. No los presento como probados por nosotros en esta tanda: el análisis se basa en datos públicos de Amazon, ficha de producto y criterios prácticos de cultivo en maceta.
+En esta comparativa he analizado opciones disponibles en Amazon España el **3 de agosto de 2026**, priorizando productos con ficha concreta y formatos útiles para balcón o terraza. No los presento como probados por nosotros en esta tanda: el análisis se basa en datos públicos de Amazon, ficha de producto y criterios prácticos de cultivo en maceta.
 
-> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en datos públicos de Amazon (precio, ficha, rating, reviews visibles y disponibilidad), **no en pruebas propias de estos productos concretos**. Los precios, ratings, Prime y stock pueden cambiar; revisa siempre la ficha actual antes de comprar.
+> 🔗 **Nota de transparencia**: Este artículo contiene enlaces de afiliado de Amazon y Leroy Merlin a través de Awin. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Las recomendaciones se basan en la ficha de producto y criterios prácticos de cultivo en maceta, **no en pruebas propias de estos productos concretos**. Precio y stock cambian a menudo: revisa siempre la ficha actual antes de comprar.
 
 ![Humus de lombriz oscuro con plantas de tomate, albahaca y fresas en una terraza urbana](/images/humus-lombriz-abonos-organicos-hero.webp)
 
 ## Comparativa rápida
 
-| Producto | Mejor para | Formato | Precio visto | Rating / reviews | Envío |
-|---|---|---:|---:|---:|---|
-| CULTIVERS Humus de Lombriz Ecológico | Varias macetas y renovación de sustrato | 40 L | 19,90 € | 4,6 / 807 | Sí |
-| COMPO Bio Huerto Urbano Humus Sólido | Balcón pequeño y marca conocida | 10 L | 11,29 € | 4,4 / 119 | Sí |
-| Vermiduero Humus de lombriz | Opción económica 10 L | 10 L | 7,50 € | 4,6 / 389 | Sí |
-| Flower Abono Orgánico Huerta | Mantenimiento general de hortalizas | 2 kg sólido | 10,69 € | 4,4 / 69 | Sí |
-| Flower Abono Orgánico Guano | Floración y fruto | 2 kg sólido | 10,39 € | 4,5 / 106 | Sí |
-| Flower Fertilizante Líquido Guano | Refuerzo rápido y cómodo | 1 L líquido | 6,79 € | 4,5 / 233 | Sí |
+| Producto | Mejor para | Formato | Precio |
+|---|---|---:|:---:|
+| CULTIVERS Humus de Lombriz Ecológico | Varias macetas y renovación de sustrato | 40 L | €€€ |
+| COMPO Bio Huerto Urbano Humus Sólido | Balcón pequeño y marca conocida | 10 L | €€ |
+| Vermiduero Humus de lombriz | Opción económica 10 L | 10 L | € |
+| Flower Abono Orgánico Huerta | Mantenimiento general de hortalizas | 2 kg sólido | €€ |
+| Flower Abono Orgánico Guano | Floración y fruto | 2 kg sólido | €€ |
+| Flower Fertilizante Líquido Guano | Refuerzo rápido y cómodo | 1 L líquido | € |
 
-**Datos visibles en Amazon España el 3 de agosto de 2026.** Úsalos como fotografía del momento, no como verdad eterna. Amazon es un pequeño clima propio: cambia cada dos días y no pregunta.
+**Precio orientativo:** € hasta 10 €, €€ entre 10 y 15 €, €€€ más de 15 €. Consulta el precio actual en Amazon: es un pequeño clima propio, cambia cada dos días y no pregunta.
 
 ## Humus de lombriz vs abono orgánico: no son lo mismo
 
@@ -86,32 +87,17 @@ Si estás preparando macetas desde cero, combina este artículo con la [comparat
 
 El saco de 40 litros de CULTIVERS es el formato que más sentido tiene si ya tienes un huerto urbano montado: tomates, pimientos, fresas, aromáticas y alguna jardinera de hoja. Sale mejor por litro que los formatos pequeños y permite renovar sustrato sin ir comprando bolsitas cada dos semanas.
 
-**Datos revisados en Amazon:**
-
-- Formato: 40 L
-- Precio visto: 19,90 €
-- Rating visible: 4,6 sobre 5
-- Reviews visibles: 807
-- Envío: Prime visible
-
-**Para quién lo elegiríamos**
-
-Para quien tiene 6-10 macetas o más, reutiliza sustrato y quiere mejorar la mezcla de forma constante. Es especialmente útil al preparar macetas grandes de [tomates cherry](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/), [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/) o fresas.
-
-**Pros**
-
-- Mejor formato para renovar muchas macetas.
-- Buen volumen de opiniones: 807 reviews visibles.
-- Producto específico de humus, no mezcla de sustrato con “algo de humus”.
-- Útil para mezclar, acolchar y recuperar sustratos usados.
-
-**Contras**
-
-- Ocupa espacio y pesa; no es cómodo para pisos sin trastero.
-- Si tienes pocas macetas, puedes tardar demasiado en gastarlo.
-- Como todo humus, no sustituye un abono rico en potasio para plena fructificación.
-
-> 🔍 **Nuestra recomendación principal**: <a href="https://www.amazon.es/dp/B09Q7VPJT3?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver CULTIVERS Humus de Lombriz 40 L en Amazon</a>
+{{< producto
+    nombre="CULTIVERS Humus de Lombriz Ecológico 40 L"
+    url="https://www.amazon.es/dp/B09Q7VPJT3?tag=tucultivo-21"
+    etiqueta="Mejor compra para varias macetas"
+    emoji="🪱"
+    resumen="Para quien tiene 6-10 macetas o más, reutiliza sustrato y quiere mejorar la mezcla de forma constante. Especialmente útil al preparar macetas grandes de [tomates cherry](/guias-cultivo/como-cultivar-tomates-cherry-maceta-terraza/) o [pimientos](/guias-cultivo/como-cultivar-pimientos-en-maceta/)."
+    datos="Saco de 40 L|Humus puro|Ecológico"
+    precio="€€€"
+    pros="El mejor formato para renovar muchas macetas|Sale más barato por litro que los formatos pequeños|Humus puro, no una mezcla de sustrato con “algo de humus”|Sirve para mezclar, acolchar y recuperar sustrato usado"
+    contras="Ocupa y pesa: incómodo en pisos sin trastero|Con pocas macetas tardarás mucho en gastarlo|No sustituye a un abono rico en potasio en plena fructificación"
+    boton="Ver CULTIVERS 40 L en Amazon" >}}
 
 ---
 
@@ -119,65 +105,35 @@ Para quien tiene 6-10 macetas o más, reutiliza sustrato y quiere mejorar la mez
 
 COMPO tiene una ventaja clara: es marca conocida, con presencia en jardinería y productos fáciles de encontrar. Este humus sólido de 10 litros encaja mejor si tienes un balcón pequeño, pocas macetas o quieres probar sin llenar media casa de sacos.
 
-**Datos revisados en Amazon:**
-
-- Formato: 10 L
-- Precio visto: 11,29 €
-- Rating visible: 4,4 sobre 5
-- Reviews visibles: 119
-- Envío: Prime visible
-
-**Para quién lo elegiríamos**
-
-Para principiantes con 3-5 macetas. También para quien ya compra sustratos COMPO y quiere mantener una línea de productos fácil de reponer.
-
-**Pros**
-
-- Tamaño manejable en casa.
-- Buena opción para empezar sin invertir mucho.
-- Marca reconocible y ficha clara.
-- Útil para fresas, aromáticas, lechugas y mantenimiento superficial.
-
-**Contras**
-
-- Sale más caro por litro que un saco grande.
-- No es el formato ideal si vas a renovar muchas macetas.
-- Para plantas muy productivas necesitarás algo más específico en floración.
-
-> 🔍 **Opción cómoda para balcón**: <a href="https://www.amazon.es/dp/B07NZXH822?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver COMPO Bio Humus Sólido 10 L en Amazon</a>
+{{< producto
+    nombre="COMPO Bio Huerto Urbano Humus Sólido 10 L"
+    url="https://www.amazon.es/dp/B07NZXH822?tag=tucultivo-21"
+    etiqueta="Cómodo para balcón pequeño"
+    emoji="🪴"
+    resumen="Para principiantes con 3-5 macetas, o para quien ya usa sustratos COMPO y quiere una línea de productos fácil de reponer."
+    datos="Bolsa de 10 L|Humus sólido|Marca COMPO"
+    precio="€€"
+    pros="Tamaño manejable en casa|Buena opción para empezar sin invertir mucho|Marca reconocible y ficha clara|Útil para fresas, aromáticas, lechugas y mantenimiento superficial"
+    contras="Sale más caro por litro que un saco grande|No es el formato ideal para renovar muchas macetas|Para plantas muy productivas necesitarás un abono de floración"
+    boton="Ver COMPO Bio Humus 10 L en Amazon" >}}
 
 ---
 
 ## 3. Vermiduero Humus de lombriz 10 L: el formato económico y directo
 
-Vermiduero es interesante por precio y opiniones: 10 litros, 7,50 € vistos en Amazon, 4,6 de rating y 389 reviews visibles. Si quieres humus sencillo, sin complicarte y sin comprar 40 litros, tiene sentido.
+Vermiduero es interesante por precio: 10 litros de humus a un coste de los más bajos que hemos visto. Si quieres humus sencillo, sin complicarte y sin comprar 40 litros, tiene sentido.
 
-**Datos revisados en Amazon:**
-
-- Formato: 10 L
-- Precio visto: 7,50 €
-- Rating visible: 4,6 sobre 5
-- Reviews visibles: 389
-- Envío: Prime visible
-
-**Para quién lo elegiríamos**
-
-Para quien busca una compra barata y funcional para mejorar el sustrato de macetas pequeñas o medianas. También para hacer una prueba antes de saltar a sacos grandes.
-
-**Pros**
-
-- Precio bajo para 10 L.
-- Buen rating y número de reviews.
-- Formato fácil de guardar.
-- Correcto para mezclar con sustrato usado.
-
-**Contras**
-
-- Menos “marca grande” que COMPO.
-- El envase pequeño se queda corto si preparas muchas macetas.
-- No es un fertilizante de choque.
-
-> 🔍 **Opción económica**: <a href="https://www.amazon.es/dp/B09S6HY7MR?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver Vermiduero Humus de Lombriz 10 L en Amazon</a>
+{{< producto
+    nombre="Vermiduero Humus de Lombriz 10 L"
+    url="https://www.amazon.es/dp/B09S6HY7MR?tag=tucultivo-21"
+    etiqueta="La opción económica"
+    emoji="💶"
+    resumen="Para quien busca una compra barata y funcional para mejorar el sustrato de macetas pequeñas o medianas, o probar antes de saltar a sacos grandes."
+    datos="Bolsa de 10 L|Humus de lombriz"
+    precio="€"
+    pros="El más barato de los humus de la comparativa|Formato fácil de guardar|Correcto para mezclar con sustrato usado"
+    contras="Marca menos conocida que COMPO|Se queda corto si preparas muchas macetas|No es un fertilizante de choque"
+    boton="Ver Vermiduero 10 L en Amazon" >}}
 
 ---
 
@@ -185,32 +141,17 @@ Para quien busca una compra barata y funcional para mejorar el sustrato de macet
 
 Este ya no es humus. Es un abono orgánico sólido pensado para huerta y jardín. En un huerto urbano lo usaríamos como mantenimiento de temporada, especialmente si las plantas ya están en marcha y el sustrato empieza a quedarse corto.
 
-**Datos revisados en Amazon:**
-
-- Formato: 2 kg sólido
-- Precio visto: 10,69 €
-- Rating visible: 4,4 sobre 5
-- Reviews visibles: 69
-- Envío: Prime visible
-
-**Para quién lo elegiríamos**
-
-Para quien quiere un abono “comodín” para hortalizas, jardineras y macetas productivas sin irse a formatos enormes. Puede complementar al humus cuando la planta ya pide alimento extra.
-
-**Pros**
-
-- Formato sólido fácil de dosificar.
-- Pensado para huerta, no solo plantas ornamentales.
-- Marca española conocida.
-- Buena opción para mantenimiento general.
-
-**Contras**
-
-- Menos reviews que otros candidatos.
-- Hay que respetar dosis: orgánico no significa “barra libre”.
-- No sustituye la mejora estructural del humus.
-
-> 🔍 **Abono orgánico general**: <a href="https://www.amazon.es/dp/B00L2IBNAU?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver Flower Abono Orgánico Huerta 2 kg en Amazon</a>
+{{< producto
+    nombre="Flower Abono Orgánico Huerta 2 kg"
+    url="https://www.amazon.es/dp/B00L2IBNAU?tag=tucultivo-21"
+    etiqueta="Abono comodín para hortalizas"
+    emoji="🥬"
+    resumen="Para quien quiere un abono de mantenimiento para hortalizas, jardineras y macetas productivas sin irse a formatos enormes. Complementa al humus cuando la planta ya pide alimento extra."
+    datos="2 kg|Abono orgánico sólido|Marca española"
+    precio="€€"
+    pros="Formato sólido fácil de dosificar|Pensado para huerta, no solo para ornamentales|Buena opción para mantenimiento general"
+    contras="Hay que respetar la dosis: orgánico no significa barra libre|No mejora la estructura del sustrato como el humus"
+    boton="Ver Flower Abono Huerta en Amazon" >}}
 
 ---
 
@@ -218,32 +159,17 @@ Para quien quiere un abono “comodín” para hortalizas, jardineras y macetas 
 
 El guano es más potente que el humus. No lo usaríamos como base de sustrato, sino como refuerzo cuando entran cultivos exigentes: tomate, pimiento, berenjena, fresa o calabacín. Bien usado, ayuda en floración y producción; mal usado, puede pasarse de intensidad.
 
-**Datos revisados en Amazon:**
-
-- Formato: 2 kg sólido
-- Precio visto: 10,39 €
-- Rating visible: 4,5 sobre 5
-- Reviews visibles: 106
-- Envío: Prime visible
-
-**Para quién lo elegiríamos**
-
-Para quien ya tiene plantas de fruto y quiere algo más orientado a producción que el humus. Si tus tomates echan mucha hoja pero poca flor, revisa también la guía sobre [caída de flores en tomate y pimiento](/cuidado-mantenimiento/por-que-se-caen-flores-tomate-pimiento-maceta/), porque no todo se arregla abonando.
-
-**Pros**
-
-- Más orientado a cultivos productivos.
-- Buen equilibrio entre precio, formato y rating.
-- Útil para floración/fruto.
-- Ocupa poco frente a sacos de humus.
-
-**Contras**
-
-- Más fácil pasarse que con humus.
-- No mejora tanto la estructura del sustrato.
-- No lo usaría en plantones recién trasplantados o plantas estresadas.
-
-> 🔍 **Para floración y fruto**: <a href="https://www.amazon.es/dp/B00L2IBMJC?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver Flower Abono Orgánico Guano 2 kg en Amazon</a>
+{{< producto
+    nombre="Flower Abono Orgánico Guano 2 kg"
+    url="https://www.amazon.es/dp/B00L2IBMJC?tag=tucultivo-21"
+    etiqueta="Mejor para flor y fruto"
+    emoji="🍅"
+    resumen="Para quien ya tiene plantas de fruto y quiere algo más orientado a producción que el humus. Si tus tomates echan mucha hoja y poca flor, revisa también la guía sobre [caída de flores](/cuidado-mantenimiento/por-que-se-caen-flores-tomate-pimiento-maceta/): no todo se arregla abonando."
+    datos="2 kg|Guano sólido"
+    precio="€€"
+    pros="Orientado a cultivos productivos: tomate, pimiento, fresa|Ayuda en floración y fruto|Ocupa poco frente a los sacos de humus"
+    contras="Es más fácil pasarse que con el humus|No mejora tanto la estructura del sustrato|No lo usaría en plantones recién trasplantados o estresados"
+    boton="Ver Flower Guano 2 kg en Amazon" >}}
 
 ---
 
@@ -251,32 +177,17 @@ Para quien ya tiene plantas de fruto y quiere algo más orientado a producción 
 
 El líquido tiene una ventaja: actúa y se dosifica rápido. No mejora el sustrato como el humus, pero sirve cuando quieres corregir una planta que va corta de alimento o mantener cultivos en maceta durante semanas de mucha demanda.
 
-**Datos revisados en Amazon:**
-
-- Formato: 1 L líquido
-- Precio visto: 6,79 €
-- Rating visible: 4,5 sobre 5
-- Reviews visibles: 233
-- Envío: Prime visible
-
-**Para quién lo elegiríamos**
-
-Para quien prefiere regar con fertilizante diluido cada cierto tiempo en lugar de incorporar sólidos. Va bien en balcones pequeños donde no quieres almacenar sacos ni manipular mucho sustrato.
-
-**Pros**
-
-- Muy cómodo para macetas.
-- Precio bajo y buen número de reviews.
-- Fácil de combinar con riego manual.
-- Útil para aromáticas y cultivos en fase activa.
-
-**Contras**
-
-- Requiere constancia: si dejas de aplicarlo, se acaba el efecto.
-- Más fácil sobredosificar si no lees bien la etiqueta.
-- No arregla un [sustrato compactado que no drena](/cuidado-mantenimiento/sustrato-compactado-maceta-no-drena-solucion/).
-
-> 🔍 **Refuerzo líquido cómodo**: <a href="https://www.amazon.es/dp/B00UCLALQU?tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow">Ver Flower Fertilizante Líquido Guano 1 L en Amazon</a>
+{{< producto
+    nombre="Flower Fertilizante Líquido Guano 1 L"
+    url="https://www.amazon.es/dp/B00UCLALQU?tag=tucultivo-21"
+    etiqueta="Refuerzo rápido y cómodo"
+    emoji="💧"
+    resumen="Para quien prefiere regar con fertilizante diluido cada cierto tiempo en lugar de incorporar sólidos. Va bien en balcones pequeños donde no quieres almacenar sacos."
+    datos="1 L|Líquido para diluir en el riego"
+    precio="€"
+    pros="Muy cómodo para macetas|Fácil de combinar con el riego manual|Útil en aromáticas y cultivos en fase activa"
+    contras="Requiere constancia: si dejas de aplicarlo, se acaba el efecto|Más fácil sobredosificar si no lees la etiqueta|No arregla un [sustrato compactado que no drena](/cuidado-mantenimiento/sustrato-compactado-maceta-no-drena-solucion/)"
+    boton="Ver Flower Guano líquido en Amazon" >}}
 
 ---
 
@@ -382,4 +293,4 @@ Sí, si tienes varias macetas o renuevas sustrato cada temporada. Para dos o tre
 
 ---
 
-*Este artículo se creó el 3 de agosto de 2026 con precios, ratings, reviews y señales de envío revisados en Amazon España. Los datos pueden cambiar; revisa siempre la ficha actual antes de comprar.*
+*Este artículo se creó el 3 de agosto de 2026 a partir de las fichas de producto de Amazon España. Precio y disponibilidad pueden cambiar: revisa siempre la ficha actual antes de comprar.*
