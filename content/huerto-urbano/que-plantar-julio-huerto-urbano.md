@@ -1,7 +1,7 @@
 ---
 title: "Qué plantar en julio en el huerto urbano: guía por zonas de España"
 date: 2026-05-27
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 draft: false
 summary: "Qué sembrar y plantar en julio en maceta según tu zona de España (norte, centro, Mediterráneo, sur y Canarias), qué no plantar con el calor y cómo proteger el huerto."
 categoria: ["huerto-urbano"]
@@ -242,6 +242,19 @@ Julio trae más plagas que cualquier otro mes. La combinación de calor y sequed
 
 Para un tratamiento detallado, consulta nuestra guía de [plagas comunes en el huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
 
+## Lo que te hace falta en julio 🛒
+
+En julio el equipo marca la diferencia. Esto es lo que más usamos este mes:
+
+- **Malla de sombreo**: <a href="https://www.amazon.es/s?k=malla+sombreo+50+huerto&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Malla de sombreo">malla de sombreo del 50 %</a>. Baja varios grados en las horas centrales y salva lechugas y semilleros.
+- **Acolchado**: <a href="https://www.amazon.es/s?k=corteza+pino+acolchado+macetas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Acolchado">corteza de pino o paja</a>. Una capa de 3-5 cm reduce mucho la evaporación.
+- **Programador de riego**: <a href="https://www.amazon.es/s?k=programador+riego+grifo&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Programador riego">programador de grifo</a>. Si vas a estar fuera, tienes kits completos en la [comparativa de riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/).
+- **Semillas de judía verde**: <a href="https://www.amazon.es/s?k=semillas+judia+verde+enana&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Semillas judía">judía verde enana</a>. De lo poco que se siembra directo en julio y sale casi siempre.
+
+Si te cuesta regar a diario, una jardinera con depósito te da margen de 3-5 días en lechugas y aromáticas: las tienes en la [comparativa de jardineras de autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/).
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
+
 ## Qué plantar en julio según tu zona 🗺️
 
 En julio la diferencia entre zonas es enorme. Mientras en A Coruña rondan los 23 °C, en Córdoba se pasan de 40 °C. Esto es lo que nos funciona en cada una; ajústalo a la orientación de tu balcón.
@@ -294,8 +307,8 @@ Plantar especies juntas puede mejorar la producción y reducir plagas:
 |---|---|---|
 | Tomate | Albahaca | Repele mosca blanca y mejora el sabor |
 | Calabacín | Judías | Las judías fijan nitrógeno en el suelo |
-| Pepino | Maíz | El maíz hace de tuto naturale para el pepino |
-| Berenjena | Albahaca | Repela pulgones y mejora la polinización |
+| Pepino | Maíz | El maíz hace de tutor natural para el pepino |
+| Berenjena | Albahaca | Repele pulgones y mejora la polinización |
 | Lechuga | Rábano | El rábano crece rápido y aprovecha el espacio |
 | Calabaza | Maíz + judías | La "tres hermanas" clásica de Mesoamérica |
 
@@ -314,7 +327,7 @@ Evita plantar juntas:
 5. **No hacer siembras escalonadas**: Si siembras todo el mismo día, cosechas todo el mismo día
 6. **Exceso de abono nitrogenado**: Mucho follaje verde, pocos frutos
 7. **No revisar las plagas a tiempo**: En julio se multiplican rápido; la prevención es clave
-8. **Olvadar el riego en vacaciones**: Un huerto sin riego en julio no sobrevive
+8. **Olvidar el riego en vacaciones**: Un huerto sin riego en julio no sobrevive
 
 ## Preguntas frecuentes
 

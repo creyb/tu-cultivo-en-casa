@@ -1,6 +1,7 @@
 ---
 title: "Cómo cultivar lechuga en maceta: guía fácil para cosechar hojas todo el año"
 date: 2026-07-21
+lastmod: 2026-09-27
 draft: false
 summary: "La lechuga es uno de los cultivos más fáciles para empezar un huerto urbano. Aprende qué variedad elegir, qué maceta usar, cómo regar y cómo cosechar hoja a hoja."
 description: "Guía completa para cultivar lechuga en maceta en balcón o terraza. Variedades, sustrato, riego, luz, siembra, cosecha y errores comunes para principiantes."
@@ -61,7 +62,7 @@ Buenas para otoño e invierno. Toleran mejor el frío y tardan más en espigar.
 La lechuga no necesita una maceta enorme. Tiene raíces superficiales comparada con tomate o pimiento.
 
 - **Profundidad mínima**: 15-20 cm.
-- **Mejor formato**: jardinera ancha, mesa de cultivo o maceta rectangular.
+- **Mejor formato**: jardinera ancha, [mesa de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) o maceta rectangular. Si te cuesta regar a diario, mira las [jardineras de autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/).
 - **Separación**: 15-20 cm entre plantas si quieres cogollos; 8-10 cm si cosechas hojas baby.
 
 El sustrato debe retener humedad pero drenar bien. Una mezcla sencilla:

@@ -38,7 +38,7 @@ Un huerto urbano es cualquier cultivo de alimentos en un espacio no agrícola: b
 
 **Lo que sí es un huerto urbano:**
 - Tres macetas de albahaca en la ventana de la cocina.
-- Una mesa de cultivo de 1 m² con ocho plantas de temporada.
+- Una [mesa de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) de 1 m² con ocho plantas de temporada.
 - Un balcón de 3 m² con tomate, pimiento y fresas.
 - Un patio interior con aromáticas perennes en macetas grandes.
 

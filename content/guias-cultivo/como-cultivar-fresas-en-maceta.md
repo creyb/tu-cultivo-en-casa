@@ -1,6 +1,7 @@
 ---
 title: "Cómo cultivar fresas en maceta: guía para balcón, terraza y jardineras"
 date: 2026-07-21
+lastmod: 2026-09-27
 draft: false
 summary: "Cultivar fresas en maceta es perfecto para balcones: ocupan poco, son perennes y producen mejor si controlas sol, riego y sustrato. Guía paso a paso."
 description: "Aprende a cultivar fresas en maceta en balcón o terraza. Variedades, maceta, sustrato, riego, sol, poda, estolones, plagas y cosecha de fresas urbanas."
@@ -56,7 +57,7 @@ Para huerto urbano, preferimos remontantes. No te llenan un bol enorme de golpe,
 La fresa tiene raíces relativamente superficiales, pero agradece espacio lateral.
 
 - **Maceta individual**: 20 cm de diámetro y profundidad por planta.
-- **Jardinera**: separa plantas 25-30 cm.
+- **Jardinera**: separa plantas 25-30 cm. Si riegas poco, una [jardinera de autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/) les va muy bien: el sustrato no pasa de seco a encharcado.
 - **Maceta colgante**: muy buena opción para balcones pequeños.
 - **Torre vertical**: funciona, pero exige más control de riego.
 

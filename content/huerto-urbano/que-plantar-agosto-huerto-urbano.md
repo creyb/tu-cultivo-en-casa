@@ -1,7 +1,7 @@
 ---
 title: "Qué plantar en agosto en el huerto urbano: guía por zonas de España"
 date: 2026-06-27
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 draft: false
 summary: "Qué sembrar en agosto en maceta según tu zona de España (norte, centro, Mediterráneo, sur y Canarias) para tener huerto en otoño e invierno, y cómo cuidar lo que está en producción."
 categoria: ["huerto-urbano"]
@@ -211,6 +211,19 @@ Agosto es el pico de plagas en el huerto urbano. Calor, sequedad y plantas estre
 - **Babosas y caracoles**: Más activas tras los riegos.
 
 Para una visión completa, consulta la guía de [5 plagas comunes del huerto urbano](/cuidado-mantenimiento/5-plagas-comunes-huerto-urbano-como-eliminarlas-sin-quimicos/).
+
+## Lo que te hace falta en agosto 🛒
+
+Agosto es el mes de preparar el otoño. Esto es lo que más usamos:
+
+- **Bandeja de semillero con tapa**: <a href="https://www.amazon.es/s?k=semillero+bandeja+con+tapa&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Bandeja semillero">semillero con tapa</a>. Para adelantar coles y lechugas en un rincón fresco mientras fuera hace 38 °C.
+- **Semillas de otoño**: <a href="https://www.amazon.es/s?k=semillas+col+lechuga+invierno+huerto&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Semillas otoño">coles, brócoli y lechuga de invierno</a>. Siembra poco y a menudo.
+- **Malla de sombreo**: <a href="https://www.amazon.es/s?k=malla+sombreo+50+huerto&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Malla de sombreo">malla de sombreo del 50 %</a>. Para los semilleros y las primeras siembras de hoja.
+- **Trampas amarillas**: <a href="https://www.amazon.es/s?k=trampas+amarillas+adhesivas+mosca+blanca&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Trampas amarillas">trampas cromáticas adhesivas</a>. La mosca blanca está en su pico este mes.
+
+Si vas a montar el huerto de otoño desde cero, una mesa de cultivo te deja sembrar hoja, raíces y coles en un solo sitio: tienes las opciones en la [comparativa de mesas de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/). Y para las vacaciones, repasa la [comparativa de riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/).
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
 
 ## Qué plantar en agosto según tu zona 🗺️
 

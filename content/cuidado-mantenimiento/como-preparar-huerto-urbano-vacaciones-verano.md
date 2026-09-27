@@ -1,6 +1,7 @@
 ---
 title: "Cómo preparar tu huerto urbano para las vacaciones de verano"
 date: 2026-06-03
+lastmod: 2026-09-27
 draft: false
 summary: "Guía práctica para dejar tu huerto urbano a punto antes de las vacaciones de verano. Sistemas de riego automático casero, protección frente al calor, checklist pre-viaje y qué hacer al volver."
 description: "Aprende a preparar tu huerto urbano para las vacaciones de verano: sistemas de riego casero paso a paso, malla de sombreo, acolchado y checklist completo. Vuelve a casa con las plantas vivas."
@@ -119,6 +120,8 @@ Consulta las [temperaturas previstas en la AEMET](https://www.aemet.es) la seman
 | Programador + goteo | 60-120 € | Ilimitada* | 1 tarde | Vacaciones largas, ausencia total |
 
 *Limitada por la presión del grifo y la duración de las pilas.
+
+Para escapadas cortas hay una cuarta opción que no necesita instalar nada: las jardineras con depósito de agua. Dan 3-5 días de margen a lechugas, fresas y aromáticas; las comparamos en la [comparativa de jardineras de autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/).
 
 ---
 

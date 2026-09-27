@@ -1,6 +1,7 @@
 ---
 title: "Qué plantar en junio en el huerto urbano: guía completa para España"
 date: 2026-05-09
+lastmod: 2026-09-27
 draft: false
 summary: "Descubre qué hortalizas, verduras y aromáticas puedes plantar en junio en tu huerto urbano. Calendario de siembra adaptado al clima de España con consejos prácticos."
 categoria: ["huerto-urbano"]
@@ -29,7 +30,7 @@ slug: "que-plantar-junio-huerto-urbano"
 
 Junio marca el arranque oficial del verano en España. Los días son largos, las temperaturas suben y el huerto urbano entra en una de sus fases más productivas. Pero también es un mes que exige planificación: no todos los cultivos aguantan el calor intenso, y elegir bien puede marcar la diferencia entre un huerto generoso y uno que sufre con la primera ola de calor.
 
-Si tienes macetas, jardineras o una [mesa de cultivo en tu terraza o balcón](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/), esta guía te ayudará a decidir qué sembrar en junio con criterio. Verás qué hortalizas funcionan mejor, cómo adaptarlas al calor y qué errores evitar.
+Si tienes [macetas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/), jardineras o una [mesa de cultivo en tu terraza o balcón](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/), esta guía te ayudará a decidir qué sembrar en junio con criterio. Verás qué hortalizas funcionan mejor, cómo adaptarlas al calor y qué errores evitar.
 
 ## Antes de sembrar: el equipo que más se nota en junio
 

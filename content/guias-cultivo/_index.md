@@ -30,7 +30,7 @@ Si nunca has plantado nada, o si los cactus se te mueren, esta sección es para 
 
 Empezamos a cultivar hace años pensando que hacía falta un huerto grande, herramientas profesionales y años de experiencia. La realidad: con tres macetas, un par de horas a la semana y algo de curiosidad, se pueden cosechar tomates más sabrosos que los del supermercado. Y no es una frase hecha: un tomate cherry madurado en la planta, recogido a las seis de la tarde, tiene una concentración de azúcar y aroma que el comercio simplemente no puede igualar.
 
-Estas guías están pensadas para el hortelano urbano que cultiva en maceta, jardinera o mesa de cultivo. No tenemos campo, ni tractor, ni horas infinitas. Pero tenemos un balcón o una terraza, ganas de comer mejor y la satisfacción de ver crecer algo con nuestras propias manos. Esa es la base de todo lo que vas a leer aquí.
+Estas guías están pensadas para el hortelano urbano que cultiva en maceta, jardinera o [mesa de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/). No tenemos campo, ni tractor, ni horas infinitas. Pero tenemos un balcón o una terraza, ganas de comer mejor y la satisfacción de ver crecer algo con nuestras propias manos. Esa es la base de todo lo que vas a leer aquí.
 
 ### Por qué cultivar tu propio huerto urbano
 

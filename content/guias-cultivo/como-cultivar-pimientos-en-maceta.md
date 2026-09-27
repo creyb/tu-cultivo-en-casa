@@ -1,6 +1,7 @@
 ---
 title: "Cómo cultivar pimientos en maceta: guía paso a paso para una cosecha espectacular"
 date: 2026-05-19
+lastmod: 2026-09-27
 draft: false
 summary: "Guía completa para cultivar pimientos en maceta en terraza o balcón. Variedades, sustrato, riego, abono y cosecha con consejos prácticos basados en experiencia real."
 description: "Aprende a cultivar pimientos en maceta paso a paso. Desde la elección de la variedad y la maceta hasta el riego, abono y cosecha. Guía para principiantes y cultivadores experimentados."
@@ -123,7 +124,7 @@ Depende de la temperatura y del tamaño de la maceta, pero como orientación gen
 
 - **En primavera (15-25°C)**: Cada 2-3 días
 - **En verano (30°C+)**: A diario o cada dos días
-- **Con maceta autorriego**: Rellena el depósito cuando se vacíe, normalmente cada 3-5 días
+- **Con [maceta autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/)**: Rellena el depósito cuando se vacíe, normalmente cada 3-5 días
 
 ### ¿Cómo saber si tu pimiento necesita agua?
 

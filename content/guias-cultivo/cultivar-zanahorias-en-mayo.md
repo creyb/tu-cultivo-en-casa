@@ -1,7 +1,7 @@
 ---
 title: "Cuándo sembrar zanahorias en España: calendario por zonas y guía en maceta"
 date: 2026-05-07
-lastmod: 2026-09-26
+lastmod: 2026-09-27
 draft: false
 summary: "Cuándo sembrar zanahorias en España según tu zona (norte, centro, Mediterráneo, sur y Canarias), con calendario mes a mes y la guía completa para cultivarlas en maceta."
 categoria: ["guias-cultivo"]
@@ -91,7 +91,7 @@ La zanahoria agradece un lugar con buena luz, pero no demasiado agresivo en las 
 - Algo de protección si el verano se adelanta
 - Una ubicación ventilada, pero no expuesta a secado extremo
 
-Si cultivas en terraza o balcón, una [mesa de cultivo o una jardinera profunda](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) funciona muy bien. Lo importante no es solo el espacio en superficie, sino la profundidad útil para la raíz.
+Si cultivas en terraza o balcón, una [mesa de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) o una [jardinera profunda](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) funciona muy bien. Lo importante no es solo el espacio en superficie, sino la profundidad útil para la raíz.
 
 ## Cómo preparar el sustrato
 

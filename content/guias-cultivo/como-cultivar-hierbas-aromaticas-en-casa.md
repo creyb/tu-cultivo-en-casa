@@ -1,6 +1,7 @@
 ---
 title: "Cómo cultivar hierbas aromáticas en casa: albahaca, perejil y cilantro"
 date: 2026-05-31
+lastmod: 2026-09-27
 draft: false
 summary: "Guía completa para cultivar albahaca, perejil y cilantro en maceta en casa. Sustrato, riego, recolección y trucos para tener hierbas frescas todo el año."
 description: "Aprende a cultivar hierbas aromáticas en casa paso a paso. Guía de albahaca, perejil y cilantro en maceta: desde la siembra hasta la cosecha con consejos prácticos."
@@ -82,6 +83,18 @@ Las macetas de terracota son ideales porque permiten que la tierra respire, pero
 Las tres hierbas necesitan al menos **4-6 horas de sol directo** al día ([consulta las horas de sol de tu zona en la AEMET](https://www.aemet.es)). Una ventana orientada al sur o este es perfecta. En terraza o balcón, busca un lugar que reciba sol de mañana y semisombra de la tarde (especialmente en verano).
 
 El cilantro es el más sensible al calor intenso: si la temperatura supera los 35°C, tiende a espigar (sacar tallo florífero). En verano, colócalo en un lugar con algo de sombra por la tarde.
+
+### Lo que te hace falta 🛒
+
+Con esto tienes para empezar con las tres hierbas:
+
+- **Semillas**: <a href="https://www.amazon.es/s?k=semillas+albahaca+perejil+cilantro&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Semillas aromáticas">albahaca, perejil y cilantro</a>. Un sobre de cada una da para varias siembras escalonadas.
+- **Macetas de barro**: <a href="https://www.amazon.es/s?k=maceta+barro+terracota+20+cm&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Maceta terracota">macetas de terracota de 20 cm</a>, con agujero de drenaje.
+- **Perlita**: <a href="https://www.amazon.es/s?k=perlita+sustrato+plantas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Perlita">perlita para sustrato</a>, para aligerar el sustrato universal.
+
+Si prefieres regar menos, las aromáticas van muy bien en una jardinera con depósito; las comparamos en la [comparativa de jardineras de autorriego](/reviews-productos/mejores-jardineras-autorriego-huerto-urbano-comparativa/). Y si tienes balcón estrecho y muchas hierbas, en la [comparativa de mesas de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) hay un modelo compacto pensado justo para eso.
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Asociaciones de cultivos en maceta: la guía completa para el huerto urbano"
 date: 2026-06-27
+lastmod: 2026-09-27
 draft: false
 summary: "Aprende a combinar hortalizas y aromáticas en la misma maceta para mejorar la producción, evitar plagas y aprovechar el espacio. Las 8 mejores asociaciones, las 5 que debes evitar y un plan de 3 macetas."
 categoria: ["huerto-urbano"]
@@ -211,7 +212,7 @@ Indirectamente sí. Al diversificar la maceta, reduces la humedad concentrada en
 
 ### ¿Funcionan las asociaciones en una mesa de cultivo?
 
-Sí, y de hecho es donde mejor funcionan. La mesa de cultivo es la versión "maceta grande" ideal para asociaciones. Si tienes espacio, considera una mesa de cultivo: en nuestra [comparativa de macetas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/) tienes opciones.
+Sí, y de hecho es donde mejor funcionan. La mesa de cultivo es la versión "maceta grande" ideal para asociaciones. Si tienes espacio, considera una mesa de cultivo: en nuestra [comparativa de mesas de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) tienes opciones para terraza y balcón.
 
 ## Conclusión
 

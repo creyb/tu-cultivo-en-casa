@@ -1,6 +1,7 @@
 ---
 title: "Cómo cultivar tomates cherry en maceta en tu terraza: Guía completa paso a paso para principiantes"
 date: 2026-05-07
+lastmod: 2026-09-27
 draft: false
 summary: "Aprende a cosechar tus propios tomates cherry en casa con nuestra guía paso a paso. Desde la elección de la maceta hasta el riego perfecto para una cosecha abundante."
 description: "Guía completa paso a paso para cultivar tomates cherry en maceta en tu terraza. Consejos de sustrato, riego, tutorado y cosecha para principiantes."
@@ -61,6 +62,19 @@ El tomate cherry es una planta trepadora por naturaleza. A medida que la planta 
 - **El atado:** Usa cordel de yute o bridas suaves. El objetivo es guiar la planta, no estrangularla.
 
 ![Planta de tomate cherry tutorizada en terraza](/images/tutor-tomate-cherry.webp)
+
+#### Lo que te hace falta para tus tomates cherry 🛒
+
+Esto es lo que usamos nosotros para cada tomatera:
+
+- **Maceta grande**: <a href="https://www.amazon.es/s?k=maceta+40+litros+huerto&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Maceta 40 L">maceta de 35-40 litros</a>. Por debajo de 30 L la planta sufre en julio. Tienes modelos analizados en la [comparativa de macetas](/reviews-productos/mejores-macetas-huerto-urbano-comparativa/).
+- **Tutor**: <a href="https://www.amazon.es/s?k=tutor+espiral+tomates&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Tutor tomate">tutor de espiral o caña</a> de 1,5-1,8 m. Los de espiral te ahorran atar la planta.
+- **Abono para floración**: <a href="https://www.amazon.es/s?k=abono+tomates+organico+potasio&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Abono tomates">abono orgánico para tomates</a>, rico en potasio, cada 15 días desde que salen las primeras flores.
+- **Jabón potásico**: <a href="https://www.amazon.es/s?k=jabon+potasico+plantas&tag=tucultivo-21" target="_blank" rel="noopener noreferrer nofollow" data-product="Jabón potásico">jabón potásico ecológico</a>, para la mosca blanca y el pulgón.
+
+Para el sustrato y el humus tienes la [comparativa de sustratos](/reviews-productos/mejor-sustrato-huerto-urbano-comparativa/) y la de [humus de lombriz](/reviews-productos/mejor-humus-lombriz-abonos-organicos-huerto-urbano/). Y si quieres poner dos o tres tomateras juntas, una mesa de cultivo profunda es más cómoda que tres macetas: en la [comparativa de mesas de cultivo](/reviews-productos/mejores-mesas-cultivo-huerto-urbano-comparativa/) te explicamos cuál aguanta tomates.
+
+*Enlaces de afiliado: te llevan a búsquedas de Amazon para que compares precio y opiniones actuales. Si compras a través de ellos, nos llevamos una pequeña comisión sin coste extra para ti.*
 
 ---
 
