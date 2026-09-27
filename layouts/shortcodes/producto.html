@@ -1,0 +1,50 @@
+{{- /* Tarjeta de producto para comparativas.
+   Uso:
+   {{< producto nombre="SimonRack 200 L" url="https://www.amazon.es/dp/...?tag=tucultivo-21"
+       etiqueta="Mejor para terraza" emoji="🪴"
+       resumen="Para quién la elegiríamos, en una o dos frases."
+       datos="120 × 60 × 85 cm|200 L|Metal galvanizado"
+       precio="€€€"
+       pros="Pro uno|Pro dos" contras="Contra uno|Contra dos"
+       boton="Ver en Amazon" >}}
+   - datos, pros y contras se separan con "|".
+   - precio: gama orientativa (€, €€, €€€), nunca un precio exacto (normas de Amazon Afiliados).
+   - boton y tienda son opcionales. Admite markdown en línea en resumen, pros y contras. */ -}}
+{{- $nombre := .Get "nombre" -}}
+{{- $url := .Get "url" -}}
+{{- $tienda := .Get "tienda" | default "Amazon" -}}
+{{- $boton := .Get "boton" | default (printf "Ver en %s" $tienda) -}}
+{{- $isAmazon := strings.Contains $url "amazon." -}}
+<div class="producto-card">
+  <div class="producto-card__head">
+    <div class="producto-card__emoji" aria-hidden="true">{{ .Get "emoji" | default "🌱" }}</div>
+    <div class="producto-card__intro">
+      {{- with .Get "etiqueta" }}<span class="producto-card__badge">{{ . }}</span>{{ end }}
+      <p class="producto-card__name">{{ $nombre }}</p>
+      {{- with .Get "resumen" }}<p class="producto-card__summary">{{ . | markdownify }}</p>{{ end }}
+      <div class="producto-card__specs">
+        {{- with .Get "datos" }}{{ range split . "|" }}<span class="producto-card__spec">{{ trim . " " }}</span>{{ end }}{{ end }}
+        {{- with .Get "precio" }}<span class="producto-card__spec producto-card__spec--price" title="Gama de precio orientativa">Precio: {{ . }}</span>{{ end }}
+      </div>
+    </div>
+  </div>
+  {{- if or (.Get "pros") (.Get "contras") }}
+  <div class="producto-card__proscons">
+    {{- with .Get "pros" }}
+    <div class="producto-card__col producto-card__col--pros">
+      <p class="producto-card__col-title">✅ Lo mejor</p>
+      <ul>{{ range split . "|" }}<li>{{ trim . " " | markdownify }}</li>{{ end }}</ul>
+    </div>
+    {{- end }}
+    {{- with .Get "contras" }}
+    <div class="producto-card__col producto-card__col--cons">
+      <p class="producto-card__col-title">⚠️ A tener en cuenta</p>
+      <ul>{{ range split . "|" }}<li>{{ trim . " " | markdownify }}</li>{{ end }}</ul>
+    </div>
+    {{- end }}
+  </div>
+  {{- end }}
+  <div class="producto-card__cta">
+    <a class="producto-card__button" href="{{ $url }}" target="_blank" rel="{{ if $isAmazon }}noopener noreferrer nofollow sponsored{{ else }}sponsored noopener noreferrer{{ end }}" data-product="{{ .Get "producto" | default $nombre }}">{{ $boton }} ↗</a>
+  </div>
+</div>
