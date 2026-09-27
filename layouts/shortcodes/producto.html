@@ -19,7 +19,7 @@
   <div class="producto-card__head">
     <div class="producto-card__emoji" aria-hidden="true">{{ .Get "emoji" | default "🌱" }}</div>
     <div class="producto-card__intro">
-      {{- with .Get "etiqueta" }}<span class="producto-card__badge">{{ . }}</span>{{ end }}
+      {{- with .Get "etiqueta" }}<span class="producto-card__badge"><svg class="producto-card__badge-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21h8"/><path d="M12 17v4"/><path d="M7 4h10"/><path d="M17 4v8a5 5 0 0 1-10 0V4"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></svg>{{ . }}</span>{{ end }}
       <p class="producto-card__name">{{ $nombre }}</p>
       {{- with .Get "resumen" }}<p class="producto-card__summary">{{ . | markdownify }}</p>{{ end }}
       <div class="producto-card__specs">
