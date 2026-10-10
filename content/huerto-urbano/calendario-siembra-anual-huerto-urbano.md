@@ -168,6 +168,8 @@ Mes de mantenimiento.
 - Compostar y renovar sustrato.
 - Planificar semilleros de febrero.
 
+Tienes el detalle por zonas en [qué plantar en diciembre](/huerto-urbano/que-plantar-diciembre-huerto-urbano/).
+
 La guía de [huerto urbano en invierno](/huerto-urbano/huerto-urbano-invierno-que-hacer-sembrar/) cubre esta fase.
 
 ## Cultivos comodín para casi todo el año
