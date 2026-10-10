@@ -55,6 +55,8 @@ Mes de planificación y cultivos resistentes.
 - Canónigos, rúcula y espinaca bajo protección.
 - Preparar semilleros interiores de cultivos tempranos si tienes luz.
 
+Tienes el detalle por zonas en [qué plantar en enero](/huerto-urbano/que-plantar-enero-huerto-urbano/).
+
 ## Febrero
 
 Empieza la preparación real.

@@ -6,10 +6,10 @@ summary: "Qué sembrar y plantar en diciembre en maceta según tu zona (norte, c
 description: "Qué plantar en diciembre en España: ajos, habas, guisantes, cebolla, canónigos, espinacas y lechugas de invierno en maceta, más germinados en casa. Calendario por zonas: Galicia, Madrid, Cataluña, Valencia, Andalucía y Canarias."
 categoria: ["huerto-urbano"]
 cover:
-    image: "/images/huerto-urbano-invierno-hero.webp"
+    image: "/images/que-plantar-diciembre-hero.webp"
     title: "Qué plantar en diciembre en el huerto urbano"
     alt: "Macetas de invierno con ajos, habas y hojas verdes en un balcón urbano"
-featured_image: "/images/huerto-urbano-invierno-hero.webp"
+featured_image: "/images/que-plantar-diciembre-hero.webp"
 tag: ["calendario-siembra", "diciembre", "invierno", "ajos", "habas", "cebolla", "heladas", "huerto-urbano"]
 slug: "que-plantar-diciembre-huerto-urbano"
 faq:
@@ -48,7 +48,7 @@ En diciembre no buscamos cosechas espectaculares. Buscamos tres cosas: **plantar
 > - **Qué NO plantar**: nada de verano. Y en el interior frío, ni habas ni guisantes hasta febrero.
 > - **Por zonas**: en el norte y el centro, diciembre es sobre todo de mantenimiento. En el Mediterráneo, el sur y Canarias, el huerto sigue a buen ritmo. [Ver la guía por zonas](#qué-plantar-en-diciembre-según-tu-zona-).
 
-![Macetas de invierno con ajos, habas y hojas verdes en un balcón urbano](/images/huerto-urbano-invierno-hero.webp)
+![Macetas de invierno con ajos, habas y hojas verdes en un balcón urbano](/images/que-plantar-diciembre-hero.webp)
 
 ## Qué cambia en diciembre ❄️
 
@@ -229,6 +229,8 @@ Si sembraste en septiembre y octubre, diciembre ya da alegrías:
 3. **Revisa herramientas y riego**: desmonta y guarda el goteo si no lo usas en invierno, y limpia los filtros.
 4. **Apunta qué funcionó este año**: qué variedad, qué maceta, qué rincón. Es oro para la planificación de enero.
 5. **Haz la lista de semillas** para los semilleros de febrero: tomate, pimiento, berenjena y aromáticas de verano.
+
+En enero empezamos con los primeros semilleros en casa: lo tienes en la guía de [qué plantar en enero](/huerto-urbano/que-plantar-enero-huerto-urbano/).
 
 ## Qué evitar en diciembre ⚠️
 
