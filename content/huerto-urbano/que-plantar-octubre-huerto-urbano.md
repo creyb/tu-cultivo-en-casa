@@ -1,10 +1,10 @@
 ---
-title: "Qué plantar en octubre en maceta: guía por zonas de España"
+title: "Qué plantar en octubre: Galicia, Asturias, Madrid, Cataluña y más"
 date: 2026-07-21
-lastmod: 2026-09-26
+lastmod: 2026-10-16
 draft: false
 summary: "Qué sembrar y trasplantar en octubre en maceta, con calendario por zonas (norte, centro, mediterráneo y sur), tabla de cosechas y qué hacer con lo que queda del verano."
-description: "Qué plantar en octubre en España: lechugas, espinacas, rúcula, rábanos, canónigos, ajos, habas, guisantes y fresas en maceta. Calendario por zonas: Galicia, Madrid, Cataluña, Andalucía."
+description: "Qué plantar en octubre en Galicia, Asturias, Cantabria, Madrid, Cataluña, Murcia, Andalucía y Canarias: qué sembrar en maceta en cada zona, tabla de cosechas y qué hacer con el huerto de verano."
 categoria: ["huerto-urbano"]
 cover:
     image: "/images/que-plantar-octubre-hero.webp"
@@ -49,6 +49,8 @@ Si [septiembre](/huerto-urbano/que-plantar-septiembre-huerto-urbano/) era el rei
 > - **Bulbos y plantones**: ajos y fresas.
 > - **Qué NO plantar**: tomate, pimiento, berenjena, calabacín, pepino y albahaca desde cero.
 > - **Por zonas**: en el norte y el centro, siembra en la primera quincena. En el mediterráneo y el sur, octubre entero es buen momento.
+
+📍 **Ir a tu zona:** [Galicia y norte](#zona-norte-galicia-asturias-cantabria-país-vasco-y-navarra) · [Madrid y centro](#zona-centro-madrid-castilla-y-león-castilla-la-mancha-aragón-y-la-rioja) · [Cataluña, Valencia y Murcia](#zona-mediterránea-cataluña-comunidad-valenciana-murcia-y-baleares) · [Andalucía y sur](#zona-sur-andalucía-y-extremadura) · [Canarias](#canarias)
 
 ![Macetas de otoño con lechugas, espinacas y acelgas en un balcón urbano](/images/que-plantar-octubre-hero.webp)
 

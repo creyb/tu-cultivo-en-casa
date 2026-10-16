@@ -48,6 +48,8 @@ En enero hacemos tres cosas: plantar lo poco que aguanta el frío, cuidar lo que
 > - **Qué NO plantar**: tomate, calabacín o pepino fuera. El tomate en semillero, mejor en febrero.
 > - **Por zonas**: en el norte y el centro, enero es de planificar y sembrar en casa. En el Mediterráneo, el sur y Canarias, el huerto exterior sigue activo. [Ver la guía por zonas](#qué-plantar-en-enero-según-tu-zona-).
 
+📍 **Ir a tu zona:** [Galicia y norte](#zona-norte-galicia-asturias-cantabria-país-vasco-y-navarra) · [Madrid y centro](#zona-centro-madrid-castilla-y-león-castilla-la-mancha-aragón-y-la-rioja) · [Cataluña, Valencia y Murcia](#zona-mediterránea-cataluña-comunidad-valenciana-murcia-y-baleares) · [Andalucía y sur](#zona-sur-andalucía-y-extremadura) · [Canarias](#canarias)
+
 ![Semilleros junto a una ventana en enero con una libreta para planificar el huerto y un balcón helado al fondo](/images/que-plantar-enero-hero.webp)
 
 ## Qué cambia en enero ❄️

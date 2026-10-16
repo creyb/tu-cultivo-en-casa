@@ -1,10 +1,10 @@
 ---
-title: "Qué plantar en noviembre en maceta: guía por zonas de España"
+title: "Qué plantar en noviembre: Galicia, Madrid, Valencia, Andalucía y más"
 date: 2026-07-21
-lastmod: 2026-10-10
+lastmod: 2026-10-16
 draft: false
 summary: "Qué sembrar y plantar en noviembre en maceta según tu zona (norte, centro, Mediterráneo, sur y Canarias): ajos, habas, guisantes, canónigos, espinacas y lechugas de invierno, con tabla de cosechas y protección contra el frío."
-description: "Qué plantar en noviembre en España: ajos, habas, guisantes, canónigos, espinacas, rúcula y lechugas de invierno en maceta. Calendario por zonas: Galicia, Madrid, Cataluña, Valencia, Murcia, Andalucía y Canarias."
+description: "Qué plantar en noviembre en Galicia, Asturias, Madrid, Cataluña, Valencia, Murcia, Andalucía y Canarias: ajos, habas, guisantes y hojas de invierno en maceta, zona por zona."
 categoria: ["huerto-urbano"]
 cover:
     image: "/images/que-plantar-noviembre-hero.webp"
@@ -47,6 +47,8 @@ La clave de noviembre es aceptar el ritmo del frío. No buscamos llenar la terra
 > - **Desde plantel**: lechugas de invierno, acelgas, cebolla tierna y, en el Mediterráneo y el sur, coles y brócoli.
 > - **Qué NO plantar**: tomate, pimiento, berenjena, calabacín, pepino y albahaca.
 > - **Por zonas**: en el norte y el centro, planta en la primera quincena y protege del frío. En el Mediterráneo, el sur y Canarias, noviembre entero es buen momento. [Ver la guía por zonas](#qué-plantar-en-noviembre-según-tu-zona-).
+
+📍 **Ir a tu zona:** [Galicia y norte](#zona-norte-galicia-asturias-cantabria-país-vasco-y-navarra) · [Madrid y centro](#zona-centro-madrid-castilla-y-león-castilla-la-mancha-aragón-y-la-rioja) · [Cataluña, Valencia y Murcia](#zona-mediterránea-cataluña-comunidad-valenciana-murcia-y-baleares) · [Andalucía y sur](#zona-sur-andalucía-y-extremadura) · [Canarias](#canarias)
 
 ![Huerto urbano de noviembre con cultivos de invierno en macetas](/images/que-plantar-noviembre-hero.webp)
 

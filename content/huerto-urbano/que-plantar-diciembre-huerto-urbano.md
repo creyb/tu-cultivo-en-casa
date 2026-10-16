@@ -48,6 +48,8 @@ En diciembre no buscamos cosechas espectaculares. Buscamos tres cosas: **plantar
 > - **Qué NO plantar**: nada de verano. Y en el interior frío, ni habas ni guisantes hasta febrero.
 > - **Por zonas**: en el norte y el centro, diciembre es sobre todo de mantenimiento. En el Mediterráneo, el sur y Canarias, el huerto sigue a buen ritmo. [Ver la guía por zonas](#qué-plantar-en-diciembre-según-tu-zona-).
 
+📍 **Ir a tu zona:** [Galicia y norte](#zona-norte-galicia-asturias-cantabria-país-vasco-y-navarra) · [Madrid y centro](#zona-centro-madrid-castilla-y-león-castilla-la-mancha-aragón-y-la-rioja) · [Cataluña, Valencia y Murcia](#zona-mediterránea-cataluña-comunidad-valenciana-murcia-y-baleares) · [Andalucía y sur](#zona-sur-andalucía-y-extremadura) · [Canarias](#canarias)
+
 ![Macetas de invierno con ajos, habas y hojas verdes en un balcón urbano](/images/que-plantar-diciembre-hero.webp)
 
 ## Qué cambia en diciembre ❄️
