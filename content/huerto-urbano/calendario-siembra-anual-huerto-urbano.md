@@ -66,6 +66,8 @@ Empieza la preparación real.
 - Revisar macetas, sustrato y semillas.
 - Comprar planteles si no quieres hacer semillero.
 
+Tienes el detalle por zonas en [qué plantar en febrero](/huerto-urbano/que-plantar-febrero-huerto-urbano/).
+
 ## Marzo
 
 Mes de transición fuerte.

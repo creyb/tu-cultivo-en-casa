@@ -1,10 +1,10 @@
 ---
-title: "Puntas de las hojas secas o marrones en plantas: 5 causas y solución"
+title: "¿Por qué se secan las puntas de las hojas? 5 causas y cómo arreglarlo"
 date: 2026-07-13
-lastmod: 2026-09-26
+lastmod: 2026-11-12
 draft: false
 summary: "¿Tus plantas tienen las puntas de las hojas secas, marrones o quemadas? Estas son las 5 causas más comunes, en interior y en maceta, y cómo solucionar cada una."
-description: "Por qué se secan las puntas de las hojas de las plantas (de interior, en maceta o en el huerto): sales del agua del grifo, aire seco, golpe de sol, falta de potasio y riego irregular. Diagnóstico rápido y solución."
+description: "¿Por qué se secan o se ponen marrones las puntas de las hojas? Las 5 causas más comunes (sales del agua del grifo, aire seco, golpe de sol, falta de potasio y riego irregular), cómo distinguirlas y si se pueden recuperar."
 categoria: ["cuidado-mantenimiento"]
 cover:
     image: "/images/puntas-hojas-secas-quemadas.webp"

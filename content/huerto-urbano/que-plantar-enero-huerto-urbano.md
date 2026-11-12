@@ -220,7 +220,7 @@ Esto es lo que más rentabilidad da en enero, y no cuesta nada:
 2. **Decide qué vas a cultivar** en primavera y verano según el espacio y el sol que tienes. Mejor pocas cosas bien hechas.
 3. **Planifica la rotación**: no repitas tomate o pimiento en el mismo sustrato que el año pasado sin renovarlo. Las [asociaciones de cultivos](/huerto-urbano/asociaciones-cultivos-maceta-huerto-urbano/) te ayudan a aprovechar mejor cada maceta.
 4. **Haz la lista de semillas** y cómpralas ahora, con calma, eligiendo variedades compactas para maceta.
-5. **Marca en el calendario** los semilleros de febrero y marzo. Tienes el año entero en el [calendario de siembra anual](/huerto-urbano/calendario-siembra-anual-huerto-urbano/).
+5. **Marca en el calendario** los semilleros de febrero y marzo. Los de febrero los tienes paso a paso en [qué plantar en febrero](/huerto-urbano/que-plantar-febrero-huerto-urbano/). Tienes el año entero en el [calendario de siembra anual](/huerto-urbano/calendario-siembra-anual-huerto-urbano/).
 6. **Piensa en el riego del verano**: si en julio sufriste con la regadera, enero es buen momento para elegir un [kit de riego por goteo](/reviews-productos/mejores-kits-riego-por-goteo-huerto-urbano-comparativa/) sin prisas.
 
 ## Qué evitar en enero ⚠️
