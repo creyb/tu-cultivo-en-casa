@@ -12,7 +12,7 @@ De conformidad con lo establecido en la Ley 34/2002, de 11 de julio, de Servicio
 - **Titular:** Carlos Enrique Reyes Bueno
 - **NIF/CIF:** 76428581H
 - **Dirección:** Calle Carlos Cano, 4, Vélez-Málaga 29700
-- **Correo electrónico:** creyesbueno+tucultivo@gmail.com
+- **Correo electrónico:** info@tucultivoencasa.com
 - **Sitio web:** https://tucultivoencasa.com
 
 ## 2. Objeto
