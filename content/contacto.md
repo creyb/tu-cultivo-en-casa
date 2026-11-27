@@ -14,7 +14,7 @@ Estamos aquí para leerte.
 
 Puedes escribirnos directamente a:
 
-✉️ **[tucultivoencasa@protonmail.com](mailto:tucultivoencasa@protonmail.com)**
+✉️ **[info@tucultivoencasa.com](mailto:info@tucultivoencasa.com)**
 
 Procuramos responder en un plazo de 24-48 horas laborables.
 
